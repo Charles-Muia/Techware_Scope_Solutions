@@ -1,0 +1,164 @@
+/*CSS for the navigation*/
+    #navigation {
+        top: 0;
+        z-index: 10;
+        position: sticky;
+}
+
+    .navbar-brand {
+        height: 50px;
+        margin-top: 20px;
+        padding-left: 50px;
+        margin-bottom: 50px;
+    }
+
+    .navbar-brand img {
+        border: 5px solid #ffffff;
+    }
+
+    /*.navbar-brand img:hover {*/
+    /*    border: 1px solid #eeee!important;*/
+    /*}*/
+
+    .navbar-nav li {
+        padding: 0 10px;
+        margin-right: 40px;
+        text-transform: uppercase;
+        font-weight: 650;
+    }
+
+    .navbar-nav li a {
+        float: right;
+        text-align: left;
+        padding: 0 30px;
+        font-family: "Century Gothic";
+        /*background-color: white;*/
+        border-radius: 5%;
+        /*border: 2px solid white;*/
+        width: fit-content;
+    }
+
+    #navigation ul li a:hover {
+        /*color: #ff0000!important;*/
+        color: #555555!important;
+        /*color: #f5f5f5f5!important;*/
+        background-color: #eee!important;
+    }
+
+    .navbar-nav {
+        /*background-color: white;*/
+        border-right: solid 5px red;
+    }
+
+    /*.navbar {*/
+    /*    background-color: red;*/
+    /*}*/
+
+    .navbar-toggler {
+        border: none!important;
+    }
+
+
+    .nav-link {
+        color: #000000!important;
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+            /*About section CSS*/
+
+    #about_site {
+        padding-top:55px;
+        padding-bottom: 55px;
+        color: #555555;
+    }
+
+    #about_site h2 {
+        color: black;
+        text-transform: uppercase;
+        font-family: "Century Gothic";
+        font-weight: 650;
+    }
+
+    #about_site h2::after {
+        content: '';
+        background: #0000ff;
+        display: block;
+        height: 4px;
+        margin-top: 10px;
+        margin-left: 35px;
+        width: 110px;
+    }
+
+    #about_site .btn {
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+
+    .about_stuff {
+        padding-top: 20px;
+    }
+
+    .para-bar p {
+        margin-bottom: 10px;
+        font-weight: 650;
+    }
+
+    .progress-bar {
+        border-radius: 20px;
+    }
+
+    .progress {
+        border-radius: 20px!important;
+        margin-bottom: 30px;
+    }
+
+    #arouse_photos img {
+        height: 370px;
+    }
+
+    @media only screen and (max-width: 800px) {
+        /*#arouse_photos img {*/
+        /*    height: 300px;*/
+        #arouse_photos {
+            display: none;
+        }
+        #about_site .btn {
+            margin-bottom: 55px;
+        }
+        .para-bar p {
+            margin-top: 35px;
+            padding: 5px
+        }
+    }
+
+    /*#arouse_photos .carousel-indicators {*/
+    /*    background-color: #ff0000!important;    }*/
+
+    #serv_sec {
+        background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.8)),url(Photos/Web.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        color: #efefef!important;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #serv_sec h2 {
+        color: ghostwhite;
+        /*text-align: center;*/
+        text-transform: uppercase;
+        font-family: "Century Gothic";
+        font-weight: 650;
+        padding-top: 10px;
+    }
+
+    #serv_sec h2::after {
+        content: '';
+        background: #0000ff;
+        display: block;
+        height: 4px;
+        margin-top: 10px;
+        margin-left: 7%;
+        width: 150px;
+    }

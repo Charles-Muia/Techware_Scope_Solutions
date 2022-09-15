@@ -215,8 +215,7 @@
     #our_clients {
         padding-top:55px;
         padding-bottom: 55px;
-        background-color: lightgrey;
-
+        /*background-color: lightgrey;*/
     }
 
     #our_clients h2 {
@@ -224,6 +223,7 @@
         text-transform: uppercase;
         font-family: "Century Gothic";
         font-weight: 650;
+        padding-bottom: 55px;
     }
 
     #our_clients h2::after {
@@ -234,4 +234,23 @@
         margin-top: 10px;
         margin-left: 7%;
         width: 113px;
+    }
+
+    .client-logo {
+        margin-top: 25px;
+
+    }
+    .client-logo .img-box {
+        /*margin-top: 25px;*/
+        display: block;
+        position: relative;
+    }
+
+    .client-logo .img-box img {
+        width: 250px;
+        /*border: 1px solid black;*/
+        margin-bottom: 15px;
+        margin-top: 15px;
+        text-align: center;
+        padding-bottom: 55px;
     }

@@ -211,10 +211,52 @@
             <section id="our_clients">
                 <div class="container">
                     <h2> Our Clients </h2>
-
+                        <div class="row">
+                            <div class="col-md-3 client-logo text-center">
+                                    <div class="img-box">
+                                        <img src="Photos/EQUITY-LOGO-BIASHARA-LEO.jpg" alt="" class="img-sec">
+                                    </div>
+                            </div>
+                            <div class="col-md-3 client-logo text-center">
+                                <div class="img-box">
+                                    <img src="Photos/Telkom.png" alt="" class="img-sec">
+                                </div>
+                            </div>
+                            <div class="col-md-3 client-logo text-center">
+                                <div class="img-box">
+                                    <img src="Photos/Co-op.jpg" alt="" class="img-sec">
+                                </div>
+                            </div>
+                            <div class="col-md-3 client-logo text-center">
+                                <div class="img-box">
+                                    <img src="Photos/Absa.png" alt="" class="img-sec">
+                                </div>
+                            </div>
+                            <div class="col-md-3 client-logo text-center">
+                                <div class="img-box">
+                                    <img src="Photos/SAF-MAIN-LOGO.jpg" alt="" class="img-sec">
+                                </div>
+                            </div>
+                            <div class="col-md-3 client-logo text-center">
+                                <div class="img-box">
+                                    <img src="Photos/IEBC.png" alt="" class="img-sec">
+                                </div>
+                            </div>
+                            <div class="col-md-3 client-logo text-center">
+                                <div class="img-box">
+                                    <img src="Photos/Jamii.png" alt="" class="img-sec">
+                                </div>
+                            </div>
+                            <div class="col-md-3 client-logo text-center">
+                                <div class="img-box">
+                                    <img src="Photos/Airtel.png" alt="" class="img-sec">
+                                </div>
+                            </div>
+                        </div>
                 </div>
-
+            <hr>
             </section>
+
 
 </body>
 </html>

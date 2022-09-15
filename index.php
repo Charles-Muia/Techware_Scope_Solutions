@@ -127,10 +127,94 @@
             <section id="serv_sec">
                         <div class="container">
                             <h2>Our Offering</h2>
-
+                                <div class="row_serv_sec">
+                                    <div class="col-md-3 text-center">
+                                        <div class="icon">
+                                            <i class="bi bi-laptop"></i>
+                                        </div>
+                                                <h3> ICT  Services <br> & <br> Support </h3>
+                                                    <p>Lorem ipsum dolor sit amet,
+                                                        <br> consectetur adipisicing elit. <br>
+                                                        Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
+                                                        est exercitationem labore maxime <br> molestias natus pariatur,
+                                                        .</p>
+                                                    <p>Lorem ipsum dolor sit amet,
+                                                        <br> consectetur adipisicing elit. <br>
+                                                        Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
+                                                        est exercitationem labore maxime <br> molestias natus pariatur,
+                                                        .</p>
+                                    </div>
+                                    <div class="col-md-3 text-center">
+                                        <div class="icon">
+                                            <i class="bi bi-hdd-network-fill"></i>
+                                        </div>
+                                                <h3> Networking <br> & <br> Telephony </h3>
+                                                <p>Lorem ipsum dolor sit amet,
+                                                    <br> consectetur adipisicing elit. <br>
+                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
+                                                    est exercitationem labore maxime <br> molestias natus pariatur,
+                                                    .</p>
+                                                <p>Lorem ipsum dolor sit amet,
+                                                    <br> consectetur adipisicing elit. <br>
+                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
+                                                    est exercitationem labore maxime <br> molestias natus pariatur,
+                                                    .</p>
+                                            </div>
+                                    <div class="col-md-3 text-center">
+                                        <div class="icon">
+                                            <i class="bi bi-printer-fill"></i>
+                                        </div>
+                                                <h3> Office Equipments <br> & <br> Stationery </h3>
+                                                <p>Lorem ipsum dolor sit amet,
+                                                    <br> consectetur adipisicing elit. <br>
+                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
+                                                    est exercitationem labore maxime <br> molestias natus pariatur,
+                                                    .</p>
+                                                <p>Lorem ipsum dolor sit amet,
+                                                    <br> consectetur adipisicing elit. <br>
+                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
+                                                    est exercitationem labore maxime <br> molestias natus pariatur,
+                                                    .</p>
+                                            </div>
+                                    <div class="col-md-3 text-center">
+                                        <div class="icon">
+                                            <i class="bi bi-code-slash"></i>
+                                        </div>
+                                                <h3> Web Design <br> & <br> Hosting </h3>
+                                                <p>Lorem ipsum dolor sit amet,
+                                                    <br> consectetur adipisicing elit. <br>
+                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
+                                                    est exercitationem labore maxime <br> molestias natus pariatur,
+                                                    .</p>
+                                                <p>Lorem ipsum dolor sit amet,
+                                                    <br> consectetur adipisicing elit. <br>
+                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
+                                                    est exercitationem labore maxime <br> molestias natus pariatur,
+                                                    .</p>
+                                    </div>
+<!--                                    <div class="col-md-4 text-center">-->
+<!--                                        <div class="icon">-->
+<!--                                            <i class="fa-solid fa-laptop-mobile"></i>-->
+<!--                                        </div>-->
+    <!--                                        <h3>fffffffffff</h3>-->
+    <!--                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.-->
+    <!--                                            Adipisci animi commodi corporis, cum dolor doloribus,-->
+    <!--                                            est exercitationem labore maxime molestias natus pariatur,-->
+    <!--                                            quam recusandae reiciendis rem repudiandae saepe unde velit.</p>-->
+    <!--                                    </div>-->
+                                </div>
                         </div>
             </section>
 
+                <!--Our Clients section-->
+
+            <section id="our_clients">
+                <div class="container">
+                    <h2> Our Clients </h2>
+
+                </div>
+
+            </section>
 
 </body>
 </html>

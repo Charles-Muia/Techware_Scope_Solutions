@@ -162,3 +162,76 @@
         margin-left: 7%;
         width: 150px;
     }
+
+    .row_serv_sec {
+        display: flex;
+        padding: 2px;
+        margin-top: 30px;
+        margin-bottom: 0px;
+
+    }
+
+    @media only screen and (max-width: 800px) {
+        .row_serv_sec {
+            display: inline;
+        }
+        #serv_sec h3 {
+            font-size: 30px;
+        }
+    }
+
+    #serv_sec h3 {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    #serv_sec p {
+        margin-top: 20px;
+        font-size: 17px;
+    }
+
+    .icon{
+        font-size: 50px;
+        margin: 20px auto;
+        padding: 5px;
+        height: 90px;
+        border-radius: 50%;
+        border: 1px solid #ffffff;
+        width: 90px;
+    }
+
+    .row_serv_sec .col-md-3:hover {
+        background: #007bff;
+        color: black ;
+        cursor: pointer;
+        transition: 0.8s;
+        z-index: 1;
+        animation-name: zoomIn;
+        animation-duration: 0.8s;
+    }
+
+/*--------------------------------------Our Clients section CSS-------------------------------------*/
+
+    #our_clients {
+        padding-top:55px;
+        padding-bottom: 55px;
+        background-color: lightgrey;
+
+    }
+
+    #our_clients h2 {
+        color: black;
+        text-transform: uppercase;
+        font-family: "Century Gothic";
+        font-weight: 650;
+    }
+
+    #our_clients h2::after {
+        content: '';
+        background: #0000ff;
+        display: block;
+        height: 4px;
+        margin-top: 10px;
+        margin-left: 7%;
+        width: 113px;
+    }

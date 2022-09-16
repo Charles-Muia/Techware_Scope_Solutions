@@ -322,19 +322,19 @@
                             </div>
                 </div>
 
-                <div class="foot_copy">
-                    <p>
-                        Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2022. <span>Tech</span>ware Scope Solutions. All Rights Reserved.
-                    </p>
-
-                </div>
-            </section>
-<!--           <div class="foot_copy">-->
-<!--               <p>-->
-<!--                   Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2022. <span>Tech</span>ware Scope Solutions. All Rights Reserved.-->
-<!--               </p>-->
+<!--                <div class="foot_copy">-->
+<!--                    <p>-->
+<!--                        Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2022. <span>Tech</span>ware Scope Solutions. All Rights Reserved.-->
+<!--                    </p>-->
 <!---->
-<!--           </div>-->
+<!--                </div>-->
+            </section>
+           <div class="foot_copy">
+               <p>
+                   Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2022. <span>Tech</span>ware Scope Solutions. All Rights Reserved.
+               </p>
+
+           </div>
        </footer>
 <!--            <div class="foot_copy">-->
 <!--                <p>-->

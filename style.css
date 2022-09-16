@@ -475,6 +475,7 @@
         @media (max-width: 1000px) {
             .foot_sec {
                 padding: 50px;
+                width: 100%;
             }
             .foot_sec .container {
                 flex-direction: column;
@@ -486,6 +487,7 @@
             .foot_copy p {
                 width: 100%;
                 padding: 8px 40px;
+                background-color: darkblue;
             }
             .foot_abt {
                 width: 100%;
@@ -494,7 +496,7 @@
                 /*margin-right: 50px;*/
                 width: fit-content;
             }
-            .foot_links, .foot_cont  {
+            .foot_links, .foot_cont, .lst_inks  {
                 width: 100%;
                 box-sizing: border-box;
             }

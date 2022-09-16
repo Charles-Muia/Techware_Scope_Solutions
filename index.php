@@ -305,7 +305,7 @@
                                         <br> Meru County </span>
                                     </li>
                                     <li>
-                                        <span> <i class="bi bi-telephone-fill"></i></i> </span>
+                                        <span> <i class="bi bi-telephone-fill"></i> </span>
                                         <p>
                                             <a href="+254 7333 7333"> +254 7333 7333 </a>
 <!--                                            <br>-->
@@ -315,12 +315,13 @@
                                     <li>
                                         <span> <i class="bi bi-envelope-fill"></i> </span>
                                         <p>
-                                            <a href=""> <u> info.techwarescopesolutions@gmail.com </u></a>
+                                            <a href="#"> info.techwarescopesolutions@gmail.com </a>
                                         </p>
                                     </li>
                                 </ul>
                             </div>
                 </div>
+
                 <div class="foot_copy">
                     <p>
                         Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2022. <span>Tech</span>ware Scope Solutions. All Rights Reserved.

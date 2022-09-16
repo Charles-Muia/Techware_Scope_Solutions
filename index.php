@@ -12,43 +12,46 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.2/css/fontawesome.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.2/css/fontawesome.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
     <title> Techware Scope Solutions | Home </title>
 </head>
 <body>
                 <!--Navigation -->
 
-<section id="navigation">
-    <nav class="navbar navbar-expand-lg bg-light">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#"><img src="Photos/Log_2.jpg" alt="" height="80"></a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">About Us</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Our Services</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">FAQs</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Contact Us</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-</section>
+            <section id="navigation">
+                <nav class="navbar navbar-expand-lg bg-light">
+                    <div class="container-fluid">
+                        <a class="navbar-brand" href="#"><img src="Photos/Log_2.jpg" alt="" height="80"></a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNav">
+                            <ul class="navbar-nav ms-auto">
+                                <li class="nav-item">
+                                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">About Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Our Services</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Blog</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">FAQs</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Contact Us</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </section>
 
                 <!--Carousel section for photos-->
 
@@ -256,6 +259,50 @@
             <hr>
             </section>
 
+
+       <footer>
+            <section class="foot_sec">
+                <div class="container">
+                    <div class="foot_abt">
+                        <h5> About Us </h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Amet aut delectus, ex, id inventore iste numquam perspiciatis
+                            <br><br>
+                            praesentium quaerat recusandae saepe sed velit voluptates!
+                            Aperiam architecto iure molestiae quo velit.</p>
+                                    <ul class="lst_inks">
+<!--                                        <li><a href="#"><i class="bi bi-facebook"></i></a></li>-->
+                                        <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+
+                                        <li><a href="#"><i class="bi bi-twitter"></i></a></li>
+                                        <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="bi bi-whatsapp"></i></i></a></li>
+                                        <li><a href="#"><i class="bi bi-youtube"></i></a></li>
+                                        <li><a href="#"><i class="bi bi-youtube"></i></a></li>
+                                    </ul>
+                    </div>
+                            <div class="foot_links">
+                                <h5> Quick Links </h5>
+                                <ul>
+                                    <li><a href="#"> Home </a></li>
+                                    <li><a href="#"> About Us </a></li>
+                                    <li><a href="#"> Our Services </a></li>
+                                    <li><a href="#"> Blog </a></li>
+                                    <li><a href="#"> FAQs </a></li>
+                                    <li><a href="#"> Contact Us </a></li>
+
+
+
+
+
+                                </ul>
+
+
+                            </div>
+                </div>
+
+            </section>
+       </footer>
 
 </body>
 </html>

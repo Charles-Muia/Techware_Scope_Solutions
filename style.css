@@ -270,3 +270,136 @@
         text-align: center;
         padding-bottom: 55px;
     }
+
+
+
+
+/*--------------------------------------Footer section CSS-------------------------------------*/
+
+    .foot_sec {
+        padding-top: 55px;
+        /*font-family: sans-serif Poppins;*/
+        margin: 0;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        background: #eeeeee;
+        position: relative;
+        flex-wrap: wrap;
+        font-family: "Century Gothic";
+
+    }
+
+    .foot_sec .container {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .foot_sec .container .foot_abt {
+        /*margin-right: 30px;*/
+    }
+
+    .foot_sec h5 {
+        position: relative;
+        color: blue;
+        font-weight: 600;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+        font-size: 17px;
+    }
+
+        .foot_sec h5:before {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            width: 45px;
+            height: 3px;
+            left: 32px;
+            background:#00008b;
+        }
+
+    .foot_sec p {
+        color: #000000;
+    }
+
+    .foot_abt {
+        font-size: 15px;
+        font-weight: 650;
+        width: 25%;
+    }
+
+    .lst_inks {
+        margin-top: 30px;
+        display: flex;
+    }
+
+    .lst_inks li {
+        list-style: none;
+    }
+
+    .lst_inks li a {
+        display: inline-block;
+        width: 25px;
+        height: 30px;
+        /*background: #222;*/
+        justify-content: center;
+        align-items: center;
+        margin-right: 15px;
+        border-radius: 5px;
+        /*border: 1px solid #00008b;*/
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .lst_inks li a:hover {
+        background-color: white;
+        border-radius: 50%;
+        color: darkblue;
+        height: 40px;
+        width: 40px;
+        font-size: 25px;
+    }
+
+    .foot_links h5 {
+            position: relative;
+            color: blue;
+            font-weight: 600;
+            text-transform: uppercase;
+            margin-bottom: 30px;
+            font-size: 17px;
+        }
+
+        .foot_links h5:before {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            width: 70px;
+            height: 3px;
+            left: 32px;
+            background:#00008b;
+        }
+
+        .foot_links {
+            position: relative;
+            width: 30%;
+        }
+
+        .foot_links ul li {
+            list-style: none;
+        }
+
+        .foot_links ul li a {
+            text-decoration: none;
+            margin-bottom: 15px;
+            display: inline-block;
+            color: black;
+            font-weight: 650;
+            text-transform: uppercase;
+        }
+
+        .foot_links ul li a:hover {
+            color: darkblue;
+        }

@@ -48,7 +48,6 @@
             </div>
         </div>
     </nav>
-    <hr>
 </section>
 
                 <!--Carousel section for photos-->

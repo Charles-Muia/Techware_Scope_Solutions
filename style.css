@@ -58,6 +58,14 @@
         border: none!important;
     }
 
+    /*#arouse_photos button {*/
+    /*    background-color: red;*/
+    /*}*/
+
+    #arousel_cators .active {
+        /*background-color: black!important;*/
+    }
+
 
     .nav-link {
         color: #000000!important;
@@ -114,7 +122,9 @@
     }
 
     #arouse_photos img {
-        height: 370px;
+        height: 380px;
+        /*padding-top: 20px;*/
+        /*margin-bottom: 20px;*/
     }
 
     @media only screen and (max-width: 800px) {
@@ -144,6 +154,11 @@
         padding-top: 50px;
         padding-bottom: 50px;
     }
+
+    /*#serv_sec .col-md-3 {*/
+    /*    border: solid 1px white;*/
+    /*}*/
+
     #serv_sec h2 {
         color: ghostwhite;
         /*text-align: center;*/
@@ -208,6 +223,7 @@
         z-index: 1;
         animation-name: zoomIn;
         animation-duration: 0.8s;
+        border: 1px solid white;
     }
 
 /*--------------------------------------Our Clients section CSS-------------------------------------*/
@@ -247,7 +263,7 @@
     }
 
     .client-logo .img-box img {
-        width: 250px;
+        width: 200px;
         /*border: 1px solid black;*/
         margin-bottom: 15px;
         margin-top: 15px;

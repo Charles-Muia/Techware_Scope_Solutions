@@ -268,12 +268,16 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                             Amet aut delectus, ex, id inventore iste numquam perspiciatis
                             <br><br>
+<!--                            praesentium quaerat recusandae saepe sed velit voluptates!-->
+<!--                            Aperiam architecto iure molestiae quo velit.-->
+<!--                            <br><br>-->
                             praesentium quaerat recusandae saepe sed velit voluptates!
-                            Aperiam architecto iure molestiae quo velit.</p>
+                            Aperiam architecto iure molestiae quo velit.
+                        </p>
+
                                     <ul class="lst_inks">
 <!--                                        <li><a href="#"><i class="bi bi-facebook"></i></a></li>-->
                                         <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-
                                         <li><a href="#"><i class="bi bi-twitter"></i></a></li>
                                         <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
                                         <li><a href="#"><i class="bi bi-whatsapp"></i></i></a></li>
@@ -290,20 +294,53 @@
                                     <li><a href="#"> Blog </a></li>
                                     <li><a href="#"> FAQs </a></li>
                                     <li><a href="#"> Contact Us </a></li>
-
-
-
-
-
                                 </ul>
-
-
+                            </div>
+                            <div class="foot_cont">
+                                <h5> Contact Us </h5>
+                                <ul class="find_info">
+                                    <li>
+                                        <span> <i class="bi bi-twitter"></i> </span>
+                                        <span> Ghana Street <br> Opposit Maguna Downtown (CBD)
+                                        <br> Meru County </span>
+                                    </li>
+                                    <li>
+                                        <span> <i class="bi bi-telephone-fill"></i></i> </span>
+                                        <p>
+                                            <a href="+254 7333 7333"> +254 7333 7333 </a>
+<!--                                            <br>-->
+<!--                                            <a href="+254 7333 7333"> +254 7333 7333 </a>-->
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <span> <i class="bi bi-envelope-fill"></i> </span>
+                                        <p>
+                                            <a href=""> <u> info.techwarescopesolutions@gmail.com </u></a>
+                                        </p>
+                                    </li>
+                                </ul>
                             </div>
                 </div>
+                <div class="foot_copy">
+                    <p>
+                        Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2022. <span>Tech</span>ware Scope Solutions. All Rights Reserved.
+                    </p>
 
+                </div>
             </section>
+<!--           <div class="foot_copy">-->
+<!--               <p>-->
+<!--                   Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2022. <span>Tech</span>ware Scope Solutions. All Rights Reserved.-->
+<!--               </p>-->
+<!---->
+<!--           </div>-->
        </footer>
-
+<!--            <div class="foot_copy">-->
+<!--                <p>-->
+<!--                    Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2022. <span>Tech</span>ware Scope Solutions. All Rights Reserved.-->
+<!--                </p>-->
+<!---->
+<!--            </div>-->
 </body>
 </html>
 

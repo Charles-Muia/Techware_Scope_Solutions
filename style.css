@@ -40,7 +40,7 @@
 
     #navigation ul li a:hover {
         /*color: #ff0000!important;*/
-        color: #555555!important;
+        color: #00008b!important;
         /*color: #f5f5f5f5!important;*/
         background-color: #eee!important;
 
@@ -326,6 +326,10 @@
         color: #000000;
     }
 
+    .foot_sec p span {
+        color: red;
+    }
+
     .foot_abt {
         font-size: 15px;
         font-weight: 650;
@@ -335,6 +339,7 @@
     .lst_inks {
         margin-top: 30px;
         display: flex;
+        padding-bottom: 30px;
     }
 
     .lst_inks li {

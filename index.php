@@ -265,14 +265,14 @@
                 <div class="container">
                     <div class="foot_abt">
                         <h5> About Us </h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                            Amet aut delectus, ex, id inventore iste numquam perspiciatis
+                        <p> <span id="rd">Tech</span>ware Scope Solutions offers ICT, office equipment, stationery supply & digital consultancy services
+                            delivered by a highly skilled team with expertise in
                             <br><br>
 <!--                            praesentium quaerat recusandae saepe sed velit voluptates!-->
 <!--                            Aperiam architecto iure molestiae quo velit.-->
 <!--                            <br><br>-->
-                            praesentium quaerat recusandae saepe sed velit voluptates!
-                            Aperiam architecto iure molestiae quo velit.
+                            IT, social media (digital communication), information security, networking, technical support, web design and hosting.
+<!--                            Our business is supporting yours.-->
                         </p>
 
                                     <ul class="lst_inks">
@@ -300,8 +300,8 @@
                                 <h5> Contact Us </h5>
                                 <ul class="find_info">
                                     <li>
-                                        <span> <i class="bi bi-twitter"></i> </span>
-                                        <span> Ghana Street <br> Opposit Maguna Downtown (CBD)
+                                        <span> <i class="bi bi-geo-alt-fill"></i> </span>
+                                        <span> Ghana Street <br> Opposite Maguna Downtown (CBD)
                                         <br> Meru County </span>
                                     </li>
                                     <li>

@@ -259,8 +259,63 @@
             <hr>
             </section>
 
+                <!--Our Clients Testimonials section-->
 
-       <footer>
+            <section id="client_vibe">
+                <div class="container">
+                    <h2> what our clients say </h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            A autem doloribus earum eius eligendi est ex
+                            facere illo magni minima minus mollitia quibusdam quisquam quo repellendus,
+                            sapiente sequi temporibus velit.</p>
+
+                            <div class="row">
+                                <div class="col-md-4 text-center">
+                                    <div class="pro">
+                                                <img src="Photos/JFK.jpg" alt="" class="pro_pic"> <br>
+                                                <blockquote>
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                                    A autem doloribus earum eius eligendi est ex
+                                                    facere illo magni minima minus mollitia quibusdam quisquam quo repellendus,
+                                                    sapiente sequi temporibus velit.
+                                                </blockquote>
+                                                    <h5> Mr. John Doe <br> <span> Director Life Savers Club </span></h5>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 text-center">
+                                    <div class="pro">
+                                        <img src="Photos/Telkom.png" alt="" class="pro_pic"> <br>
+                                        <blockquote>
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                            A autem doloribus earum eius eligendi est ex
+                                            facere illo magni minima minus mollitia quibusdam quisquam quo repellendus,
+                                            sapiente sequi temporibus velit.
+                                        </blockquote>
+                                        <h5> Mr. John Doe <br> <span> Director Life Savers Club </span></h5>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-4 text-center">
+                                    <div class="pro">
+                                        <img src="Photos/Absa.png" alt="" class="pro_pic"> <br>
+                                        <blockquote>
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                            A autem doloribus earum eius eligendi est ex
+                                            facere illo magni minima minus mollitia quibusdam quisquam quo repellendus,
+                                            sapiente sequi temporibus velit.
+                                        </blockquote>
+                                        <h5> Mr. John Doe <br> <span> Director Life Savers Club </span></h5>
+                                    </div>
+                                </div>
+                            </div>
+                </div>
+
+
+
+            </section>
+
+
+                <footer>
             <section class="foot_sec">
                 <div class="container">
                     <div class="foot_abt">
@@ -296,6 +351,7 @@
                                     <li><a href="#"> Contact Us </a></li>
                                 </ul>
                             </div>
+
                             <div class="foot_cont">
                                 <h5> Contact Us </h5>
                                 <ul class="find_info">
@@ -314,9 +370,9 @@
                                     </li>
                                     <li>
                                         <span> <i class="bi bi-envelope-fill"></i> </span>
-                                        <p>
+
                                             <a href="#"> info.techwarescopesolutions@gmail.com </a>
-                                        </p>
+
                                     </li>
                                 </ul>
                             </div>

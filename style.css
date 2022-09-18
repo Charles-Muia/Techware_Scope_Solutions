@@ -272,6 +272,89 @@
         padding-bottom: 55px;
     }
 
+/*--------------------------------------Client Testimonials section CSS-------------------------------------*/
+
+
+    #client_vibe {
+        padding-bottom: 55px;
+    }
+
+    #client_vibe .row {
+        margin-top: 35px;
+    }
+
+    #client_vibe .col-md-4 {
+        margin: 40px auto;
+    }
+
+    .pro {
+        padding: 30px 10px 20px;
+        /*background-color: lightgrey;*/
+        border: 1px solid white;
+        border-radius: 5%;
+        background: #eeeeee;
+    }
+
+        .pro:hover {
+            box-shadow: 0 0 15px 5px rgba(0,0,1,0.2);
+            cursor: pointer;
+            transition: 0.5s;
+        }
+
+
+    blockquote {
+        /*background-color: lightgray;*/
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    blockquote::before {
+        content: "\201C";
+        font-size: 50px;
+        color: darkblue;
+        position: relative;
+        line-height: 20px;
+        bottom: -15px;
+        right: 5px;
+    }
+
+    blockquote::after {
+        content: "\201D";
+        font-size: 50px;
+        color: darkblue;
+        position: relative;
+        line-height: 20px;
+        bottom: -15px;
+        left: 5px;
+    }
+
+    .pro_pic {
+        width:150px;
+        height: 150px;
+        border-radius: 50%;
+        margin-bottom: 20px;
+    }
+
+    .pro img {
+        border: 10px solid whitesmoke;
+        position: relative;
+        /*left: calc(50% - 60px);*/
+        text-align: center;
+        /*left: calc(50% - 80px);*/
+    }
+
+        .pro h5 {
+            margin-top: 10px;
+            color: darkblue;
+            font-size: 12px;
+        }
+
+        #client_vibe span {
+            font-size: 13px;
+            color: black;
+
+        }
+
 
 
 
@@ -280,7 +363,7 @@
     .foot_sec {
         padding-top: 55px;
         /*font-family: sans-serif Poppins;*/
-        margin: 0;
+        margin: 0 auto;
         box-sizing: border-box;
         display: flex;
         justify-content: space-between;
@@ -296,7 +379,7 @@
         justify-content: space-between;
         flex-wrap: wrap;
         flex-direction: row;
-        margin-right: 20px;
+        padding-right: 5px;
     }
 
     .foot_sec .container .foot_abt {
@@ -344,7 +427,6 @@
 
     .lst_inks li {
         list-style: none;
-
     }
 
     .lst_inks li a {
@@ -500,10 +582,23 @@
             .lst_inks li {
                 /*margin-right: 50px;*/
                 width: fit-content;
+                margin-right: 0;
+                padding-top: 15px;
             }
+
+            .lst_inks {
+                /*margin-right: 50px;*/
+                width: fit-content;
+                display: block;
+
+            }
+
             .foot_links, .foot_cont, .lst_inks  {
                 width: 100%;
                 box-sizing: border-box;
+                margin-bottom: 25px;
             }
         }
+
+
 

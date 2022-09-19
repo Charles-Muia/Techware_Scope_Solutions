@@ -263,11 +263,11 @@
 
             <section id="client_vibe">
                 <div class="container">
-                    <h2> what our clients say </h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                            A autem doloribus earum eius eligendi est ex
-                            facere illo magni minima minus mollitia quibusdam quisquam quo repellendus,
-                            sapiente sequi temporibus velit.</p>
+                    <h2> our clients say </h2>
+                        <p> We value our client's feedback. <br> Their testimony of the services
+                            we've offered to them is a way of informing other potential clients how they've
+                            benefited through their confidence in us.
+                            <br> Here are sampled statements. </p>
 
                             <div class="row">
                                 <div class="col-md-4 text-center">
@@ -363,16 +363,15 @@
                                     <li>
                                         <span> <i class="bi bi-telephone-fill"></i> </span>
                                         <p>
-                                            <a href="+254 7333 7333"> +254 7333 7333 </a>
-<!--                                            <br>-->
-<!--                                            <a href="+254 7333 7333"> +254 7333 7333 </a>-->
+                                            <a href="+254 7333 7333"> +254 724 563 163 </a> <br>
+                                            <a href="+254 7333 7333"> +254 784 563 163 </a>
                                         </p>
                                     </li>
                                     <li>
                                         <span> <i class="bi bi-envelope-fill"></i> </span>
-
-                                            <a href="#"> info.techwarescopesolutions@gmail.com </a>
-
+                                        <p>
+                                            <a href="info.techwarescopesolutions@gmail.com"> info.techwarescopesolutions@gmail.com </a>
+                                        </p>
                                     </li>
                                 </ul>
                             </div>

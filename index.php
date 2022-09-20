@@ -124,7 +124,7 @@
                         </div>
             </section>
 
-                <!--Services section-->
+                <!--Our offering section-->
 
             <section id="serv_sec">
                         <div class="container">
@@ -206,6 +206,17 @@
     <!--                                    </div>-->
                                 </div>
                         </div>
+            </section>
+
+                <!--Our Services section-->
+
+            <section class="our_services">
+                 <div id="services">
+                     <div class="container">
+
+                     </div>
+                 </div>
+
             </section>
 
                 <!--Our Clients section-->

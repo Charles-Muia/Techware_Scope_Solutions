@@ -227,6 +227,52 @@
         border: 1px solid white;
     }
 
+/*--------------------------------------Our Services section CSS-------------------------------------*/
+
+    #our_services {
+       padding-top: 55px;
+       padding-bottom: 55px;
+    }
+
+    #services h2 {
+        color: black;
+        text-transform: uppercase;
+        font-family: "Century Gothic";
+        font-weight: 650;
+        padding-top: 10px;
+    }
+
+    #services h2::after {
+        content: '';
+        background: #0000ff;
+        display: block;
+        height: 4px;
+        margin-top: 10px;
+        margin-left: 7%;
+        width: 165px;
+    }
+
+    .our_services_list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        grid-gap: 40px;
+        margin-top: 55px;
+    }
+
+    .our_services_list  div{
+        padding: 5px;
+        border-right: 10px;
+        text-align: center;
+        background: #262626;
+        color: white;
+        font-size: 17px;
+    }
+
+    .our_services_list i {
+        font-size: 50px;
+        margin-bottom: 25px;
+    }
+
 /*--------------------------------------Our Clients section CSS-------------------------------------*/
 
     #our_clients {

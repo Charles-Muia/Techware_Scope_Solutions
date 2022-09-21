@@ -3,7 +3,7 @@
         top: 0;
         z-index: 10;
         position: sticky;
-    }
+}
 
     .navbar-brand {
         height: 50px;
@@ -218,6 +218,7 @@
 
     .icon:hover{
         border: 1px solid darkblue;
+
     }
 
     .row_serv_sec .col-md-3:hover {
@@ -265,7 +266,6 @@
         grid-gap: 40px;
         margin-top: 55px;
     }
-
 
     .our_services_list div {
         padding: 5px;
@@ -326,11 +326,59 @@
         transform: translateY(-10px);
     }
 
+/*--------------------------------------Our Portfolio section CSS-------------------------------------*/
+
+    #port_sec {
+        padding-bottom: 55px;
+    }
+
+    #port_sec h2 {
+        color: black;
+        text-transform: uppercase;
+        font-family: "Century Gothic";
+        font-weight: 650;
+        padding-top: 5px;
+    }
+
+    #port_sec h2::after {
+        content: '';
+        background: #0000ff;
+        display: block;
+        height: 4px;
+        margin-top: 10px;
+        margin-left: 7%;
+        width: 165px;
+    }
+
+    .port_list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-gap: 40px;
+        margin-top: 55px;
+    }
+
+    .port_inner {
+        border-radius: 10px;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .port_inner img {
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+        display: block;
+
+    }
+
+
+
+
 
 /*--------------------------------------Our Clients section CSS-------------------------------------*/
 
     #our_clients {
-        padding-top:55px;
+        padding-top: 10px;
         padding-bottom: 55px;
         /*background-color: lightgrey;*/
     }
@@ -340,7 +388,7 @@
         text-transform: uppercase;
         font-family: "Century Gothic";
         font-weight: 650;
-        padding-bottom: 55px;
+        padding-bottom: 35px;
     }
 
     #our_clients h2::after {
@@ -369,7 +417,7 @@
         margin-bottom: 15px;
         margin-top: 15px;
         text-align: center;
-        padding-bottom: 55px;
+        padding-bottom: 50px;
     }
 
 /*--------------------------------------Client Testimonials section CSS-------------------------------------*/
@@ -463,7 +511,7 @@
             text-transform: uppercase;
             font-family: "Century Gothic";
             font-weight: 650;
-            padding-top: 10px;
+            /*padding-top: 10px;*/
         }
 
         #client_vibe h2::after {
@@ -473,7 +521,7 @@
             height: 4px;
             margin-top: 10px;
             margin-left: 7%;
-            width: 170px;
+            width: 180px;
             margin-bottom: 30px;
         }
 
@@ -553,26 +601,27 @@
 
     .lst_inks li a {
         display: inline-block;
-        width: 25px;
-        height: 30px;
-        /*background: #222;*/
+        width: 35px;
+        height: 35px;
+        background: white;
         justify-content: center;
         align-items: center;
         margin-right: 15px;
-        border-radius: 5px;
-        /*border: 1px solid #00008b;*/
+        border-radius: 50px;
+        border: 1px solid white;
         font-size: 20px;
         text-align: center;
-        color: blue;
+        color: darkblue;
     }
 
     .lst_inks li a:hover {
-        background-color: white;
-        border-radius: 50%;
-        color: darkblue;
-        height: 40px;
-        width: 40px;
-        font-size: 25px;
+        /*background-color: white;*/
+        /*border-radius: 10px;*/
+        /*border: 1px solid;*/
+        color: blue;
+        /*height: 20px;*/
+        /*width: 20px;*/
+        /*font-size: 25px;*/
     }
 
     .foot_links h5 {

@@ -3,7 +3,7 @@
         top: 0;
         z-index: 10;
         position: sticky;
-}
+    }
 
     .navbar-brand {
         height: 50px;
@@ -216,6 +216,10 @@
         width: 90px;
     }
 
+    .icon:hover{
+        border: 1px solid darkblue;
+    }
+
     .row_serv_sec .col-md-3:hover {
         background: #007bff;
         color: black ;
@@ -224,7 +228,10 @@
         z-index: 1;
         animation-name: zoomIn;
         animation-duration: 0.8s;
-        border: 1px solid white;
+        border: 1px solid darkblue;
+        transform: translateY(-10px);
+        border-radius: 10px;
+
     }
 
 /*--------------------------------------Our Services section CSS-------------------------------------*/
@@ -259,19 +266,66 @@
         margin-top: 55px;
     }
 
-    .our_services_list  div{
+
+    .our_services_list div {
         padding: 5px;
-        border-right: 10px;
+        border-radius: 5px;
         text-align: center;
         background: #262626;
         color: white;
         font-size: 17px;
+        transition: background 0.5s, transform 0.5s;
     }
 
-    .our_services_list i {
+    .our_services_list div i {
         font-size: 50px;
-        margin-bottom: 25px;
+        text-align: center;
+        margin: 20px auto;
+        padding: 5px 15px 5px 15px;
+        height: 90px;
+        border-radius: 50%;
+        border: 1px solid #ffffff;
+        width: 90px;
     }
+
+    .our_services_list div i:hover {
+        border: 1px solid darkblue;
+    }
+
+    .our_services_list div a {
+        text-decoration: none;
+        list-style: none;
+        display: inline-block;
+        margin-top: 10px;
+        padding-bottom: 25px;
+    }
+
+    .our_services_list div a:hover {
+        color: white;
+    }
+
+    .our_services_list div p {
+        margin-top: 25px;
+        margin-bottom: 35px;
+    }
+
+    .our_services_list div h3 {
+        margin-top: 5px;
+        padding-bottom: 10px;
+    }
+
+    .our_services_list div:hover {
+        background: #007bff;
+        color: black ;
+        cursor: pointer;
+        transition: 0.8s;
+        z-index: 1;
+        animation-name: zoomIn;
+        animation-duration: 0.8s;
+        border: 1px solid white;
+        transform: translateY(-10px);
+    }
+
 
 /*--------------------------------------Our Clients section CSS-------------------------------------*/
 

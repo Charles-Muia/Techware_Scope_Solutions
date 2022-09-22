@@ -378,9 +378,10 @@
     }
 
     hr {
-        padding-bottom: 35px;
+        padding-bottom: 10px;
         padding-top: 0;
         background-color: darkblue;
+        border: 1px solid black;
     }
 
     #our_clients h2 {
@@ -389,6 +390,7 @@
         font-family: "Century Gothic";
         font-weight: 650;
         padding-bottom: 35px;
+        padding-top: 40px;
     }
 
     #our_clients h2::after {
@@ -511,7 +513,8 @@
             text-transform: uppercase;
             font-family: "Century Gothic";
             font-weight: 650;
-            /*padding-top: 10px;*/
+            /*padding-bottom: 35px;*/
+            padding-top: 40px;
         }
 
         #client_vibe h2::after {

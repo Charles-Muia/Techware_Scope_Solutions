@@ -468,10 +468,15 @@
                                             <a href="info.techwarescopesolutions@gmail.com"> info.techwarescopesolutions@gmail.com </a>
                                         </p>
                                     </li>
+                                    <li>
+                                        <span><i class="bi bi-clock-fill"></i></span>
+                                        <p>
+                                            <a href="Mon - Sat 8:00 AM - 5:00PM"> Mon - Sat 8:00 AM - 5:00PM <br> Closed: Sun & Public / Bank Holidays </a>
+                                        </p>
+                                    </li>
                                 </ul>
                             </div>
                 </div>
-
 <!--                <div class="foot_copy">-->
 <!--                    <p>-->
 <!--                        Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2022. <span>Tech</span>ware Scope Solutions. All Rights Reserved.-->

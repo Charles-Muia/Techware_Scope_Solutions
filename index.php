@@ -261,12 +261,36 @@
                         <div class="port_list">
                             <div class="port_inner">
                                 <img src="Photos/Social_Media3.jpg" alt="">
+                                    <div class="port_layer">
+                                        <h3> Test </h3>
+                                            <p> Lorem ipsum dolor sit amet,
+                                                consectetur adipisicing elit.
+                                                ulpa debitis distinctio
+                                                culpa debitis distinctio </p>
+                                            <a href=""><i class="bi bi-link-45deg"></i></i></a>
+                                    </div>
                             </div>
                             <div class="port_inner">
                                 <img src="Photos/Analytics_2.jpg" alt="">
+                                    <div class="port_layer">
+                                        <h3> Test </h3>
+                                            <p> Lorem ipsum dolor sit amet,
+                                                consectetur adipisicing elit.
+                                                ulpa debitis distinctio
+                                                culpa debitis distinctio </p>
+                                            <a href=""><i class="bi bi-link-45deg"></i></i></a>
+                                </div>
                             </div>
                             <div class="port_inner">
                                 <img src="Photos/Social_Media4.jpg" alt="">
+                                    <div class="port_layer">
+                                        <h3> Test </h3>
+                                            <p> Lorem ipsum dolor sit amet,
+                                                consectetur adipisicing elit.
+                                                ulpa debitis distinctio
+                                                culpa debitis distinctio </p>
+                                            <a href=""><i class="bi bi-link-45deg"></i></i></a>
+                                </div>
                             </div>
                         </div>
 

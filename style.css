@@ -329,7 +329,7 @@
 /*--------------------------------------Our Portfolio section CSS-------------------------------------*/
 
     #port_sec {
-        padding-bottom: 5px;
+        padding-bottom: 55px;
     }
 
     #port_sec h2 {
@@ -365,9 +365,48 @@
 
     .port_inner img {
         width: 100%;
-        height: 90%;
+        height: 500px;
         border-radius: 10px;
         display: block;
+    }
+
+    .port_layer {
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(rgba(0,0,0,0.9), #00008b);
+        border-radius: 12px;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+        padding: 0 40px;
+    }
+
+    .port_layer h3 {
+        margin-bottom: 40px;
+        color: whitesmoke;
+    }
+
+    .port_layer p {
+        color: white;
+        margin-bottom: 30px;
+    }
+
+    .port_layer i {
+        color: red;
+        border-radius: 50%;
+        background: white;
+        width: 40px;
+        height: 25px;
+        margin: 0 25px;
+        padding: 5px 10px;
+        text-align: center;
+        font-size: 30px;
     }
 
 /*--------------------------------------Our Clients section CSS-------------------------------------*/

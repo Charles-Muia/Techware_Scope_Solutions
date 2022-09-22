@@ -268,7 +268,6 @@
                             <div class="port_inner">
                                 <img src="Photos/Social_Media4.jpg" alt="">
                             </div>
-
                         </div>
 
 
@@ -277,6 +276,7 @@
 
             </div>
 
+   <hr>
 
 
                 <!--Our Clients section-->
@@ -327,8 +327,8 @@
                             </div>
                         </div>
                 </div>
-            <hr>
             </section>
+          <hr>
 
                 <!--Our Clients Testimonials section-->
 

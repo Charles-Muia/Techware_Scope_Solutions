@@ -132,7 +132,7 @@
                                 <div class="row_serv_sec">
                                     <div class="col-md-3 text-center">
                                         <div class="icon">
-                                            <i class="bi bi-laptop"></i>
+                                            <i class="bi bi-tools"></i>
                                         </div>
                                                 <h3> ICT  Services <br> & <br> Support </h3>
                                                     <p>Lorem ipsum dolor sit amet,

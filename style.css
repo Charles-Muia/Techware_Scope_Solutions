@@ -329,7 +329,7 @@
 /*--------------------------------------Our Portfolio section CSS-------------------------------------*/
 
     #port_sec {
-        padding-bottom: 55px;
+        padding-bottom: 50px;
     }
 
     #port_sec h2 {
@@ -368,7 +368,6 @@
         height: 100%;
         border-radius: 10px;
         display: block;
-
     }
 
 
@@ -417,7 +416,7 @@
         margin-bottom: 15px;
         margin-top: 15px;
         text-align: center;
-        padding-bottom: 50px;
+        padding-bottom: 35px;
     }
 
 /*--------------------------------------Client Testimonials section CSS-------------------------------------*/
@@ -437,6 +436,7 @@
 
     #client_vibe .container p {
         padding-top: 15px;
+        font-size: 16px;
     }
 
     .pro {
@@ -524,8 +524,6 @@
             width: 180px;
             margin-bottom: 30px;
         }
-
-
 
 
 /*--------------------------------------Footer section CSS-------------------------------------*/

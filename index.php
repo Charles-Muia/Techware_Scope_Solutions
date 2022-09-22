@@ -262,7 +262,7 @@
                             <div class="port_inner">
                                 <img src="Photos/Social_Media3.jpg" alt="">
                                     <div class="port_layer">
-                                        <h3> Test </h3>
+                                        <h3> Social Media  </h3>
                                             <p> Lorem ipsum dolor sit amet,
                                                 consectetur adipisicing elit.
                                                 ulpa debitis distinctio
@@ -273,7 +273,7 @@
                             <div class="port_inner">
                                 <img src="Photos/Analytics_2.jpg" alt="">
                                     <div class="port_layer">
-                                        <h3> Test </h3>
+                                        <h3> SEO </h3>
                                             <p> Lorem ipsum dolor sit amet,
                                                 consectetur adipisicing elit.
                                                 ulpa debitis distinctio
@@ -284,7 +284,7 @@
                             <div class="port_inner">
                                 <img src="Photos/Social_Media4.jpg" alt="">
                                     <div class="port_layer">
-                                        <h3> Test </h3>
+                                        <h3> Bulk SMS </h3>
                                             <p> Lorem ipsum dolor sit amet,
                                                 consectetur adipisicing elit.
                                                 ulpa debitis distinctio
@@ -463,7 +463,7 @@
                                         </p>
                                     </li>
                                     <li>
-                                        <span> <i class="bi bi-envelope-fill"></i> </span>
+                                        <span> <i class="bi bi-send-fill"></i> </span>
                                         <p>
                                             <a href="info.techwarescopesolutions@gmail.com"> info.techwarescopesolutions@gmail.com </a>
                                         </p>

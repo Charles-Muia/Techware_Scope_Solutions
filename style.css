@@ -529,8 +529,23 @@
         margin-top: 55px;
     }
 
+    #FAQs_sec h2 {
+        color: white;
+        text-transform: uppercase;
+        font-family: "Century Gothic";
+        font-weight: 650;
+        padding-top: 5px;
+    }
 
-
+    #FAQs_sec h2::after {
+        content: '';
+        background: #0000ff;
+        display: block;
+        height: 4px;
+        margin-top: 10px;
+        margin-left: 2%;
+        width: 60px;
+    }
 
 
 /*--------------------------------------Our Clients section CSS-------------------------------------*/

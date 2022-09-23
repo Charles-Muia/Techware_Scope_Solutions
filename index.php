@@ -356,7 +356,8 @@
 <!----------------------------------------Our FAQs section CSS--------------------------------------->
 
                 <section id="FAQs_sec">
-
+                    <div class="container">
+                        <h2> FAQs </h2>
                 </section>
 
                 <!--Our Clients section-->

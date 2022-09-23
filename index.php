@@ -298,13 +298,13 @@
    <hr>
 
 
-                <!--Our Team section-->
+<!----------------------------------------Our Team section CSS--------------------------------------->
 
-            <section class="our_team">
+                <section class="our_team">
 
             </section>
 
-                <!--Our Blog section-->
+<!---------------------------------------Our Blog section CSS---------------------------------------->
 
             <section id="our_blog">
                 <div class="container">
@@ -352,6 +352,12 @@
             </section>
 
 
+
+<!----------------------------------------Our FAQs section CSS--------------------------------------->
+
+                <section id="FAQs_sec">
+
+                </section>
 
                 <!--Our Clients section-->
 
@@ -454,9 +460,6 @@
                                 </div>
                             </div>
                 </div>
-
-
-
             </section>
 
 

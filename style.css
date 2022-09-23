@@ -146,6 +146,9 @@
     /*#arouse_photos .carousel-indicators {*/
     /*    background-color: #ff0000!important;    }*/
 
+/*--------------------------------------Our Offering section CSS-------------------------------------*/
+
+
     #serv_sec {
         background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.8)),url(Photos/Web.jpg);
         background-size: cover;
@@ -512,10 +515,29 @@
         color: darkblue;
     }
 
+
+/*--------------------------------------Our FAQs section CSS-------------------------------------*/
+
+    #FAQs_sec {
+        background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(Photos/faq-banner.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        color: #efefef!important;
+        padding-top: 55px;
+        padding-bottom: 55px;
+        margin-top: 55px;
+    }
+
+
+
+
+
 /*--------------------------------------Our Clients section CSS-------------------------------------*/
 
     #our_clients {
         padding-bottom: 1px;
+        margin-top: 20px;
         /*background-color: lightgrey;*/
     }
 

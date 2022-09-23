@@ -424,6 +424,94 @@
         height: 100%;
     }
 
+/*--------------------------------------Our Blog section CSS-------------------------------------*/
+
+    #our_blog {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+
+    #our_blog .col-md-4:hover{
+        transform: translateY(-10px);
+        transition: 0.8s;
+        cursor: pointer;
+    }
+
+    #our_blog h2 {
+        color: black;
+        text-transform: uppercase;
+        font-family: "Century Gothic";
+        font-weight: 650;
+        padding-top: 5px;
+    }
+
+    #our_blog h2::after {
+        content: '';
+        background: #0000ff;
+        display: block;
+        height: 4px;
+        margin-top: 10px;
+        margin-left: 7%;
+        width: 82px;
+    }
+
+    #our_blog .blog_data {
+        margin-top: 20px;
+    }
+
+    #our_blog img {
+        width: 320px;
+        margin-bottom: 30px;
+        margin-left: 5px;
+        border-radius: 5px;
+    }
+
+    @media (max-width: 1000px) {
+        #our_blog img {
+            width: 100%;
+            margin-left: 0px;
+            border-radius: 10px;
+        }
+    }
+
+    #our_blog h5 {
+        margin-bottom: 20px;
+        font-size: 17px;
+    }
+
+    #our_blog h5 a {
+        list-style: none;
+        text-decoration: none;
+        color: black;
+    }
+
+    #our_blog h5 a:hover {
+        color: blue;
+    }
+
+
+    #our_blog .blog_text {
+        margin-bottom: 25px;
+    }
+
+    #our_blog .blog_data {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+
+    #our_blog .uno_blog {
+        box-shadow: 0px 0px 20px 1px;
+        padding: 10px;
+        margin-top: 40px;
+        border-radius: 10px;
+    }
+
+    #our_blog span {
+        float: right;
+        font-size: 13px;
+        color: darkblue;
+    }
+
 /*--------------------------------------Our Clients section CSS-------------------------------------*/
 
     #our_clients {

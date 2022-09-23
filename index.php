@@ -293,14 +293,64 @@
                                 </div>
                             </div>
                         </div>
+                </div>
+            </div>
+   <hr>
 
 
+                <!--Our Team section-->
+
+            <section class="our_team">
+
+            </section>
+
+                <!--Our Blog section-->
+
+            <section id="our_blog">
+                <div class="container">
+                    <h2> Our Blog </h2>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="uno_blog">
+                                    <p class="blog_data"> By Admin <span> September 23, 2022</span></p>
+                                    <img src="Photos/Windows11.png" alt="">
+                                    <h5><a href="#"> Windows 11 Major Update Release</a></h5>
+                                        <p class="blog_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                            A, consequuntur error et nostrum quis repellendus tempora.
+                                            Asperiores corporis enim excepturi illo iure libero mollitia,
+                                            officia saepe similique voluptatem? Laboriosam, nisi! </p>
+                                        <p><a href="" class="btn btn-primary">Read More ->>></a></p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="uno_blog">
+                                    <p class="blog_data"> By Admin <span> September 23, 2022</span></p>
+                                    <img src="Photos/Windows11.png" alt="">
+                                    <h5><a href="#"> Windows 11 Major Update Release</a></h5>
+                                    <p class="blog_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                        A, consequuntur error et nostrum quis repellendus tempora.
+                                        Asperiores corporis enim excepturi illo iure libero mollitia,
+                                        officia saepe similique voluptatem? Laboriosam, nisi! </p>
+                                    <p><a href="" class="btn btn-primary">Read More ->>></a></p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="uno_blog">
+                                    <p class="blog_data"> By Admin <span> September 23, 2022</span></p>
+                                    <img src="Photos/Windows11.png" alt="">
+                                    <h5><a href="#"> Windows 11 Major Update Release</a></h5>
+                                    <p class="blog_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                        A, consequuntur error et nostrum quis repellendus tempora.
+                                        Asperiores corporis enim excepturi illo iure libero mollitia,
+                                        officia saepe similique voluptatem? Laboriosam, nisi! </p>
+                                    <p><a href="" class="btn btn-primary">Read More ->>></a></p>
+                                </div>
+                            </div>
+                        </div>
                 </div>
 
+            </section>
 
-            </div>
-
-   <hr>
 
 
                 <!--Our Clients section-->

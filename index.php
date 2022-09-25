@@ -314,23 +314,30 @@
                                 <div class="uno_blog">
                                     <p class="blog_data"> By Admin <span> September 23, 2022</span></p>
                                     <img src="Photos/Windows11.png" alt="">
-                                    <h5><a href="#"> Windows 11 Major Update Release</a></h5>
-                                        <p class="blog_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                            A, consequuntur error et nostrum quis repellendus tempora.
-                                            Asperiores corporis enim excepturi illo iure libero mollitia,
-                                            officia saepe similique voluptatem? Laboriosam, nisi! </p>
+                                    <h5><a href="#"> Windows 11 2022 Update Now Available </a></h5>
+                                        <p class="blog_text">
+                                            The Windows 11 2022 Update, the latest version of Windows 11
+                                            also known as <b> Windows 11, version 22H2 </b> is now available.
+                                            The measured and phased rollout in 190+ countries will offer
+                                            the update via Microsoft's well-established update systems and processes (Windows Update).
+                                            Users ready to install the update can go to the Windows Update settings (Settings > Windows Update) and selecting Check for updates.
+                                        </p>
                                         <p><a href="" class="btn btn-primary">Read More ->>></a></p>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="uno_blog">
                                     <p class="blog_data"> By Admin <span> September 23, 2022</span></p>
-                                    <img src="Photos/Windows11.png" alt="">
-                                    <h5><a href="#"> Windows 11 Major Update Release</a></h5>
-                                    <p class="blog_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                        A, consequuntur error et nostrum quis repellendus tempora.
-                                        Asperiores corporis enim excepturi illo iure libero mollitia,
-                                        officia saepe similique voluptatem? Laboriosam, nisi! </p>
+                                    <img src="Photos/best-4k-projector.jpg" alt="">
+                                    <h5><a href="#"> Epson Announces 6 New Projectors.</a></h5>
+                                    <p class="blog_text">
+                                        The new home cinema projectors are ideal for film enthusiasts,
+                                        sports fans and gamers looking for an immersive big screen experience.
+                                        Additionally, they bring a range of high specifications with a variety of price points to suit every budget.
+                                        These include the <b>EpiqVision Ultra: EH-LS800B </b> and <b>EH-LS800W</b>,
+                                        multi-purpose <b> entry level projectors: CO-FH02</b> and <b>CO-W01,</b> finally the
+                                        <b>4K PRO-UHD projectors: EH-TW6150 </b> and <b>EH-TW6250</b>.
+                                        </p>
                                     <p><a href="" class="btn btn-primary">Read More ->>></a></p>
                                 </div>
                             </div>

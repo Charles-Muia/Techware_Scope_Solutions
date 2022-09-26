@@ -787,6 +787,7 @@
         justify-content: center;
         align-items: center;
         margin-right: 15px;
+        margin-top: 20px;
         border-radius: 50px;
         border: 1px solid white;
         font-size: 20px;
@@ -834,7 +835,7 @@
 
         .foot_links ul li a {
             text-decoration: none;
-            margin-bottom: 15px;
+            margin-bottom: 23px;
             display: inline-block;
             color: black;
             font-weight: 650;
@@ -881,13 +882,19 @@
 
         .foot_cont .find_info li span:nth-child(1) {
             font-size: 20px;
-            color: blue;
+            color: darkblue;
             margin-right: 15px;
         }
 
-        .foot_cont .find_info li span {
-            font-weight: 650;
+        .foot_cont .find_info li span:nth-child(1):hover {
+            color: blue;
+            cursor: pointer;
         }
+
+
+        .foot_cont .find_info li span {
+                    font-weight: 650;
+                }
 
         .foot_cont .find_info li a {
             font-weight: 650;

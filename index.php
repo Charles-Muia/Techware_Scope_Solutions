@@ -312,7 +312,7 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="uno_blog">
-                                    <p class="blog_data"> By Admin <span> September 23, 2022</span></p>
+                                    <p class="blog_data"> By Admin <span> September 26, 2022</span></p>
                                     <img src="Photos/Windows11.png" alt="">
                                     <h5><a href="#"> Windows 11 2022 Update Now Available </a></h5>
                                         <p class="blog_text">
@@ -344,12 +344,17 @@
                             <div class="col-md-4">
                                 <div class="uno_blog">
                                     <p class="blog_data"> By Admin <span> September 23, 2022</span></p>
-                                    <img src="Photos/Windows11.png" alt="">
-                                    <h5><a href="#"> Windows 11 Major Update Release</a></h5>
-                                    <p class="blog_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                        A, consequuntur error et nostrum quis repellendus tempora.
-                                        Asperiores corporis enim excepturi illo iure libero mollitia,
-                                        officia saepe similique voluptatem? Laboriosam, nisi! </p>
+                                    <img src="Photos/Apple.jpg" alt="">
+                                    <h5><a href="#"> Apple Event iPhone 14 and iPhone 14 Plus </a></h5>
+                                    <p class="blog_text">
+                                        Apple introduced <b>iPhone 14</b> and <b>iPhone 14 Plus</b>,
+                                        6.1 and 6.7 inch display respectively.
+                                        Other new devices include <b>Apple Watch Series 8</b>, <b>Apple Watch SE</b> and <b>Apple Watch Ultra</b>,
+                                        <b>AirPods Pro</b>. New impressive features unveiled during the event:
+                                        <b>dual-camera system</b>, <b>Crash Detection</b> — a smartphone industry-first
+                                        safety service with Emergency SOS via satellite and <b>low power mode</b> to max battery life
+                                        with the least impact to the user experience.
+                                        </p>
                                     <p><a href="" class="btn btn-primary">Read More ->>></a></p>
                                 </div>
                             </div>

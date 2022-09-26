@@ -179,7 +179,7 @@
         height: 4px;
         margin-top: 10px;
         margin-left: 7%;
-        width: 150px;
+        width: 140px;
     }
 
     .row_serv_sec {
@@ -260,7 +260,7 @@
         height: 4px;
         margin-top: 10px;
         margin-left: 7%;
-        width: 165px;
+        width: 150px;
     }
 
     .our_services_list {
@@ -350,7 +350,7 @@
         height: 4px;
         margin-top: 10px;
         margin-left: 7%;
-        width: 165px;
+        width: 150px;
     }
 
     .port_list {
@@ -427,6 +427,33 @@
         height: 100%;
     }
 
+
+
+/*--------------------------------------Our Team section CSS-------------------------------------*/
+
+    #our_team {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+
+    #our_team h2 {
+        text-transform: uppercase;
+        font-family: "Century Gothic";
+        font-weight: 650;
+        padding-top: 5px;
+    }
+
+    #our_team h2::after {
+        content: '';
+        background: #0000ff;
+        display: block;
+        height: 4px;
+        margin-top: 10px;
+        margin-left: 8%;
+        width: 60px;
+        margin-bottom: 50px;
+    }
+
 /*--------------------------------------Our Blog section CSS-------------------------------------*/
 
     #our_blog {
@@ -455,7 +482,7 @@
         height: 4px;
         margin-top: 10px;
         margin-left: 7%;
-        width: 82px;
+        width: 70px;
     }
 
     #our_blog .blog_data {
@@ -582,6 +609,7 @@
         padding-top: 20px;
         line-height: 25px;
         font-size: 17px;
+        padding-bottom: 15px;
     }
 
     .faq.active .answer {
@@ -659,7 +687,7 @@
         height: 4px;
         margin-top: 10px;
         margin-left: 7%;
-        width: 113px;
+        width: 100px;
     }
 
     .client-logo {
@@ -783,7 +811,7 @@
             height: 4px;
             margin-top: 10px;
             margin-left: 7%;
-            width: 180px;
+            width: 170px;
             margin-bottom: 30px;
         }
 

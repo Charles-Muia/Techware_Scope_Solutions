@@ -300,7 +300,12 @@
 
 <!----------------------------------------Our Team section CSS--------------------------------------->
 
-                <section class="our_team">
+                <section id="our_team">
+                    <div class="container">
+                        <h2> Our Team </h2>
+                            <div class="row">
+
+                            </div>
 
             </section>
 
@@ -372,7 +377,7 @@
                         <h2> FAQs </h2>
                             <div class="faq">
                                 <div class="quiz">
-                                    <h5> <i class="bi bi-chevron-bar-right"></i> Q - Test 123 ? </h5>
+                                    <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 ? </h5>
 <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                         <svg width="15" height="10" viewBox="0 0 42 25">
                                             <path
@@ -397,7 +402,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-bar-right"></i> Q - Test 123 ? </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 ? </h5>
                                 <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
@@ -422,7 +427,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-bar-right"></i> Q - Test 123 ? </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 ? </h5>
                                 <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
@@ -447,7 +452,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-bar-right"></i> Q - Test 123 ? </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 ? </h5>
                                 <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
@@ -472,7 +477,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-bar-right"></i> Q - Test 123 ? </h5>
+                                <h5> <i class="bi bi-chevron-double-right"></i> Q - Test 123 ? </h5>
                                 <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
@@ -497,7 +502,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-bar-right"></i> Q - Test 123 ? </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 ? </h5>
                                 <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path

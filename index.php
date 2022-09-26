@@ -370,6 +370,157 @@
                 <section id="FAQs_sec">
                     <div class="container">
                         <h2> FAQs </h2>
+                            <div class="faq">
+                                <div class="quiz">
+                                    <h5> <i class="bi bi-chevron-bar-right"></i> Q - Test 123 ? </h5>
+<!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
+                                        <svg width="15" height="10" viewBox="0 0 42 25">
+                                            <path
+                                                d="M3 3L21 21L39 3"
+                                                Stroke="white"
+                                                stroke-width="7"
+                                                stroke-linecap="round"
+                                                />
+                                        </svg>
+                                </div>
+                                    <div class="answer">
+                                        <p>
+                                            Lorem ipsum dolor sit amet,
+                                            consectetur adipisicing elit.
+                                            Ab at nostrum perferendis quae!
+                                            Ad adipisci, aliquam aspernatur
+                                            dolorum eaque earum incidunt ipsa
+                                            iste omnis quam ratione rerum sed veritatis! Dolor.
+                                        </p>
+                                    </div>
+                            </div>
+
+                        <div class="faq">
+                            <div class="quiz">
+                                <h5> <i class="bi bi-chevron-bar-right"></i> Q - Test 123 ? </h5>
+                                <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
+                                <svg width="15" height="10" viewBox="0 0 42 25">
+                                    <path
+                                            d="M3 3L21 21L39 3"
+                                            Stroke="white"
+                                            stroke-width="7"
+                                            stroke-linecap="round"
+                                    />
+                                </svg>
+                            </div>
+                            <div class="answer">
+                                <p>
+                                    Lorem ipsum dolor sit amet,
+                                    consectetur adipisicing elit.
+                                    Ab at nostrum perferendis quae!
+                                    Ad adipisci, aliquam aspernatur
+                                    dolorum eaque earum incidunt ipsa
+                                    iste omnis quam ratione rerum sed veritatis! Dolor.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="faq">
+                            <div class="quiz">
+                                <h5> <i class="bi bi-chevron-bar-right"></i> Q - Test 123 ? </h5>
+                                <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
+                                <svg width="15" height="10" viewBox="0 0 42 25">
+                                    <path
+                                            d="M3 3L21 21L39 3"
+                                            Stroke="white"
+                                            stroke-width="7"
+                                            stroke-linecap="round"
+                                    />
+                                </svg>
+                            </div>
+                            <div class="answer">
+                                <p>
+                                    Lorem ipsum dolor sit amet,
+                                    consectetur adipisicing elit.
+                                    Ab at nostrum perferendis quae!
+                                    Ad adipisci, aliquam aspernatur
+                                    dolorum eaque earum incidunt ipsa
+                                    iste omnis quam ratione rerum sed veritatis! Dolor.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="faq">
+                            <div class="quiz">
+                                <h5> <i class="bi bi-chevron-bar-right"></i> Q - Test 123 ? </h5>
+                                <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
+                                <svg width="15" height="10" viewBox="0 0 42 25">
+                                    <path
+                                            d="M3 3L21 21L39 3"
+                                            Stroke="white"
+                                            stroke-width="7"
+                                            stroke-linecap="round"
+                                    />
+                                </svg>
+                            </div>
+                            <div class="answer">
+                                <p>
+                                    Lorem ipsum dolor sit amet,
+                                    consectetur adipisicing elit.
+                                    Ab at nostrum perferendis quae!
+                                    Ad adipisci, aliquam aspernatur
+                                    dolorum eaque earum incidunt ipsa
+                                    iste omnis quam ratione rerum sed veritatis! Dolor.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="faq">
+                            <div class="quiz">
+                                <h5> <i class="bi bi-chevron-bar-right"></i> Q - Test 123 ? </h5>
+                                <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
+                                <svg width="15" height="10" viewBox="0 0 42 25">
+                                    <path
+                                            d="M3 3L21 21L39 3"
+                                            Stroke="white"
+                                            stroke-width="7"
+                                            stroke-linecap="round"
+                                    />
+                                </svg>
+                            </div>
+                            <div class="answer">
+                                <p>
+                                    Lorem ipsum dolor sit amet,
+                                    consectetur adipisicing elit.
+                                    Ab at nostrum perferendis quae!
+                                    Ad adipisci, aliquam aspernatur
+                                    dolorum eaque earum incidunt ipsa
+                                    iste omnis quam ratione rerum sed veritatis! Dolor.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="faq">
+                            <div class="quiz">
+                                <h5> <i class="bi bi-chevron-bar-right"></i> Q - Test 123 ? </h5>
+                                <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
+                                <svg width="15" height="10" viewBox="0 0 42 25">
+                                    <path
+                                            d="M3 3L21 21L39 3"
+                                            Stroke="white"
+                                            stroke-width="7"
+                                            stroke-linecap="round"
+                                    />
+                                </svg>
+                            </div>
+                            <div class="answer">
+                                <p>
+                                    Lorem ipsum dolor sit amet,
+                                    consectetur adipisicing elit.
+                                    Ab at nostrum perferendis quae!
+                                    Ad adipisci, aliquam aspernatur
+                                    dolorum eaque earum incidunt ipsa
+                                    iste omnis quam ratione rerum sed veritatis! Dolor.
+                                </p>
+                            </div>
+                        </div>
+
+
                 </section>
 
                 <!--Our Clients section-->
@@ -563,6 +714,20 @@
 <!--                </p>-->
 <!---->
 <!--            </div>-->
+
+                <!--JS script for FAQs section-->
+
+                <script>
+                    const faqs = document.querySelectorAll(".faq");
+
+                    faqs.forEach((faq) => {
+                        faq.addEventListener("click", () => {
+                            faq.classList.toggle("active");
+                        });
+                    });
+
+                </script>
+
 </body>
 </html>
 

@@ -525,8 +525,10 @@
         background-position: center;
         color: #efefef!important;
         padding-top: 55px;
-        padding-bottom: 55px;
+        padding-bottom: 70px;
         margin-top: 55px;
+        min-height: 100vh;
+
     }
 
     #FAQs_sec h2 {
@@ -545,8 +547,86 @@
         margin-top: 10px;
         margin-left: 2%;
         width: 60px;
+        margin-bottom: 50px;
     }
 
+    .faq {
+        max-width: 950px;
+        margin-top: 15px;
+        padding-bottom: 5px;
+        border-bottom: 2px solid white;
+        cursor: pointer;
+        margin-left: 10%;
+    }
+
+    .quiz {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 15px;
+
+    }
+
+    .quiz h3 {
+        font-size: 15px;
+    }
+
+    .answer {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 1.5s ease;
+
+    }
+
+    .answer p {
+        padding-top: 20px;
+        line-height: 25px;
+        font-size: 17px;
+    }
+
+    .faq.active .answer {
+        max-height: 300px;
+        animation: fade 1s ease-in-out;
+    }
+
+    .faq.active svg {
+     transform: rotate(180deg);
+    }
+
+    svg {
+        transition: transform 1s ease-in;
+    }
+
+    @keyframes fade {
+        from  {
+            opacity: 0;
+            transform: translateY(-10px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0px);
+        }
+    }
+
+/*--------------------------------------Media query for our FAQs section CSS-------------------------------------*/
+/*start   */
+
+    @media (max-width: 1000px) {
+    .faq {
+        margin-left: 5px;
+    }
+
+    .answer p {
+        text-align: justify;
+    }
+
+    #FAQs_sec h2::after {
+        margin-bottom: 40px;
+    }
+        }
+
+/*end*/
 
 /*--------------------------------------Our Clients section CSS-------------------------------------*/
 

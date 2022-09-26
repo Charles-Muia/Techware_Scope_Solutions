@@ -433,7 +433,7 @@
 
     #our_team {
         padding-top: 50px;
-        padding-bottom: 30px;
+        padding-bottom: 10px;
     }
 
     #our_team h2 {
@@ -573,7 +573,7 @@
         height: 4px;
         margin-top: 10px;
         margin-left: 2%;
-        width: 60px;
+        width: 50px;
         margin-bottom: 50px;
     }
 

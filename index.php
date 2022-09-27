@@ -317,9 +317,7 @@
                                                         <p> Lorem ipsum dolor sit amet. </p>
                                     </div>
                                 </div>
-
                             </div>
-
             </section>
 
 <!---------------------------------------Our Blog section CSS---------------------------------------->
@@ -377,11 +375,8 @@
                                 </div>
                             </div>
                         </div>
-                </div>
-
+                    </div>
             </section>
-
-
 
 <!----------------------------------------Our FAQs section CSS--------------------------------------->
 
@@ -401,6 +396,7 @@
                                                 />
                                         </svg>
                                 </div>
+
                                     <div class="answer">
                                         <p>
                                             Lorem ipsum dolor sit amet,
@@ -426,6 +422,7 @@
                                     />
                                 </svg>
                             </div>
+
                             <div class="answer">
                                 <p>
                                     Lorem ipsum dolor sit amet,
@@ -451,6 +448,7 @@
                                     />
                                 </svg>
                             </div>
+
                             <div class="answer">
                                 <p>
                                     Lorem ipsum dolor sit amet,
@@ -476,6 +474,7 @@
                                     />
                                 </svg>
                             </div>
+
                             <div class="answer">
                                 <p>
                                     Lorem ipsum dolor sit amet,
@@ -501,6 +500,7 @@
                                     />
                                 </svg>
                             </div>
+
                             <div class="answer">
                                 <p>
                                     Lorem ipsum dolor sit amet,
@@ -526,6 +526,7 @@
                                     />
                                 </svg>
                             </div>
+
                             <div class="answer">
                                 <p>
                                     Lorem ipsum dolor sit amet,
@@ -537,13 +538,13 @@
                                 </p>
                             </div>
                         </div>
-
-
                 </section>
 
-                <!--Our Clients section-->
 
-            <section id="our_clients">
+<!----------------------------------------Our Clients section CSS--------------------------------------->
+
+
+                <section id="our_clients">
                 <div class="container">
                     <h2> Our Clients </h2>
                         <div class="row">
@@ -592,9 +593,9 @@
             </section>
           <hr>
 
-                <!--Our Clients Testimonials section-->
+<!----------------------------------------Our Clients Testimonials section CSS--------------------------------------->
 
-            <section id="client_vibe">
+                <section id="client_vibe">
                 <div class="container">
                     <h2> our clients say </h2>
                         <p> We value our client's feedback. <br> Their testimony of the services
@@ -644,6 +645,7 @@
                 </div>
             </section>
 
+<!----------------------------------------Footer section CSS--------------------------------------->
 
                 <footer>
             <section class="foot_sec">

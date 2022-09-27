@@ -299,28 +299,27 @@
             </div>
    <hr>
 
-
 <!----------------------------------------Team section--------------------------------------->
 
-                <section id="our_team">
-                    <div class="container">
-                        <h2> Our Team </h2>
-                            <div class="row">
-                                <div class="col-md-3 user-pics">
-                                    <div class="user-box">
-                                        <img src="Photos/Erica%20Armstrong.jpg" alt="" width="200" class="user-pics-respons">
-                                            <ul>
-                                                <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
-                                                <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
-                                                <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
-                                            </ul>
-                                                <h5> Charles Muia </h5>
-                                                    <h6> Lead Technician </h6>
-                                                        <p> Lorem ipsum dolor sit amet. </p>
-                                    </div>
-                                </div>
-                            </div>
-            </section>
+<!--                <section id="our_team">-->
+<!--                    <div class="container">-->
+<!--                        <h2> Our Team </h2>-->
+<!--                            <div class="row">-->
+<!--                                <div class="col-md-3 user-pics">-->
+<!--                                    <div class="user-box">-->
+<!--                                        <img src="Photos/Erica%20Armstrong.jpg" alt="" width="200" class="user-pics-respons">-->
+<!--                                            <ul>-->
+<!--                                                <a href="#"><li><i class="bi bi-linkedin"></i></li></a>-->
+<!--                                                <a href="#"><li><i class="bi bi-linkedin"></i></li></a>-->
+<!--                                                <a href="#"><li><i class="bi bi-linkedin"></i></li></a>-->
+<!--                                            </ul>-->
+<!--                                                <h5> Charles Muia </h5>-->
+<!--                                                    <h6> Lead Technician </h6>-->
+<!--                                                        <p> Lorem ipsum dolor sit amet. </p>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--            </section>-->
 
 <!---------------------------------------Blog section---------------------------------------->
 
@@ -650,6 +649,7 @@
 <!----------------------------------------Contact Us CSS--------------------------------------->
 
             <section id="cont_us">
+
 
             </section>
 

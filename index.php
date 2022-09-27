@@ -18,9 +18,11 @@
     <title> Techware Scope Solutions | Home </title>
 </head>
 <body>
-                <!--Navigation -->
 
-            <section id="navigation">
+<!----------------------------------------Navigation section--------------------------------------->
+
+
+                <section id="navigation">
                 <nav class="navbar navbar-expand-lg bg-light">
                     <div class="container-fluid">
                         <a class="navbar-brand" href="#"><img src="Photos/Log_2.jpg" alt="" height="80"></a>
@@ -84,7 +86,7 @@
                 </div>
             </div>
 
-                <!--About section-->
+<!----------------------------------------About section--------------------------------------->
 
             <section id="about_site">
                     <div class="container">
@@ -124,7 +126,7 @@
                         </div>
             </section>
 
-                <!--Our offering section-->
+<!----------------------------------------Offering section--------------------------------------->
 
             <section id="serv_sec">
                         <div class="container">
@@ -208,7 +210,7 @@
                         </div>
             </section>
 
-                <!--Our Services section-->
+<!----------------------------------------Service section--------------------------------------->
 
             <section id="our_services">
                  <div id="services">
@@ -253,7 +255,7 @@
                  </div>
             </section>
 
-                <!--Our Portfolio section-->
+<!----------------------------------------Portfolio section--------------------------------------->
 
             <div id="port_sec">
                 <div class="container">
@@ -298,7 +300,7 @@
    <hr>
 
 
-<!----------------------------------------Our Team section CSS--------------------------------------->
+<!----------------------------------------Team section--------------------------------------->
 
                 <section id="our_team">
                     <div class="container">
@@ -320,7 +322,7 @@
                             </div>
             </section>
 
-<!---------------------------------------Our Blog section CSS---------------------------------------->
+<!---------------------------------------Blog section---------------------------------------->
 
             <section id="our_blog">
                 <div class="container">
@@ -378,7 +380,7 @@
                     </div>
             </section>
 
-<!----------------------------------------Our FAQs section CSS--------------------------------------->
+<!----------------------------------------FAQs section--------------------------------------->
 
                 <section id="FAQs_sec">
                     <div class="container">
@@ -541,7 +543,7 @@
                 </section>
 
 
-<!----------------------------------------Our Clients section CSS--------------------------------------->
+<!----------------------------------------Clients section--------------------------------------->
 
 
                 <section id="our_clients">
@@ -593,7 +595,7 @@
             </section>
           <hr>
 
-<!----------------------------------------Our Clients Testimonials section CSS--------------------------------------->
+<!----------------------------------------Clients Testimonials section--------------------------------------->
 
                 <section id="client_vibe">
                 <div class="container">
@@ -643,6 +645,12 @@
                                 </div>
                             </div>
                 </div>
+            </section>
+
+<!----------------------------------------Contact Us CSS--------------------------------------->
+
+            <section id="cont_us">
+
             </section>
 
 <!----------------------------------------Footer section CSS--------------------------------------->

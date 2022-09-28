@@ -649,8 +649,14 @@
 <!----------------------------------------Contact Us CSS--------------------------------------->
 
             <section id="cont_us">
+                <div class="container">
+                    <div class="form-cont">
+                        <h2>Talk To Us</h2>
+
+                    </div>
 
 
+                </div>
             </section>
 
 <!----------------------------------------Footer section CSS--------------------------------------->

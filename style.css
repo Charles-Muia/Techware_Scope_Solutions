@@ -552,10 +552,9 @@
         background-position: center;
         color: #efefef!important;
         padding-top: 55px;
-        padding-bottom: 70px;
+        padding-bottom: 40px;
         margin-top: 55px;
         min-height: 100vh;
-
     }
 
     #FAQs_sec h2 {
@@ -591,7 +590,6 @@
         justify-content: space-between;
         align-items: center;
         padding-bottom: 15px;
-
     }
 
     .quiz h3 {
@@ -602,7 +600,6 @@
         max-height: 0;
         overflow: hidden;
         transition: max-height 1.5s ease;
-
     }
 
     .answer p {
@@ -836,7 +833,7 @@
             display: block;
             height: 4px;
             margin-top: 10px;
-            margin-left: 125px;
+            margin-left: 120px;
             width: 40px;
         }
 

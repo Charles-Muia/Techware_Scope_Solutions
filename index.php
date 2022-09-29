@@ -336,8 +336,8 @@
                                             The Windows 11 2022 Update, the latest version of Windows 11
                                             also known as <b> Windows 11, version 22H2 </b> is now available.
                                             The measured and phased rollout in 190+ countries will offer
-                                            the update via Microsoft's well-established update systems and processes popularly known as (Windows Update).
-                                            Users ready to install the update can go to the <b> Windows Update settings (Settings > Windows Update) </b> and selecting Check for updates.
+                                            the update via Microsoft's well-established update systems and processes popularly known as (<b>Windows Update</b>).
+                                            Users ready to install the update can go to the <b> Windows Update settings (Settings > Windows Update) </b> and select <b>Check for updates</b>.
                                         </p>
                                         <p><a href="" class="btn btn-primary">Read More ->>></a></p>
                                 </div>
@@ -386,8 +386,8 @@
                         <h2> FAQs </h2>
                             <div class="faq">
                                 <div class="quiz">
-                                    <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 ? </h5>
-<!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
+                                    <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 <i class="bi bi-question-circle-fill"></i> </h5>
+                                    <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                         <svg width="15" height="10" viewBox="0 0 42 25">
                                             <path
                                                 d="M3 3L21 21L39 3"
@@ -412,7 +412,33 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 ? </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 <i class="bi bi-question-circle-fill"></i> </h5>
+                                <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
+                                <svg width="15" height="10" viewBox="0 0 42 25">
+                                    <path
+                                            d="M3 3L21 21L39 3"
+                                            Stroke="white"
+                                            stroke-width="7"
+                                            stroke-linecap="round"
+                                    />
+                                </svg>
+                            </div>
+
+                            <div class="answer">
+                                <p>
+                                    Lorem ipsum dolor sit amet,
+                                    consectetur adipisicing elit.
+                                    Ab at nostrum perferendis quae!
+                                    Ad adipisci, aliquam aspernatur
+                                    dolorum eaque earum incidunt ipsa
+                                    iste omnis quam ratione rerum sed veritatis! Dolor.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="faq">
+                            <div class="quiz">
+                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 <i class="bi bi-question-circle-fill"></i> </h5>
                                 <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
@@ -438,8 +464,8 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 ? </h5>
-                                <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
+                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 <i class="bi bi-question-circle-fill"></i> </h5>
+                                <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
                                             d="M3 3L21 21L39 3"
@@ -464,8 +490,8 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 ? </h5>
-                                <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
+                                <h5> <i class="bi bi-chevron-double-right"></i> Q - Test 123 <i class="bi bi-question-circle-fill"></i> </h5>
+                                <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
                                             d="M3 3L21 21L39 3"
@@ -490,34 +516,8 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"></i> Q - Test 123 ? </h5>
-                                <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
-                                <svg width="15" height="10" viewBox="0 0 42 25">
-                                    <path
-                                            d="M3 3L21 21L39 3"
-                                            Stroke="white"
-                                            stroke-width="7"
-                                            stroke-linecap="round"
-                                    />
-                                </svg>
-                            </div>
-
-                            <div class="answer">
-                                <p>
-                                    Lorem ipsum dolor sit amet,
-                                    consectetur adipisicing elit.
-                                    Ab at nostrum perferendis quae!
-                                    Ad adipisci, aliquam aspernatur
-                                    dolorum eaque earum incidunt ipsa
-                                    iste omnis quam ratione rerum sed veritatis! Dolor.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="faq">
-                            <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 ? </h5>
-                                <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
+                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 <i class="bi bi-question-circle-fill"></i> </h5>
+                                <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
                                             d="M3 3L21 21L39 3"

@@ -663,8 +663,8 @@
                             </form>
                     </div>
                             <div class="cont-map">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.817017265006!2d37.65097611480023!3d0.046306964388982984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x178821e9062a5bed%3A0x63990a4615bd7da!2sGhana%20St%2C%20Meru!5e0!3m2!1ssw!2ske!4v1664445588773!5m2!1ssw!2ske" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                            </div>
+                                <h2> Find Us </h2>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.817017265006!2d37.65097611480023!3d0.046306964388982984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x178821e9062a5bed%3A0x63990a4615bd7da!2sGhana%20St%2C%20Meru!5e0!3m2!1sen!2ske!4v1664449700490!5m2!1sen!2ske" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                            </div>
                 </div>
             </section>
 

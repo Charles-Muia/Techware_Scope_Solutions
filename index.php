@@ -336,8 +336,8 @@
                                             The Windows 11 2022 Update, the latest version of Windows 11
                                             also known as <b> Windows 11, version 22H2 </b> is now available.
                                             The measured and phased rollout in 190+ countries will offer
-                                            the update via Microsoft's well-established update systems and processes (Windows Update).
-                                            Users ready to install the update can go to the Windows Update settings (Settings > Windows Update) and selecting Check for updates.
+                                            the update via Microsoft's well-established update systems and processes popularly known as (Windows Update).
+                                            Users ready to install the update can go to the <b> Windows Update settings (Settings > Windows Update) </b> and selecting Check for updates.
                                         </p>
                                         <p><a href="" class="btn btn-primary">Read More ->>></a></p>
                                 </div>

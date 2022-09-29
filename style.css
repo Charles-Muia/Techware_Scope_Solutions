@@ -822,7 +822,6 @@
             flex-direction: column;
             /*height: 100vh;*/
             color: #eee;
-            align-items: center;
             justify-content: center;
         }
 
@@ -846,7 +845,7 @@
         }
 
         #cont_us .container {
-            max-width: 1000px;
+            max-width: 85%;
             margin: auto;
             display: grid;
             width: 100%;
@@ -907,7 +906,7 @@
              text-transform: uppercase;
              font-family: "Century Gothic";
              font-weight: 650;
-             padding-top: 10px;
+             padding-top: 15px;
              margin-bottom: 35px;
         }
 
@@ -921,6 +920,34 @@
               width: 40px;
             }
 
+/*--------------------------------------Media query for Contact Us section CSS-------------------------------------*/
+/*start   */
+
+        @media (max-width: 1000px) {
+            #cont_us .container {
+                width: 100%;
+                margin: auto;
+                display: inline-block;
+            }
+
+            #cont_us h2::after {
+                content: '';
+                background: #0000ff;
+                display: block;
+                height: 4px;
+                margin-top: 10px;
+                margin-left: 85px;
+                width: 40px;
+            }
+        }
+
+        @media (max-width: 1000px) {
+            .cont-map {
+                display: none;
+            }
+
+        }
+            /*end*/
 
 /*--------------------------------------Footer section CSS-------------------------------------*/
 

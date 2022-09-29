@@ -516,7 +516,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 <i class="bi bi-question-circle-fill"></i> </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> How can I check if my PC is eligible for Win11 <i class="bi bi-question-circle-fill"></i> </h5>
                                 <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
@@ -530,6 +530,9 @@
 
                             <div class="answer">
                                 <p>
+                                    Microsoft has made this possible through the
+                                    <a href="#">PC health check app</a> readily available for
+                                    download. <br>
                                     Lorem ipsum dolor sit amet,
                                     consectetur adipisicing elit.
                                     Ab at nostrum perferendis quae!
@@ -652,10 +655,16 @@
                 <div class="container">
                     <div class="form-cont">
                         <h2>Talk To Us</h2>
-
+                            <form action="" class="cont-form">
+                                <input type="text" placeholder="Enter Your Name" required>
+                                <input type="email" name="" id="" placeholder="Enter Your Email" required>
+                                <textarea name="" id="" cols="30" rows="10" placeholder="Message Here" required></textarea>
+                                <input type="submit" value="Click to Send" class="send-btn">
+                            </form>
                     </div>
-
-
+                            <div class="cont-map">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.817017265006!2d37.65097611480023!3d0.046306964388982984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x178821e9062a5bed%3A0x63990a4615bd7da!2sGhana%20St%2C%20Meru!5e0!3m2!1ssw!2ske!4v1664445588773!5m2!1ssw!2ske" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </div>
                 </div>
             </section>
 

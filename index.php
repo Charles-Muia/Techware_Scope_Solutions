@@ -35,19 +35,19 @@
                                     <a class="nav-link active" aria-current="page" href="#">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">About Us</a>
+                                    <a class="nav-link" href="#about_site">About Us</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Our Services</a>
+                                    <a class="nav-link" href="#serv_sec">Our Services</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Blog</a>
+                                    <a class="nav-link" href="#our_blog">Blog</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">FAQs</a>
+                                    <a class="nav-link" href="#FAQs_sec">FAQs</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Contact Us</a>
+                                    <a class="nav-link" href="#cont_us">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
@@ -85,7 +85,6 @@
                     </button>
                 </div>
             </div>
-
 <!----------------------------------------About section--------------------------------------->
 
             <section id="about_site">
@@ -97,6 +96,10 @@
                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae consequuntur, facere laborum
                                             neque nostrum numquam odit officiis porro quasi sequi! Aliquid aut autem cumque
                                             earum fugit magni quaerat quam quis.
+                                            <br><br>
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet at delectus deleniti
+                                            eum incidunt perferendis saepe.
+                                            At dignissimos esse eum itaque nulla! Id laudantium perferendis quam qui quidem tempora?
                                             <br><br>
                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet at delectus deleniti
                                             eum incidunt perferendis saepe.
@@ -751,6 +754,13 @@
 
            </div>
        </footer>
+
+<script src="js/smooth-scroll.js"></script>
+
+<script>
+    var scroll = new SmoothScroll('a[href*="#"]');
+</script>
+
 <!--            <div class="foot_copy">-->
 <!--                <p>-->
 <!--                    Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2022. <span>Tech</span>ware Scope Solutions. All Rights Reserved.-->

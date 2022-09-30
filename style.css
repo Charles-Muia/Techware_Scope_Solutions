@@ -115,11 +115,12 @@
     .para-bar p {
         margin-bottom: 10px;
         font-weight: 650;
+        color: black;
 
     }
 
     .para-bar p:hover {
-        color: red;
+        color: black;
         cursor: pointer;
         text-transform: uppercase;
     }

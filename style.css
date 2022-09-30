@@ -108,9 +108,20 @@
         padding-top: 20px;
     }
 
+    .para-bar {
+        padding-top: 15px;
+    }
+
     .para-bar p {
         margin-bottom: 10px;
         font-weight: 650;
+
+    }
+
+    .para-bar p:hover {
+        color: red;
+        cursor: pointer;
+        text-transform: uppercase;
     }
 
     .progress-bar {
@@ -120,6 +131,7 @@
     .progress {
         border-radius: 20px!important;
         margin-bottom: 30px;
+        animation: 1s linear forwards;
     }
 
     #arouse_photos img {

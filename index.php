@@ -107,19 +107,19 @@
                                  <div class="col-md-6 para-bar">
                                                 <p> Wed Design & Hosting </p>
                                                 <div class="progress">
-                                                    <div class="progress-bar" style="width: 90%;"> 90% </div>
+                                                    <div class="progress-bar" style="width: 90%; background-color: deepskyblue"> 90% </div>
                                                 </div>
                                                <p> Networking & Telephony </p>
                                                <div class="progress">
-                                                    <div class="progress-bar" style="width: 90%;"> 70% </div>
+                                                    <div class="progress-bar" style="width: 80%; background-color: darkorange" > 75% </div>
                                                </div>
-                                                <p> ICT Support & Maintenance</p>
+                                                <p> ICT Support & Maintenance </p>
                                                 <div class="progress">
-                                                    <div class="progress-bar" style="width: 100%;"> 100% </div>
+                                                    <div class="progress-bar" style="width: 100%; background-color: blue"> 100% </div>
                                                 </div>
                                                 <p> Office Equipment & Stationery </p>
                                                 <div class="progress">
-                                                    <div class="progress-bar" style="width: 80%;"> 65% </div>
+                                                    <div class="progress-bar" style="width: 80%; background-color: darkblue"> 65% </div>
                                                 </div>
                                  </div>
                             </div>

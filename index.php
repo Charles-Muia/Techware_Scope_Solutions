@@ -748,6 +748,8 @@
                                     <li><a href="#"> Home </a></li>
                                     <li><a href="#"> About Us </a></li>
                                     <li><a href="#"> Our Services </a></li>
+                                    <li><a href="#"> Solutions </a></li>
+                                    <li><a href="#"> Portfolio </a></li>
                                     <li><a href="#"> Blog </a></li>
                                     <li><a href="#"> FAQs </a></li>
                                     <li><a href="#"> Contact Us </a></li>

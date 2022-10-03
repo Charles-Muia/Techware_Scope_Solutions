@@ -59,11 +59,6 @@
         border: none!important;
     }
 
-    /*#arouse_photos button {*/
-    /*    background-color: red;*/
-    /*}*/
-
-
     .nav-link {
         color: #000000!important;
         font-size: 20px;
@@ -80,7 +75,7 @@
 
     #about_site h2 {
         color: black;
-        margin-top: 15px;
+        margin-top: 5px;
         text-transform: uppercase;
         font-family: "Century Gothic";
         font-weight: 650;
@@ -168,7 +163,7 @@
         background-position: center;
         color: #efefef!important;
         padding-top: 50px;
-        padding-bottom: 50px;
+        padding-bottom: 65px;
     }
 
     /*#serv_sec .col-md-3 {*/
@@ -181,7 +176,7 @@
         text-transform: uppercase;
         font-family: "Century Gothic";
         font-weight: 650;
-        padding-top: 10px;
+        padding-top: 30px;
     }
 
     #serv_sec h2::after {
@@ -253,8 +248,8 @@
 /*--------------------------------------Our Services section CSS-------------------------------------*/
 
     #our_services {
-       padding-top: 55px;
-       padding-bottom: 55px;
+       padding-top: 60px;
+       padding-bottom: 70px;
     }
 
     #services h2 {
@@ -344,7 +339,8 @@
 /*--------------------------------------Our Portfolio section CSS-------------------------------------*/
 
     #port_sec {
-        padding-bottom: 55px;
+        padding-bottom: 70px;
+        padding-top: 10PX;
     }
 
     #port_sec h2 {
@@ -369,7 +365,7 @@
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         grid-gap: 40px;
-        margin-top: 55px;
+        margin-top: 70px;
     }
 
     .port_inner {
@@ -484,7 +480,8 @@
         text-transform: uppercase;
         font-family: "Century Gothic";
         font-weight: 650;
-        padding-top: 5px;
+        padding-top: 30px;
+        padding-bottom: 25px;
     }
 
     #our_blog h2::after {
@@ -574,7 +571,7 @@
         text-transform: uppercase;
         font-family: "Century Gothic";
         font-weight: 650;
-        padding-top: 5px;
+        padding-top: 30px;
     }
 
     #FAQs_sec h2::after {

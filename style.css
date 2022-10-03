@@ -972,7 +972,8 @@
 /*--------------------------------------Footer section CSS-------------------------------------*/
 
     .foot_sec {
-        padding-top: 55px;
+        padding-top: 60px;
+        padding-bottom: 30px;
         /*font-family: sans-serif Poppins;*/
         margin: 0 auto;
         box-sizing: border-box;

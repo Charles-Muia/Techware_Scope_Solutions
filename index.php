@@ -746,13 +746,13 @@
                                 <h5> Quick Links </h5>
                                 <ul>
                                     <li><a href="#"> Home </a></li>
-                                    <li><a href="#"> About Us </a></li>
-                                    <li><a href="#"> Our Services </a></li>
-                                    <li><a href="#"> Solutions </a></li>
-                                    <li><a href="#"> Portfolio </a></li>
-                                    <li><a href="#"> Blog </a></li>
-                                    <li><a href="#"> FAQs </a></li>
-                                    <li><a href="#"> Contact Us </a></li>
+                                    <li><a href="#about_site"> About Us </a></li>
+                                    <li><a href="#serv_sec"> Our Services </a></li>
+                                    <li><a href="#our_services"> Solutions </a></li>
+                                    <li><a href="#port_sec"> Portfolio </a></li>
+                                    <li><a href="#our_blog"> Blog </a></li>
+                                    <li><a href="#FAQs_sec"> FAQs </a></li>
+                                    <li><a href="#cont_us"> Contact Us </a></li>
                                 </ul>
                             </div>
 

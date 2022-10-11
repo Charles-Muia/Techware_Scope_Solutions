@@ -577,17 +577,11 @@
 
                             <div class="answer">
                                 <p>
-                                    Microsoft has made this possible through the
-                                    <a href="#">PC health check app</a> readily available for
-                                    download. <br>
-                                    The app automatically scans your PC to check if it meets
-                                    the system requirements for Windows 11. <br>
-                                    A notification will be displayed after scanning showing the results/findings.
-                                    Microsoft recommends <br> purchasing PC's with Windows 11 supported intel processors.
-<!--                                    Ab at nostrum perferendis quae!-->
-<!--                                    Ad adipisci, aliquam aspernatur-->
-<!--                                    dolorum eaque earum incidunt ipsa-->
-<!--                                    iste omnis quam ratione rerum sed veritatis! Dolor.-->
+                                    You can download the  <a href="#">PC health check app</a> to check if your PC is eligible for
+                                    Windows 11. The app automatically scans your PC to check if it meets
+                                    the system requirements.
+                                    A notification will be displayed after scanning showing the results/findings.<br>
+                                    Microsoft recommends purchasing PC's with Windows 11 supported intel processors.
                                 </p>
                             </div>
                         </div>

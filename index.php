@@ -563,7 +563,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"> </i> How can I check if my PC is eligible for Win11 <i class="bi bi-question-circle-fill"></i> </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> Windows 11 eligibility? <i class="bi bi-question-circle-fill"></i> </h5>
                                 <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
@@ -580,12 +580,14 @@
                                     Microsoft has made this possible through the
                                     <a href="#">PC health check app</a> readily available for
                                     download. <br>
-                                    Lorem ipsum dolor sit amet,
-                                    consectetur adipisicing elit.
-                                    Ab at nostrum perferendis quae!
-                                    Ad adipisci, aliquam aspernatur
-                                    dolorum eaque earum incidunt ipsa
-                                    iste omnis quam ratione rerum sed veritatis! Dolor.
+                                    The app automatically scans your PC to check if it meets
+                                    the system requirements for Windows 11. <br>
+                                    A notification will be displayed after scanning showing the results/findings.
+                                    Microsoft recommends <br> purchasing PC's with Windows 11 supported intel processors.
+<!--                                    Ab at nostrum perferendis quae!-->
+<!--                                    Ad adipisci, aliquam aspernatur-->
+<!--                                    dolorum eaque earum incidunt ipsa-->
+<!--                                    iste omnis quam ratione rerum sed veritatis! Dolor.-->
                                 </p>
                             </div>
                         </div>

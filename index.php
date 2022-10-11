@@ -617,7 +617,7 @@
                             </div>
                             <div class="col-md-3 client-logo text-center">
                                 <div class="img-box">
-                                    <img src="Photos/SAF-MAIN-LOGO.jpg" alt="" class="img-sec">
+                                    <img src="Photos/Life_Savers_Club.jpg" alt="" class="img-sec">
                                 </div>
                             </div>
                             <div class="col-md-3 client-logo text-center">

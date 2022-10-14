@@ -433,7 +433,7 @@
                         <h2> FAQs </h2>
                             <div class="faq">
                                 <div class="quiz">
-                                    <h5> <i class="bi bi-chevron-double-right"> </i> Buying a PC or laptop <i class="bi bi-question-circle-fill"></i> </h5>
+                                    <h5> <i class="bi bi-chevron-double-right"> </i> What to consider when buying a PC or laptop <i class="bi bi-question-circle-fill"></i> </h5>
                                     <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                         <svg width="15" height="10" viewBox="0 0 42 25">
                                             <path
@@ -459,7 +459,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 <i class="bi bi-question-circle-fill"></i> </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> Windows or MacOS <i class="bi bi-question-circle-fill"></i> </h5>
                                 <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
@@ -485,7 +485,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 <i class="bi bi-question-circle-fill"></i> </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> Tech Trends in 2022/23 <i class="bi bi-question-circle-fill"></i> </h5>
                                 <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
@@ -511,7 +511,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"> </i> Q - Test 123 <i class="bi bi-question-circle-fill"></i> </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> Experiencing slow PC or Laptop performance <i class="bi bi-question-circle-fill"></i> </h5>
                                 <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path

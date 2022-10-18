@@ -100,6 +100,10 @@
         padding-top: 20px;
     }
 
+    #about_site p span {
+        color: red;
+    }
+
     .para-bar {
         padding-top: 65px;
     }

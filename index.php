@@ -137,19 +137,23 @@
                             <div class="col-md-6">
                                     <h2> About Us</h2>
                                         <div class="about_stuff">
+                                            <p>
                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae consequuntur, facere laborum
                                             neque nostrum numquam odit officiis porro quasi sequi! Aliquid aut autem cumque
                                             earum fugit magni quaerat quam quis.
                                             <br><br>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet at delectus deleniti
-                                            eum incidunt perferendis saepe.
-                                            At dignissimos esse eum itaque nulla! Id laudantium perferendis quam qui quidem tempora?
+                                            <span>Tech</span>ware Scope Solutions offers ICT & Digital Consultancy services delivered by a
+                                            highly skilled team with expertise in ICT, social media (digital communications),
+                                            information security, web development & hosting, onsite and remote technical support.
+<!--                                        s amet at delectus deleniti eum incidunt perferendis saepe.-->
+<!--                                        At dignissimos esse eum itaque nulla! Id laudantium perferendis quam qui quidem tempora?-->
                                             <br><br>
                                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet at delectus deleniti
                                             eum incidunt perferendis saepe.
                                             At dignissimos esse eum itaque nulla! Id laudantium perferendis quam qui quidem tempora?
+                                            </p>
                                         </div>
-                                                <button type="button" class="btn btn-primary"> Read More ->>></button>
+                                <a href="https://www.facebook.com/TechwareScopeSolutions"><button type="button" class="btn btn-primary"> Read More ->>></button></a>
                             </div>
                                  <div class="col-md-6 para-bar">
                                                 <p> Wed Design & Hosting </p>
@@ -730,7 +734,7 @@
 
                                     <ul class="lst_inks">
 <!--                                        <li><a href="#"><i class="bi bi-facebook"></i></a></li>-->
-                                        <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                        <li><a href="https://www.facebook.com/TechwareScopeSolutions"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                                         <li><a href="#"><i class="bi bi-twitter"></i></a></li>
                                         <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
                                         <li><a href="#"><i class="bi bi-whatsapp"></i></i></a></li>

@@ -100,6 +100,11 @@
         padding-top: 20px;
     }
 
+    .about_stuff p {
+        color: black;
+        /*font-size: 16px;*/
+    }
+
     #about_site p span {
         color: red;
     }

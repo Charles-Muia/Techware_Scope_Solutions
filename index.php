@@ -145,12 +145,10 @@
                                             <span>Tech</span>ware Scope Solutions offers ICT & Digital Consultancy services delivered by a
                                             highly skilled team with expertise in ICT, social media (digital communications),
                                             information security, web development & hosting, onsite and remote technical support.
-<!--                                        s amet at delectus deleniti eum incidunt perferendis saepe.-->
-<!--                                        At dignissimos esse eum itaque nulla! Id laudantium perferendis quam qui quidem tempora?-->
                                             <br><br>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet at delectus deleniti
-                                            eum incidunt perferendis saepe.
-                                            At dignissimos esse eum itaque nulla! Id laudantium perferendis quam qui quidem tempora?
+                                            We supply office equipments, stationery, phones, computers (PC's & Laptops), printers, accessories,
+                                            toners & ink cartridges. Additionally, we build responsive websites fully optimised with the latest
+                                            trends and attractive hosting packages to suit your business needs.
                                             </p>
                                         </div>
                                 <a href="https://www.facebook.com/TechwareScopeSolutions"><button type="button" class="btn btn-primary"> Read More ->>></button></a>

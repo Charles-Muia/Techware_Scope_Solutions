@@ -563,7 +563,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"> </i> How do I check my PC's or Laptop Windows 11 eligibility? <i class="bi bi-question-circle-fill"></i> </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> How do I check if my device is compatible with Windows 11 ? <i class="bi bi-question-circle-fill"></i> </h5>
                                 <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path

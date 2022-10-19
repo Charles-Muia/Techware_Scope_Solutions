@@ -138,13 +138,13 @@
                                     <h2> About Us</h2>
                                         <div class="about_stuff">
                                             <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae consequuntur, facere laborum
-                                            neque nostrum numquam odit officiis porro quasi sequi! Aliquid aut autem cumque
-                                            earum fugit magni quaerat quam quis.
+                                            Our wide exposure in ICT continues to power the company's drive in Computing, IT and Consultancy services.
+                                            Since establishment in March 2020, we've been consistent in providing reliable support services,
+                                            solutions and maintaining close working relationships with our clients.
                                             <br><br>
                                             <span>Tech</span>ware Scope Solutions offers ICT & Digital Consultancy services delivered by a
                                             highly skilled team with expertise in ICT, social media (digital communications),
-                                            information security, web development & hosting, onsite and remote technical support.
+                                            information security, web design, development & hosting, onsite and remote technical support.
                                             <br><br>
                                             We supply office equipments, stationery, phones, computers (PC's & Laptops), printers, accessories,
                                             toners & ink cartridges. Additionally, we build responsive websites fully optimised with the latest

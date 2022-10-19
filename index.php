@@ -138,7 +138,7 @@
                                     <h2> About Us</h2>
                                         <div class="about_stuff">
                                             <p>
-                                            Our wide exposure in ICT continues to power the company's drive in Computing, IT and Consultancy services.
+                                            Our driven and wide exposure in ICT continues to power the company's passion in IT, Computing and Consultancy services.
                                             Since establishment in March 2020, we've been consistent in providing reliable support services,
                                             solutions and maintaining close working relationships with our clients.
                                             <br><br>
@@ -475,8 +475,9 @@
 
                             <div class="answer">
                                 <p>
-                                    Lorem ipsum dolor sit amet,
-                                    consectetur adipisicing elit.
+                                    There's always a first for everything,
+                                    as such it would be easy to adjust to the computer of choice rather than discredit one or the other.
+                                    Windows and MacOS have str  consectetur adipisicing elit.
                                     Ab at nostrum perferendis quae!
                                     Ad adipisci, aliquam aspernatur
                                     dolorum eaque earum incidunt ipsa

@@ -475,7 +475,9 @@
 
                             <div class="answer">
                                 <p>
-                                    There's always a first for everything,
+                                    Mac OS is the primary operating system for Apple's Mac computers only.
+                                    while Windows refers to Microsoft Windows OS running on PC's powered by ARM runs
+                                    in Mac There's always a first for everything,
                                     as such it would be easy to adjust to the computer of choice rather than discredit one or the other.
                                     Windows and MacOS have str  consectetur adipisicing elit.
                                     Ab at nostrum perferendis quae!

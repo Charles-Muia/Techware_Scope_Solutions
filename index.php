@@ -138,15 +138,15 @@
                                     <h2> About Us</h2>
                                         <div class="about_stuff">
                                             <p>
-                                            Our driven and wide exposure in ICT continues to power the company's passion in IT, Computing and Consultancy services.
-                                            Since establishment in March 2020, we've been consistent in providing reliable support services,
-                                            solutions and maintaining close working relationships with our clients.
+                                            Our drive and wide exposure in ICT, Computing and Consultancy services is powered by passion.
+                                            Since establishment in March 2020, we've been consistent in providing reliable technical support services,
+                                            ICT solutions and maintaining close working relationships with our clients.
                                             <br><br>
                                             <span>Tech</span>ware Scope Solutions offers ICT & Digital Consultancy services delivered by a
                                             highly skilled team with expertise in ICT, social media (digital communications),
                                             information security, web design, development & hosting, onsite and remote technical support.
                                             <br><br>
-                                            We supply office equipments, stationery, phones, computers (PC's & Laptops), printers, accessories,
+                                            We supply office equipment's, stationery, phones, computers (PC's & Laptops), printers, accessories,
                                             toners & ink cartridges. Additionally, we build responsive websites fully optimised with the latest
                                             trends and attractive hosting packages to suit your business needs.
                                             </p>
@@ -476,7 +476,8 @@
                             <div class="answer">
                                 <p>
                                     Mac OS is the primary operating system for Apple's Mac computers only.
-                                    while Windows refers to Microsoft Windows OS running on PC's powered by ARM runs
+                                    while Windows developed by Microsoft runs on PC's powered by ARM
+                                    runs
                                     in Mac There's always a first for everything,
                                     as such it would be easy to adjust to the computer of choice rather than discredit one or the other.
                                     Windows and MacOS have str  consectetur adipisicing elit.

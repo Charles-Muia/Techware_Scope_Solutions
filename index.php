@@ -154,7 +154,7 @@
                                 <a href="https://www.facebook.com/TechwareScopeSolutions"><button type="button" class="btn btn-primary"> Read More ->>></button></a>
                             </div>
                                  <div class="col-md-6 para-bar">
-                                                <p> Wed Design & Hosting </p>
+                                               <p> Wed Design & Hosting </p>
                                                 <div class="progress">
                                                     <div class="progress-bar" style="width: 90%; background-color: deepskyblue"> 90% </div>
                                                 </div>
@@ -185,7 +185,7 @@
                                         <div class="icon">
                                             <i class="bi bi-tools"></i>
                                         </div>
-                                                <h3> ICT  Services <br> & <br> Support </h3>
+                                                <h3> ICT  Services <br> & <br> Technical Support </h3>
                                                     <p>Lorem ipsum dolor sit amet,
                                                         <br> consectetur adipisicing elit. <br>
                                                         Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>

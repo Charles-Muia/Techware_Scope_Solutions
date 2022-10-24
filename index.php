@@ -197,11 +197,14 @@
 <!--                                                        cum dolor doloribus whenever-->
 <!--                                                        est exercitationem labore maxime <br> molestias natus pariatur,-->
                                                         </p>
-                                                    <p>Lorem ipsum dolor sit amet,
-                                                        <br> consectetur adipisicing elit. <br>
-                                                        Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                        est exercitationem labore maxime <br> molestias natus pariatur,
-                                                        .</p>
+                                                    <p> When it comes to technology, nothing stays the same.
+                                                        We plan and manage any roll-out of software, operating system or hardware upgrades
+                                                        to ensure your business is compliant with the requirements and evolving times.
+<!--                                                        Lorem ipsum dolor sit amet,-->
+<!--                                                        <br> consectetur adipisicing elit. <br>-->
+<!--                                                        Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>-->
+<!--                                                        est exercitationem labore maxime <br> molestias natus pariatur,-->
+                                                        </p>
                                     </div>
                                     <div class="col-md-3 text-center">
                                         <div class="icon">

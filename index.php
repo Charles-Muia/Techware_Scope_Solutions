@@ -186,11 +186,17 @@
                                             <i class="bi bi-tools"></i>
                                         </div>
                                                 <h3> ICT  Services <br> & <br> Technical Support </h3>
-                                                    <p>Lorem ipsum dolor sit amet,
-                                                        <br> consectetur adipisicing elit. <br>
-                                                        Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                        est exercitationem labore maxime <br> molestias natus pariatur,
-                                                        .</p>
+                                                    <p> We offer ICT services covering supply of hardware and software,
+                                                        installation, maintenance and troubleshooting
+                                                        <br> aimed at supporting your business to run smoothly.
+                                                        <br><br>
+                                                        Our skilled team of technical engineers are up to the task and available
+                                                        upon request.
+                                                        <br> We advice on tailored solutions to meet your business needs
+                                                        while guiding on best practises and efficient cost-effective measures.
+<!--                                                        cum dolor doloribus whenever-->
+<!--                                                        est exercitationem labore maxime <br> molestias natus pariatur,-->
+                                                        </p>
                                                     <p>Lorem ipsum dolor sit amet,
                                                         <br> consectetur adipisicing elit. <br>
                                                         Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>

@@ -188,17 +188,17 @@
                                                 <h3> ICT  Services <br> & <br> Technical Support </h3>
                                                     <p> We offer ICT services covering supply of hardware and software,
                                                         installation, maintenance and troubleshooting
-                                                        <br> aimed at supporting your business to run smoothly.
+                                                        aimed at <br> supporting your business <br> to run smoothly.
                                                         <br><br>
                                                         Our skilled team of technical engineers are up to the task and available
                                                         upon request.
-                                                        <br> We advice on tailored solutions to meet your business needs
+                                                        <br> We advice on tailored solutions to suit your business needs
                                                         while guiding on best practises and efficient cost-effective measures.
 <!--                                                        cum dolor doloribus whenever-->
 <!--                                                        est exercitationem labore maxime <br> molestias natus pariatur,-->
                                                         </p>
-                                                    <p> When it comes to technology, nothing stays the same.
-                                                        We plan and manage any roll-out of software, operating system or hardware upgrades
+                                                    <p> When new technology or ground-breaking innovation emerges,
+                                                        We plan and facilitate any roll-out of software, operating system or hardware upgrades
                                                         to ensure your business is compliant with the requirements and evolving times.
 <!--                                                        Lorem ipsum dolor sit amet,-->
 <!--                                                        <br> consectetur adipisicing elit. <br>-->
@@ -211,8 +211,9 @@
                                             <i class="bi bi-hdd-network-fill"></i>
                                         </div>
                                                 <h3> Networking <br> & <br> Telephony </h3>
-                                                <p>Lorem ipsum dolor sit amet,
-                                                    <br> consectetur adipisicing elit. <br>
+                                                <p> We setup Local Area Networks in corporates, small and
+                                                    <br> medium sized work spaces to optimise resources, facilitate communication and collaboration
+                                                    <br> with an office environment. <br><br>
                                                     Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
                                                     est exercitationem labore maxime <br> molestias natus pariatur,
                                                     .</p>
@@ -243,9 +244,10 @@
                                             <i class="bi bi-code-slash"></i>
                                         </div>
                                                 <h3> Web Design <br> & <br> Hosting </h3>
-                                                <p>Lorem ipsum dolor sit amet,
-                                                    <br> consectetur adipisicing elit. <br>
-                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
+                                                <p> We combine text, photos <br> and videos to
+                                                    create <br> responsive web page designs
+                                                    <br> to showcase your business <br> goods, products <br> or services online.<br><br>
+                                                    cum dolor doloribus,<br>
                                                     est exercitationem labore maxime <br> molestias natus pariatur,
                                                     .</p>
                                                 <p>Lorem ipsum dolor sit amet,

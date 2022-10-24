@@ -243,22 +243,19 @@
                                             <i class="bi bi-code-slash"></i>
                                         </div>
                                                 <h3> Web Design <br> & <br> Hosting </h3>
-                                                <p> Since every business has a story worth telling,
-                                                    We combine text, photos and videos to
+                                                <p> We combine text, photos and <br> videos to
                                                     build professional responsive websites
-                                                    to showcase your business  goods, products or services online.<br>
+                                                    to <br> showcase your brand or business <br> goods, products and <br> services online.<br>
                                                     </p>
-                                                <p> We also redesign existing websites to meet modern times and trends.
-                                                    <br> consectetur adipisicing elit. <br>
-                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                    est exercitationem labore maxime.
+                                                <p> We also redesign existing websites to meet modern trends
+                                                    <br> and technology fully optimised <br> to facilitate interactive <br> engagements
+                                                    with potential <br> clients or customers online.
                                                     <br><br>
-                                                    We also redesign existing websites to meet modern times and trends.
+                                                    We also redesign existing websites to meet modern trends.
                                                     <br> consectetur adipisicing elit. <br>
                                                     Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
                                                     est exercitationem labore maxime.
-
-                                                    .</p>
+                                                    </p>
                                     </div>
 <!--                                    <div class="col-md-4 text-center">-->
 <!--                                        <div class="icon">-->

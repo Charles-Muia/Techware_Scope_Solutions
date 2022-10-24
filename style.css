@@ -83,7 +83,7 @@
 
     #about_site h2::after {
         content: '';
-        background: #0000ff;
+        background: #00008b;
         display: block;
         height: 4px;
         margin-top: 10px;
@@ -164,7 +164,6 @@
 
 /*--------------------------------------Our Offering section CSS-------------------------------------*/
 
-
     #serv_sec {
         background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.8)),url(Photos/Web.jpg);
         background-size: cover;
@@ -190,7 +189,7 @@
 
     #serv_sec h2::after {
         content: '';
-        background: #0000ff;
+        background: #00008b;
         display: block;
         height: 4px;
         margin-top: 10px;
@@ -203,7 +202,6 @@
         padding: 2px;
         margin-top: 30px;
         margin-bottom: 0px;
-
     }
 
     @media only screen and (max-width: 800px) {
@@ -271,7 +269,7 @@
 
     #services h2::after {
         content: '';
-        background: #0000ff;
+        background: #00008b;
         display: block;
         height: 4px;
         margin-top: 10px;
@@ -362,7 +360,7 @@
 
     #port_sec h2::after {
         content: '';
-        background: #0000ff;
+        background: #00008b;
         display: block;
         height: 4px;
         margin-top: 10px;
@@ -462,7 +460,7 @@
 
     #our_team h2::after {
         content: '';
-        background: #0000ff;
+        background: #00008b;
         display: block;
         height: 4px;
         margin-top: 10px;
@@ -495,7 +493,7 @@
 
     #our_blog h2::after {
         content: '';
-        background: #0000ff;
+        background: #00008b;
         display: block;
         height: 4px;
         margin-top: 10px;
@@ -585,7 +583,7 @@
 
     #FAQs_sec h2::after {
         content: '';
-        background: #0000ff;
+        background: #00008b;
         display: block;
         height: 4px;
         margin-top: 10px;
@@ -707,7 +705,7 @@
 
     #our_clients h2::after {
         content: '';
-        background: #0000ff;
+        background: #00008b;
         display: block;
         height: 4px;
         margin-top: 10px;
@@ -832,7 +830,7 @@
 
         #client_vibe h2::after {
             content: '';
-            background: #0000ff;
+            background: #00008b;
             display: block;
             height: 4px;
             margin-top: 10px;
@@ -865,7 +863,7 @@
 
         #cont_us h2::after {
             content: '';
-            background: #0000ff;
+            background: #00008b;
             display: block;
             height: 4px;
             margin-top: 10px;
@@ -923,6 +921,7 @@
             transition: 0.5s all linear;
             background: hsl(000,100%,44%,0.8);
             color: hsl(0 0% 0%);
+            font-weight: 700;
         }
 
         .cont-map iframe  {
@@ -942,7 +941,7 @@
 
         #cont_us .cont-map h2::after {
               content: '';
-              background: #0000ff;
+              background: #00008b;
               display: block;
               height: 4px;
               margin-top: 10px;
@@ -962,7 +961,7 @@
 
             #cont_us h2::after {
                 content: '';
-                background: #0000ff;
+                background: #00008b;
                 display: block;
                 height: 4px;
                 margin-top: 10px;

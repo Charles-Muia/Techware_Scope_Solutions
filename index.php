@@ -186,19 +186,21 @@
                                             <i class="bi bi-tools"></i>
                                         </div>
                                                 <h3> ICT  Services <br> & <br> Technical Support </h3>
-                                                    <p> We offer ICT services covering supply of hardware and software,
+                                                    <p> We offer ICT services covering <br> supply of hardware and software,
                                                         installation, maintenance and troubleshooting
-                                                        aimed at <br> supporting your business <br> to run smoothly.
+                                                        aimed <br> at supporting your <br> business to run smoothly.
                                                         <br><br>
-                                                        Our skilled team of technical engineers
-                                                        advice on tailored solutions to suit your business needs
-                                                        while guiding on best practises and efficient <br> cost-effective measures.
+                                                        Our skilled team of technical <br> engineers
+                                                        advice on tailored <br> solutions to suit your business needs
+                                                        while guiding on efficient cost-effective measures.
 <!--                                                        cum dolor doloribus whenever-->
 <!--                                                        est exercitationem labore maxime <br> molestias natus pariatur,-->
                                                         </p>
-                                                    <p> When new technology or ground-breaking innovation emerges,
-                                                        We plan and facilitate any roll-out of software, operating system or hardware upgrades
-                                                        to ensure your business is compliant with the requirements and evolving times.
+
+                                                    <p> When new technology emerges,<br>
+                                                        We plan and facilitate any roll-out of software, operating system
+                                                        <br> or hardware upgrades
+                                                        to ensure your business is compliant.
 <!--                                                        Lorem ipsum dolor sit amet,-->
 <!--                                                        <br> consectetur adipisicing elit. <br>-->
 <!--                                                        Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>-->
@@ -211,15 +213,19 @@
                                         </div>
                                                 <h3> Networking <br> & <br> Telephony </h3>
                                                 <p> We setup Local Area Networks in corporates, small and
-                                                    <br> medium sized work spaces to optimise resources, facilitate communication and collaboration
-                                                    <br> with an office environment. <br><br>
-                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                    est exercitationem labore maxime <br> molestias natus pariatur,
-                                                    .</p>
-                                                <p>Lorem ipsum dolor sit amet,
+                                                    <br> medium sized work spaces <br> to optimise resource sharing,
+                                                    <br> facilitate team communication <br> and collaboration.
+
+                                                    <br><br>
+                                                    Whether you're a small business needing a scalable communication <br>
+                                                    system, we provide  flexible <br> solutions that meet the evolving
+                                                    <br> needs of today's connected world.
+                                                    </p>
+
+                                                <p> Lorem ipsum dolor sit amet,
                                                     <br> consectetur adipisicing elit. <br>
                                                     Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                    est exercitationem labore maxime <br> molestias natus pariatur,
+                                                    est exercitationem labore maxime <br> molestias natus pariatur
                                                     .</p>
                                             </div>
                                     <div class="col-md-3 text-center">
@@ -227,15 +233,20 @@
                                             <i class="bi bi-printer-fill"></i>
                                         </div>
                                                 <h3> Office Equipments <br> & <br> Stationery </h3>
-                                                <p>Lorem ipsum dolor sit amet,
+                                                <p> Choosing the right office <br> equipments depends on <br> your business
+                                                    needs. <br> We help source the right
+                                                    items and deliver good quality equipments safely as ordered.
+                                                    <br><br>
+                                                    Lorem ipsum dolor sit amet,
                                                     <br> consectetur adipisicing elit. <br>
                                                     Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                    est exercitationem labore maxime <br> molestias natus pariatur,
-                                                    .</p>
-                                                <p>Lorem ipsum dolor sit amet,
+                                                    est exercitationem labore maxime.
+                                                    </p>
+
+                                                    <p>Lorem ipsum dolor sit amet,
                                                     <br> consectetur adipisicing elit. <br>
                                                     Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                    est exercitationem labore maxime <br> molestias natus pariatur,
+                                                    est exercitationem labore maxime <br> molestias natus pariatur
                                                     .</p>
                                             </div>
                                     <div class="col-md-3 text-center">
@@ -244,13 +255,14 @@
                                         </div>
                                                 <h3> Web Design <br> & <br> Hosting </h3>
                                                 <p> We combine text, photos and <br> videos to
-                                                    build professional responsive websites
-                                                    to <br> showcase your brand or business <br> goods, products and <br> services online.<br>
-                                                    </p>
-                                                <p> We also redesign existing websites to meet modern trends
-                                                    <br> and technology fully optimised <br> to facilitate interactive <br> engagements
-                                                    with potential <br> clients or customers online.
+                                                    build professional <br> responsive websites
+                                                    to showcase <br> your brand or business <br> goods, products <br> and services online.
                                                     <br><br>
+                                                    We also redesign existing websites <br> to meet modern trends
+                                                    and fully optimised  to facilitate interactive engagements
+                                                    with potential clients or customers online.
+                                                    </p>
+                                                    <p>
                                                     We also redesign existing websites to meet modern trends.
                                                     <br> consectetur adipisicing elit. <br>
                                                     Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>

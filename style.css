@@ -204,6 +204,11 @@
         margin-bottom: 0px;
     }
 
+    .row_serv_sec p {
+        display: flex;
+        justify-content: center;
+    }
+
     @media only screen and (max-width: 800px) {
         .row_serv_sec {
             display: inline;

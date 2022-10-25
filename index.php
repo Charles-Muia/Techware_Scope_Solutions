@@ -225,8 +225,8 @@
                                                 <p> Lorem ipsum dolor sit amet,
                                                     <br> consectetur adipisicing elit. <br>
                                                     Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                    est exercitationem labore maxime <br> molestias natus pariatur
-                                                    .</p>
+                                                    est exercitationem labore maxime.
+                                                    </p>
                                             </div>
                                     <div class="col-md-3 text-center">
                                         <div class="icon">
@@ -235,7 +235,7 @@
                                                 <h3> Office Equipments <br> & <br> Stationery </h3>
                                                 <p> Choosing the right office <br> equipments depends on <br> your business
                                                     needs. <br> We help source the right
-                                                    items and deliver good quality equipments safely as ordered.
+                                                    items <br> and deliver good quality equipments safely as ordered.
                                                     <br><br>
                                                     Lorem ipsum dolor sit amet,
                                                     <br> consectetur adipisicing elit. <br>
@@ -246,8 +246,8 @@
                                                     <p>Lorem ipsum dolor sit amet,
                                                     <br> consectetur adipisicing elit. <br>
                                                     Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                    est exercitationem labore maxime <br> molestias natus pariatur
-                                                    .</p>
+                                                    est exercitationem labore maxime.
+                                                    </p>
                                             </div>
                                     <div class="col-md-3 text-center">
                                         <div class="icon">
@@ -265,8 +265,7 @@
                                                     <p>
                                                     We also redesign existing websites to meet modern trends.
                                                     <br> consectetur adipisicing elit. <br>
-                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                    est exercitationem labore maxime.
+                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus.
                                                     </p>
                                     </div>
 <!--                                    <div class="col-md-4 text-center">-->

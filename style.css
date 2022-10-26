@@ -207,6 +207,7 @@
     .row_serv_sec p {
         display: flex;
         justify-content: center;
+        box-sizing: border-box;
     }
 
     @media only screen and (max-width: 800px) {

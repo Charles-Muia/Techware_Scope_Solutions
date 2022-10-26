@@ -191,8 +191,8 @@
                                                         aimed <br> at supporting your <br> business to run smoothly.
                                                         <br><br>
                                                         Our skilled team of technical <br> engineers
-                                                        advice on tailored <br> solutions to suit your business needs
-                                                        while guiding on efficient cost-effective measures.
+                                                        advice on tailored <br> solutions to suit your  business <br> needs
+                                                        while guiding on efficient <br> cost-effective measures.
 <!--                                                        cum dolor doloribus whenever-->
 <!--                                                        est exercitationem labore maxime <br> molestias natus pariatur,-->
                                                         </p>
@@ -217,9 +217,9 @@
                                                     <br> facilitate team communication <br> and collaboration.
 
                                                     <br><br>
-                                                    Whether you're a small business needing a scalable communication <br>
-                                                    system, we provide  flexible <br> solutions that meet the evolving
-                                                    <br> needs of today's connected world.
+                                                    Whether you're a small business <br> needing a scalable communication <br>
+                                                    system, we provide  flexible  solutions <br> that meet the evolving
+                                                    needs <br> of today's connected world.
                                                     </p>
 
                                                 <p> Lorem ipsum dolor sit amet,

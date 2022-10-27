@@ -294,7 +294,7 @@
                                     <i class="bi bi-printer"></i>
                                     <h3> Printing <br> & <br> Consumables </h3>
                                     <i class="bi bi-paperclip"></i>
-                                    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    <p> Lorem ipsum dolor sit amet, <br> consectetur adipisicing elit.
                                         Aperiam dicta doloremque earum incidunt laudantium, quasi quos vel. Animi debitis error
                                         laboriosam magni necessitatibus, placeat? A commodi fuga perspiciatis reiciendis veniam? </p>
 <!--                                            <a href="#"> learn more </a>-->
@@ -305,7 +305,7 @@
                                     <i class="bi bi-pci-card"></i>
                                     <h3> PC Accessories <br> & <br> Network Devices </h3>
                                     <i class="bi bi-router-fill"></i>
-                                    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    <p> Lorem ipsum dolor sit amet, <br> consectetur adipisicing elit.
                                         Aperiam dicta doloremque earum incidunt laudantium, quasi quos vel. Animi debitis error
                                         laboriosam magni necessitatibus, placeat? A commodi fuga perspiciatis reiciendis veniam? </p>
 <!--                                    <a href="#"> learn more </a>-->
@@ -316,7 +316,7 @@
                                     <i class="bi bi-laptop-fill"></i>
                                     <h3> Laptops <br> & <br> Desktops </h3>
                                     <i class="bi bi-pc-display"></i>
-                                    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    <p> Lorem ipsum dolor sit amet, <br> consectetur adipisicing elit.
                                         Aperiam dicta doloremque earum incidunt laudantium, quasi quos vel. Animi debitis error
                                         laboriosam magni necessitatibus, placeat? A commodi fuga perspiciatis reiciendis veniam? </p>
 <!--                                    <a href="#"><button type="button" class="btn btn-primary"> Read More ->>></button> </a>-->

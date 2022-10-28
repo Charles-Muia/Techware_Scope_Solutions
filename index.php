@@ -305,9 +305,14 @@
                                     <i class="bi bi-pci-card"></i>
                                     <h3> PC Accessories <br> & <br> Network Devices </h3>
                                     <i class="bi bi-router-fill"></i>
-                                    <p> Lorem ipsum dolor sit amet, <br> consectetur adipisicing elit.
-                                        Aperiam dicta doloremque earum incidunt laudantium, quasi quos vel. Animi debitis error
-                                        laboriosam magni necessitatibus, placeat? A commodi fuga perspiciatis reiciendis veniam? </p>
+                                    <p> We offer networking solutions
+                                        <br> including cabling, devices and accessories.
+                                        <br> Our job is to ensure that we deliver
+                                        <br> premium services with a keen focus
+                                        <br> on quality, functionality and scalability.
+                                        <br> laboriosam magni necessitatibus,
+                                        <br> placeat? A commodi fuga
+                                        <br> perspiciatis reiciendis veniam? </p>
 <!--                                    <a href="#"> learn more </a>-->
                                 </div>
 
@@ -317,7 +322,7 @@
                                     <h3> Laptops <br> & <br> Desktops </h3>
                                     <i class="bi bi-pc-display"></i>
                                     <p> We help make sense where a desktop <br> or laptop might be a better fit <br> through our experience in the field.
-                                        <br> Our business is supporting your business
+                                        <br> Our business is supporting yours
                                         <br> with a specialised focus on quality.
                                         <br> We also offer computer repair services,
                                         <br> supply of new and used hardware,

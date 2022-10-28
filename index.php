@@ -316,9 +316,12 @@
                                     <i class="bi bi-laptop-fill"></i>
                                     <h3> Laptops <br> & <br> Desktops </h3>
                                     <i class="bi bi-pc-display"></i>
-                                    <p> Lorem ipsum dolor sit amet, <br> consectetur adipisicing elit.
-                                        Aperiam dicta doloremque earum incidunt laudantium, quasi quos vel. Animi debitis error
-                                        laboriosam magni necessitatibus, placeat? A commodi fuga perspiciatis reiciendis veniam? </p>
+                                    <p> We help make sense where a desktop <br> or laptop might be a better fit <br> through our experience in the field.
+                                        <br> Our business is supporting your business
+                                        <br> with a specialised focus on quality.
+                                        <br> We also offer computer repair services,
+                                        <br> supply of new and used hardware,
+                                        <br> accessories and parts for leading brands. </p>
 <!--                                    <a href="#"><button type="button" class="btn btn-primary"> Read More ->>></button> </a>-->
 <!--                                    <a href="#"> learn more </a>-->
                                 </div>

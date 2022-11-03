@@ -291,7 +291,7 @@
     }
 
     .our_services_list div {
-        padding: 5px;
+        padding: 10px;
         border-radius: 5px;
         text-align: center;
         background: #262626;
@@ -335,6 +335,7 @@
     .our_services_list div h3 {
         margin-top: 5px;
         padding-bottom: 10px;
+        padding-top: 15px;        /*adds space after the title*/
     }
 
     .our_services_list div:hover {
@@ -688,7 +689,7 @@
 /*--------------------------------------Our Clients section CSS-------------------------------------*/
 
     #our_clients {
-        padding-bottom: 1px;
+        padding-bottom: 20px;
         margin-top: 20px;
         /*background-color: lightgrey;*/
     }
@@ -737,6 +738,7 @@
         text-align: center;
         padding-bottom: 35px;
     }
+
 
 /*--------------------------------------Client Testimonials section CSS-------------------------------------*/
 

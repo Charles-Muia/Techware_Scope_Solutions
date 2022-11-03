@@ -294,9 +294,15 @@
                                     <i class="bi bi-printer"></i>
                                     <h3> Printing <br> & <br> Consumables </h3>
                                     <i class="bi bi-paperclip"></i>
-                                    <p> Lorem ipsum dolor sit amet, <br> consectetur adipisicing elit.
-                                        Aperiam dicta doloremque earum incidunt laudantium, quasi quos vel. Animi debitis error
-                                        laboriosam magni necessitatibus, placeat? A commodi fuga perspiciatis reiciendis veniam? </p>
+                                    <p> When it comes to the office environment,
+                                        <br> we provide a wide range
+                                        <br> of solutions not limited to supply
+                                        <br> of printers both coloured and mono
+                                        <br> (black and white), consumables including
+                                        <br> pens, folders and files, toners,
+                                        <br> cartridges, photocopy / printing papers
+                                        <br> and all other office items.
+                                    </p>
 <!--                                            <a href="#"> learn more </a>-->
                                 </div>
 
@@ -310,9 +316,9 @@
                                         <br> Our job is to ensure that we deliver
                                         <br> premium services with a keen focus
                                         <br> on quality, functionality and scalability.
-                                        <br> laboriosam magni necessitatibus,
-                                        <br> placeat? A commodi fuga
-                                        <br> perspiciatis reiciendis veniam? </p>
+                                        <br> Reach out to us for
+                                        <br> all PC accessories, servers and
+                                        <br> networking gadgets / equipments. </p>
 <!--                                    <a href="#"> learn more </a>-->
                                 </div>
 
@@ -321,7 +327,9 @@
                                     <i class="bi bi-laptop-fill"></i>
                                     <h3> Laptops <br> & <br> Desktops </h3>
                                     <i class="bi bi-pc-display"></i>
-                                    <p> We help make sense where a desktop <br> or laptop might be a better fit <br> through our experience in the field.
+                                    <p> We help make sense where a desktop
+                                        <br> or laptop might be a better fit
+                                        <br> through our experience in this field.
                                         <br> Our business is supporting yours
                                         <br> with a specialised focus on quality.
                                         <br> We also offer computer repair services,
@@ -634,44 +642,44 @@
                         <div class="row">
                             <div class="col-md-3 client-logo text-center">
                                     <div class="img-box">
-                                        <img src="Photos/EQUITY-LOGO-BIASHARA-LEO.jpg" alt="" class="img-sec">
+                                        <img src="#" alt="" class="img-sec">
                                     </div>
                             </div>
                             <div class="col-md-3 client-logo text-center">
                                 <div class="img-box">
-                                    <img src="Photos/Telkom.png" alt="" class="img-sec">
+                                        <img src="Photos/Asumbi_TC.jpg" alt="" class="img-sec">
                                 </div>
                             </div>
-                            <div class="col-md-3 client-logo text-center">
-                                <div class="img-box">
-                                    <img src="Photos/Co-op.jpg" alt="" class="img-sec">
-                                </div>
-                            </div>
-                            <div class="col-md-3 client-logo text-center">
-                                <div class="img-box">
-                                    <img src="Photos/Absa.png" alt="" class="img-sec">
-                                </div>
-                            </div>
+<!--                            <div class="col-md-3 client-logo text-center">-->
+<!--                                <div class="img-box">-->
+<!--                                    <img src="Photos/Co-op.jpg" alt="" class="img-sec">-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="col-md-3 client-logo text-center">-->
+<!--                                <div class="img-box">-->
+<!--                                    <img src="Photos/Absa.png" alt="" class="img-sec">-->
+<!--                                </div>-->
+<!--                            </div>-->
                             <div class="col-md-3 client-logo text-center">
                                 <div class="img-box">
                                     <a href="https://www.facebook.com/LifeSaversClubKE"><img src="Photos/Life_Savers_Club.jpg" alt="" class="img-sec"></a>
                                 </div>
                             </div>
-                            <div class="col-md-3 client-logo text-center">
-                                <div class="img-box">
-                                    <img src="Photos/IEBC.png" alt="" class="img-sec">
-                                </div>
-                            </div>
-                            <div class="col-md-3 client-logo text-center">
-                                <div class="img-box">
-                                    <img src="Photos/Jamii.png" alt="" class="img-sec">
-                                </div>
-                            </div>
-                            <div class="col-md-3 client-logo text-center">
-                                <div class="img-box">
-                                    <img src="Photos/Airtel.png" alt="" class="img-sec">
-                                </div>
-                            </div>
+<!--                            <div class="col-md-3 client-logo text-center">-->
+<!--                                <div class="img-box">-->
+<!--                                    <img src="Photos/IEBC.png" alt="" class="img-sec">-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="col-md-3 client-logo text-center">-->
+<!--                                <div class="img-box">-->
+<!--                                    <img src="Photos/Jamii.png" alt="" class="img-sec">-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                            <div class="col-md-3 client-logo text-center">-->
+<!--                                <div class="img-box">-->
+<!--                                    <img src="Photos/Airtel.png" alt="" class="img-sec">-->
+<!--                                </div>-->
+<!--                            </div>-->
                         </div>
                 </div>
             </section>

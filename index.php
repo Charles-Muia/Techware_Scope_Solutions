@@ -488,12 +488,10 @@
 
                                     <div class="answer">
                                         <p>
-                                            Lorem ipsum dolor sit amet,
-                                            consectetur adipisicing elit.
-                                            Ab at nostrum perferendis quae!
-                                            Ad adipisci, aliquam aspernatur
-                                            dolorum eaque earum incidunt ipsa
-                                            iste omnis quam ratione rerum sed veritatis! Dolor.
+                                            Higher processor series offers a higher level of performance, an i7 will outperform an i5. The Intel® Core™ processor family
+                                            consists of i3, i5, i7, i9 and x-series. A solid state Drive (SSD) is reliable and faster compared to Hard Disk Drives (HDD).
+                                            SSDs are energy efficient, robust and small-in-size. 8GB RAM is fine for productivity, the more you have the better. Ability
+                                            to increase RAM is a key feature. For laptops, screen resolution, ports like HDMI, USB, VGA, card reader are essential.
                                         </p>
                                     </div>
                             </div>
@@ -514,23 +512,18 @@
 
                             <div class="answer">
                                 <p>
-                                    Mac OS is the primary operating system for Apple's Mac computers only.
-                                    while Windows developed by Microsoft runs on PC's powered by ARM
-                                    runs
-                                    in Mac There's always a first for everything,
-                                    as such it would be easy to adjust to the computer of choice rather than discredit one or the other.
-                                    Windows and MacOS have str  consectetur adipisicing elit.
-                                    Ab at nostrum perferendis quae!
-                                    Ad adipisci, aliquam aspernatur
-                                    dolorum eaque earum incidunt ipsa
-                                    iste omnis quam ratione rerum sed veritatis! Dolor.
+                                    macOS is the primary operating system for Apple's Mac computers only. Windows is developed by Microsoft.
+                                    Windows and macOS deliver similar functionality, as such it would be easy to adjust to the computer of choice
+                                    rather than discredit one over the other. This is based on the fact that the two major Operating Systems undergo
+                                    periodic robust updates and improvements. In recent times, Microsoft released Windows 11 while Apple released
+                                    macOS Ventura.
                                 </p>
                             </div>
                         </div>
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"> </i> Tech Trends in 2022/23 <i class="bi bi-question-circle-fill"></i> </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> What are the Tech Trends in 2022/23 <i class="bi bi-question-circle-fill"></i> </h5>
                                 <!--                                    SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
@@ -544,6 +537,7 @@
 
                             <div class="answer">
                                 <p>
+                                    Laptops are becoming smaller and
                                     Lorem ipsum dolor sit amet,
                                     consectetur adipisicing elit.
                                     Ab at nostrum perferendis quae!
@@ -556,7 +550,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"> </i> Experiencing slow PC or Laptop performance <i class="bi bi-question-circle-fill"></i> </h5>
+                                <h5> <i class="bi bi-chevron-double-right"> </i> What causes slow PC or Laptop performance <i class="bi bi-question-circle-fill"></i> </h5>
                                 <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
@@ -570,6 +564,8 @@
 
                             <div class="answer">
                                 <p>
+                                    Memory, hardware and software failures are the major causes. Lack of sufficient or low RAM greatly affects performance.
+                                    Limited storage capacity (SSD or HDD) The avarage
                                     Lorem ipsum dolor sit amet,
                                     consectetur adipisicing elit.
                                     Ab at nostrum perferendis quae!
@@ -647,7 +643,7 @@
                             </div>
                             <div class="col-md-3 client-logo text-center">
                                 <div class="img-box">
-                                        <img src="Photos/Asumbi_TC.jpg" alt="" class="img-sec">
+                                    <a href="https://www.facebook.com/AsumbiTC"><img src="Photos/Asumbi_TC.jpg" alt="" class="img-sec"></a>
                                 </div>
                             </div>
 <!--                            <div class="col-md-3 client-logo text-center">-->

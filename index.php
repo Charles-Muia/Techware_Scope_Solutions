@@ -694,39 +694,42 @@
                             <div class="row">
                                 <div class="col-md-4 text-center">
                                     <div class="pro">
-                                                <img src="Photos/JFK.jpg" alt="" class="pro_pic"> <br>
+                                                <img src="Photos/Guy.jpg" alt="" class="pro_pic"> <br>
                                                 <blockquote>
-                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                                    A autem doloribus earum eius eligendi est ex
-                                                    facere illo magni minima minus mollitia quibusdam quisquam quo repellendus,
-                                                    sapiente sequi temporibus velit.
+                                                    If you need tech solutions look no further,
+                                                    Techware Scope Solutions is your one-stop  provider.
+                                                    Our organizations' social media presence is now a
+                                                    reality thanks to the team.
+                                                    We are able to reach volunteers .
                                                 </blockquote>
-                                                    <h5> Mr. John Doe <br> <span> Director Life Savers Club </span></h5>
+                                                    <h5> Mr. Pharis M. <br> <span> Patron: Life Savers Club </span></h5>
                                     </div>
                                 </div>
                                 <div class="col-md-4 text-center">
                                     <div class="pro">
-                                        <img src="Photos/Telkom.png" alt="" class="pro_pic"> <br>
+                                        <img src="Photos/Erica%20Armstrong.jpg" alt="" class="pro_pic"> <br>
                                         <blockquote>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                            A autem doloribus earum eius eligendi est ex
-                                            facere illo magni minima minus mollitia quibusdam quisquam quo repellendus,
-                                            sapiente sequi temporibus velit.
+                                            Outstanding customer service with a keen
+                                            centric commitment on quality. I got the best experience
+                                            during my interaction with the team.
+                                            I highly recommend them for all of your ICT & Digital
+                                            needs and requirements.
                                         </blockquote>
-                                        <h5> Mr. John Doe <br> <span> Director Life Savers Club </span></h5>
+                                        <h5> Mr. John Doe <br> <span> Director: Life Savers Club </span></h5>
                                     </div>
 
                                 </div>
                                 <div class="col-md-4 text-center">
                                     <div class="pro">
-                                        <img src="Photos/Absa.png" alt="" class="pro_pic"> <br>
+                                        <img src="Photos/Chiamaka.jpg" alt="" class="pro_pic"> <br>
                                         <blockquote>
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                            A autem doloribus earum eius eligendi est ex
-                                            facere illo magni minima minus mollitia quibusdam quisquam quo repellendus,
-                                            sapiente sequi temporibus velit.
+                                            The team is professional and experienced.
+                                            They facilitated Windows OS migration from
+                                            Windows 10 Pro to Windows 11 Pro with in a
+                                            short turn around time tremendously boosting our
+                                            day to day business operations.
                                         </blockquote>
-                                        <h5> Mr. John Doe <br> <span> Director Life Savers Club </span></h5>
+                                        <h5> Mrs. Chiamka Brown <br> <span> Managing Director: Tech Club Limited </span></h5>
                                     </div>
                                 </div>
                             </div>

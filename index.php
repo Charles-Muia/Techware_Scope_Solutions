@@ -233,20 +233,20 @@
                                             <i class="bi bi-printer-fill"></i>
                                         </div>
                                                 <h3> Office Equipments <br> & <br> Stationery </h3>
-                                                <p> Choosing the right office <br> equipments depends on <br> your business
-                                                    needs. <br> We help source the right
-                                                    items <br> and deliver good quality equipments safely as ordered.
+                                                <p> Every business should have <br> office equipments that <br> facilitate
+                                                    smooth running of <br> day to day operations. <br>
+                                                    It is important to have reliable <br> and
+                                                    proper systems in place.
                                                     <br><br>
-                                                    Lorem ipsum dolor sit amet,
-                                                    <br> consectetur adipisicing elit. <br>
-                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                    est exercitationem labore maxime.
+                                                    Choosing the right office <br> equipments depends on <br> your business
+                                                    needs. <br> We help source the right
+                                                    items <br> and deliver as ordered.
                                                     </p>
 
-                                                    <p>Lorem ipsum dolor sit amet,
-                                                    <br> consectetur adipisicing elit. <br>
-                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                    est exercitationem labore maxime.
+                                                    <p> We supply printers, shredders,
+                                                    <br> keyboards, office chairs, <br>
+                                                    heavy duty Power Supply Units, <br> and any other office <br>
+                                                    equipments and Stationery.
                                                     </p>
                                             </div>
                                     <div class="col-md-3 text-center">

@@ -222,10 +222,10 @@
                                                     needs <br> of today's connected world.
                                                     </p>
 
-                                                <p> Lorem ipsum dolor sit amet,
-                                                    <br> consectetur adipisicing elit. <br>
-                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus,<br>
-                                                    est exercitationem labore maxime.
+                                                <p> Get in touch with us for
+                                                    <br> all of your networking needs. <br>
+                                                    As a provider we ensure <br> that your business,<br>
+                                                    or home office is connected.
                                                     </p>
                                             </div>
                                     <div class="col-md-3 text-center">
@@ -263,9 +263,9 @@
                                                     with potential clients or customers online.
                                                     </p>
                                                     <p>
-                                                    We also redesign existing websites to meet modern trends.
-                                                    <br> consectetur adipisicing elit. <br>
-                                                    Adipisci animi commodi corporis, <br> cum dolor doloribus.
+                                                    Through our design skills, we are competent in this field to
+                                                    <br> give your website a tremendous <br>
+                                                    online presence boosting <br> your business visibility.
                                                     </p>
                                     </div>
 <!--                                    <div class="col-md-4 text-center">-->
@@ -707,7 +707,7 @@
                                 </div>
                                 <div class="col-md-4 text-center">
                                     <div class="pro">
-                                        <img src="Photos/Erica%20Armstrong.jpg" alt="" class="pro_pic"> <br>
+                                        <img src="Photos/Erica_Armstrong.jpg" alt="" class="pro_pic"> <br>
                                         <blockquote>
                                             Outstanding customer service with a keen
                                             centric commitment on quality. I got the best experience
@@ -715,7 +715,7 @@
                                             I highly recommend them for all of your ICT & Digital
                                             needs and requirements.
                                         </blockquote>
-                                        <h5> Mr. John Doe <br> <span> Director: Life Savers Club </span></h5>
+                                        <h5> Mr. John Doe <br> <span> Director: Armstrong Industries </span></h5>
                                     </div>
 
                                 </div>
@@ -763,7 +763,7 @@
                     <div class="foot_abt">
                         <h5> About Us </h5>
                         <p> <span id="rd">Tech</span>ware Scope Solutions offers ICT, office equipment, stationery supply & digital consultancy services
-                            delivered by a highly skilled team with expertise in
+                            delivered by a highly skilled team with expertise in:<i class="bi bi-dash-lg"></i>
                             <br><br>
 <!--                            praesentium quaerat recusandae saepe sed velit voluptates!-->
 <!--                            Aperiam architecto iure molestiae quo velit.-->

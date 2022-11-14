@@ -198,7 +198,7 @@
                                                         </p>
 
                                                     <p> When new technology emerges,<br>
-                                                        We plan and facilitate any roll-out of software, operating system
+                                                        we plan and facilitate any roll-out of software, operating system
                                                         <br> or hardware upgrades
                                                         to ensure your business is compliant.
 <!--                                                        Lorem ipsum dolor sit amet,-->
@@ -353,10 +353,13 @@
                                 <img src="Photos/Social_Media3.jpg" alt="">
                                     <div class="port_layer">
                                         <h3> Social Media  </h3>
-                                            <p> Lorem ipsum dolor sit amet,
-                                                consectetur adipisicing elit.
-                                                ulpa debitis distinctio
-                                                culpa debitis distinctio </p>
+                                            <p> We set up pages and curate content
+                                                on Social media platforms
+                                                (Facebook, LinkedIn, Twitter).
+                                                Our expertise in this field provides
+                                                your audience with extra value
+                                                while keeping you visible.
+                                            </p>
                                             <a href=""><i class="bi bi-link-45deg"></i></i></a>
                                     </div>
                             </div>
@@ -490,7 +493,7 @@
                                         <p>
                                             Higher processor series offers a higher level of performance, an i7 will outperform an i5. The Intel® Core™ processor family
                                             consists of i3, i5, i7, i9 and x-series. A solid state Drive (SSD) is reliable and faster compared to Hard Disk Drives (HDD).
-                                            SSDs are energy efficient, robust and small-in-size. 8GB RAM is fine for productivity, the more you have the better. Ability
+                                            SSDs are energy efficient, robust and small-in-size. 8GB RAM is sufficient for productivity. Ability
                                             to increase RAM is a key feature. For laptops, screen resolution, ports like HDMI, USB, VGA, card reader are essential.
                                         </p>
                                     </div>

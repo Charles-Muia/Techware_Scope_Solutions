@@ -350,7 +350,7 @@
                     <h2> Our Portfolio </h2>
                         <div class="port_list">
                             <div class="port_inner">
-                                <img src="Photos/Social_Media3.jpg" alt="">
+                                <img src="Photos/Social_Media4.jpg" alt="">
                                     <div class="port_layer">
                                         <h3> Social Media  </h3>
                                             <p> We set up pages and curate content
@@ -367,21 +367,24 @@
                                 <img src="Photos/Analytics_2.jpg" alt="">
                                     <div class="port_layer">
                                         <h3> SEO </h3>
-                                            <p> Lorem ipsum dolor sit amet,
-                                                consectetur adipisicing elit.
-                                                ulpa debitis distinctio
-                                                culpa debitis distinctio </p>
+                                            <p> We improve your site visibility through the
+                                                Search Engine Optimization process. This
+                                                surfaces relevant, authoritative pages and
+                                                provide users with an efficient search experience.
+                                            </p>
                                             <a href=""><i class="bi bi-link-45deg"></i></i></a>
                                 </div>
                             </div>
                             <div class="port_inner">
-                                <img src="Photos/Social_Media4.jpg" alt="">
+                                <img src="Photos/Bulk_SMS.jpg" alt="">
                                     <div class="port_layer">
                                         <h3> Bulk SMS </h3>
-                                            <p> Lorem ipsum dolor sit amet,
-                                                consectetur adipisicing elit.
-                                                ulpa debitis distinctio
-                                                culpa debitis distinctio </p>
+                                            <p> We facilitate on-boarding Short Message Services
+                                                platforms for your business to facilitate
+                                                sending payment reminders,
+                                                marketing campaigns and group messaging
+                                                in schools or corporates.
+                                            </p>
                                             <a href=""><i class="bi bi-link-45deg"></i></i></a>
                                 </div>
                             </div>

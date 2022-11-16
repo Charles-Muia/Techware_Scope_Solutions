@@ -454,7 +454,7 @@
                             </div>
                             <div class="col-md-4">
                                 <div class="uno_blog">
-                                    <p class="blog_data"> By Admin <span> September 23, 2022</span></p>
+                                    <p class="blog_data"> By Admin <span> October 3, 2022</span></p>
                                     <img src="Photos/Apple.jpg" alt="">
                                     <h5><a href="#"> Apple Event iPhone 14 and iPhone 14 Plus </a></h5>
                                     <p class="blog_text">
@@ -777,8 +777,8 @@
                                     <ul class="lst_inks">
 <!--                                        <li><a href="#"><i class="bi bi-facebook"></i></a></li>-->
                                         <li><a href="https://www.facebook.com/TechwareScopeSolutions"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                        <li><a href="#"><i class="bi bi-twitter"></i></a></li>
-                                        <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
+                                        <li><a href="https://twitter.com/S_TechwareScope"><i class="bi bi-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/company/techware-scope-solutions/"><i class="bi bi-linkedin"></i></a></li>
                                         <li><a href="#"><i class="bi bi-whatsapp"></i></i></a></li>
                                         <li><a href="#"><i class="bi bi-youtube"></i></a></li>
                                         <li><a href="#"><i class="bi bi-github"></i></a></li>

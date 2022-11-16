@@ -154,13 +154,13 @@
                                 <a href="https://www.facebook.com/TechwareScopeSolutions"><button type="button" class="btn btn-primary"> Read More ->>></button></a>
                             </div>
                                  <div class="col-md-6 para-bar">
-                                               <p> Wed Design & Hosting </p>
+                                               <p> Web Design & Hosting </p>
                                                 <div class="progress">
-                                                    <div class="progress-bar" style="width: 90%; background-color: deepskyblue"> 90% </div>
+                                                    <div class="progress-bar" style="width: 100%; background-color: deepskyblue"> 100% </div>
                                                 </div>
                                                <p> Networking & Telephony </p>
                                                <div class="progress">
-                                                    <div class="progress-bar" style="width: 80%; background-color: darkorange" > 75% </div>
+                                                    <div class="progress-bar" style="width: 100%; background-color: darkorange" > 100% </div>
                                                </div>
                                                 <p> ICT Support & Maintenance </p>
                                                 <div class="progress">
@@ -168,7 +168,7 @@
                                                 </div>
                                                 <p> Office Equipment & Stationery </p>
                                                 <div class="progress">
-                                                    <div class="progress-bar" style="width: 80%; background-color: darkblue"> 65% </div>
+                                                    <div class="progress-bar" style="width: 100%; background-color: darkblue"> 100% </div>
                                                 </div>
                                  </div>
                             </div>
@@ -569,7 +569,8 @@
                                     Memory, hardware and software failures are the major causes. Lack of sufficient or low RAM greatly affects performance.
                                     Limited storage capacity (SSD or HDD) can also affect performance. It is important to keep the laptop or PC Operating System
                                     and other applications updated. This is achieved via connecting to the internet, the automated update system will detect any
-                                    available security, feature or definition updates ready for download and installation.
+                                    available security, feature or definition updates ready for download and installation. Cleaning out the dust is also helpful,
+                                    a blower is highly recommended. A technician will be in a better place to execute this procedure.
 
                                 </p>
                             </div>
@@ -577,7 +578,7 @@
 
                         <div class="faq">
                             <div class="quiz">
-                                <h5> <i class="bi bi-chevron-double-right"></i> Q - Test 123 <i class="bi bi-question-circle-fill"></i> </h5>
+                                <h5> <i class="bi bi-chevron-double-right"></i> What is the average lifespan of a computer <i class="bi bi-question-circle-fill"></i> </h5>
                                 <!--SVG (Scalable Vector Graphics) is used to define graphics for the web.-->
                                 <svg width="15" height="10" viewBox="0 0 42 25">
                                     <path
@@ -591,12 +592,11 @@
 
                             <div class="answer">
                                 <p>
-                                    Lorem ipsum dolor sit amet,
-                                    consectetur adipisicing elit.
-                                    Ab at nostrum perferendis quae!
-                                    Ad adipisci, aliquam aspernatur
-                                    dolorum eaque earum incidunt ipsa
-                                    iste omnis quam ratione rerum sed veritatis! Dolor.
+                                    3 to 5 years. Worth noting is that a laptop's lifespan is shorter than of a desktop PC. This is mostly because of their portability
+                                    nature and compact design. Mishandling also accelerates the rate at which a laptop can be deemed unusable. To maximise the lifespan of
+                                    a laptop or PC, always ensure that maintenance is carried out on a regular basis. For example, you must clean or blow out the
+                                    dust that accumulates over time. We offer these services at affordable rates to ensure your device is fully optimised to deliver
+                                    productivity.
                                 </p>
                             </div>
                         </div>

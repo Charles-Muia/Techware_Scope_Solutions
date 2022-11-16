@@ -495,6 +495,7 @@
                                             consists of i3, i5, i7, i9 and x-series. A solid state Drive (SSD) is reliable and faster compared to Hard Disk Drives (HDD).
                                             SSDs are energy efficient, robust and small-in-size. 8GB RAM is sufficient for productivity. Ability
                                             to increase RAM is a key feature. For laptops, screen resolution, ports like HDMI, USB, VGA, card reader are essential.
+                                            Most importantly, ensure that the Operating System and Microsoft Office or simply Office installed are both genuine and activated.
                                         </p>
                                     </div>
                             </div>
@@ -540,13 +541,11 @@
 
                             <div class="answer">
                                 <p>
-                                    Laptops are becoming smaller and
-                                    Lorem ipsum dolor sit amet,
-                                    consectetur adipisicing elit.
-                                    Ab at nostrum perferendis quae!
-                                    Ad adipisci, aliquam aspernatur
-                                    dolorum eaque earum incidunt ipsa
-                                    iste omnis quam ratione rerum sed veritatis! Dolor.
+                                    Laptops are becoming smaller most of which don't come with the optical disk or DVD drives.
+                                    High resolution built in webcams are witnessing a shift from the traditional 720p to high definition 1080p.
+                                    New generational storage device SSD (Solid State Disk) has almost replaced the traditional HDD (Hard Disk Drives).
+                                    8GB RAM is becoming standard for new laptops away from the previous 4GB due to the high demands associated with
+                                    efficiency and processing speeds.
                                 </p>
                             </div>
                         </div>
@@ -568,13 +567,10 @@
                             <div class="answer">
                                 <p>
                                     Memory, hardware and software failures are the major causes. Lack of sufficient or low RAM greatly affects performance.
-                                    Limited storage capacity (SSD or HDD) The avarage
-                                    Lorem ipsum dolor sit amet,
-                                    consectetur adipisicing elit.
-                                    Ab at nostrum perferendis quae!
-                                    Ad adipisci, aliquam aspernatur
-                                    dolorum eaque earum incidunt ipsa
-                                    iste omnis quam ratione rerum sed veritatis! Dolor.
+                                    Limited storage capacity (SSD or HDD) can also affect performance. It is important to keep the laptop or PC Operating System
+                                    and other applications updated. This is achieved via connecting to the internet, the automated update system will detect any
+                                    available security, feature or definition updates ready for download and installation.
+
                                 </p>
                             </div>
                         </div>
@@ -705,7 +701,7 @@
                                                     reality thanks to the team.
                                                     We are able to reach volunteers .
                                                 </blockquote>
-                                                    <h5> Mr. Pharis M. <br> <span> Patron: Life Savers Club </span></h5>
+                                                    <h5> Mr. Pharis Mukuria. <br> <span> Director: Life Savers Club </span></h5>
                                     </div>
                                 </div>
                                 <div class="col-md-4 text-center">
@@ -718,7 +714,7 @@
                                             I highly recommend them for all of your ICT & Digital
                                             needs and requirements.
                                         </blockquote>
-                                        <h5> Mr. John Doe <br> <span> Director: Armstrong Industries </span></h5>
+                                        <h5> Mrs. Jane Armstrong <br> <span> Director: Armstrong Industries </span></h5>
                                     </div>
 
                                 </div>

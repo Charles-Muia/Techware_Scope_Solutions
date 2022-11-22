@@ -714,10 +714,10 @@
                                             Outstanding customer service with a keen
                                             centric commitment on quality. I got the best experience
                                             during my interaction with the team.
-                                            I highly recommend them for all of your ICT & Digital
+                                            I highly recommend them for all ICT & Digital
                                             needs and requirements.
                                         </blockquote>
-                                        <h5> Mrs. Jane Armstrong <br> <span> Director: Armstrong Industries </span></h5>
+                                        <h5> Mrs. Jane Armstrong <br> <span> Director: EastEnd Technologies </span></h5>
                                     </div>
 
                                 </div>
@@ -725,11 +725,11 @@
                                     <div class="pro">
                                         <img src="Photos/Chiamaka.jpg" alt="" class="pro_pic"> <br>
                                         <blockquote>
-                                            The team is professional and experienced.
+                                            The team is professional.
                                             They facilitated Windows OS migration from
                                             Windows 10 Pro to Windows 11 Pro with in a
                                             short turn around time tremendously boosting our
-                                            day to day business operations.
+                                            day to day business operations and productivity.
                                         </blockquote>
                                         <h5> Mrs. Chiamka Brown <br> <span> Managing Director: Tech Club Limited </span></h5>
                                     </div>

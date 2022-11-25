@@ -744,10 +744,10 @@
                 <div class="container">
                     <div class="form-cont">
                         <h2>Talk To Us</h2>
-                            <form action="" class="cont-form">
-                                <input type="text" placeholder="Enter Your Name" required>
-                                <input type="email" name="" id="" placeholder="Enter Your Email" required>
-                                <textarea name="" id="" cols="30" rows="10" placeholder="Message Here" required></textarea>
+                            <form action="form-cont.php" method="post" class="cont-form">
+                                <input type="text" name="name" placeholder="Enter Your Name" required>
+                                <input type="email" name="email" id="" placeholder="Enter Your Email Address" required>
+                                <textarea name="message" id="" cols="30" rows="10" placeholder="Message Here" required></textarea>
                                 <input type="submit" value="Click to Send" class="send-btn">
                             </form>
                     </div>

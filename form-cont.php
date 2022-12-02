@@ -5,8 +5,6 @@ $message = $_POST['message'];
 
 $email_from = 'info@techwarescopesolutions.com';
 
-$email_subject = 'New Website Message';
-
 $email_body = "User Name: $name.\n".
                 "User Email: $guest_email.\n".
                 "User Message: $message.\n".
@@ -17,6 +15,6 @@ $headers = "From: $email_from \r\n";
 
 $headers .= "Reply-To: $guest_email \r\n";
 
-mail($to,$email_subject,$email_body,$headers);
+mail($to,$email_body,$headers);
 
 header("location:index.php#cont_us");

@@ -1018,7 +1018,7 @@
 
     .foot_sec h5 {
         position: relative;
-        color: blue;
+        color: #000000;
         font-weight: 600;
         text-transform: uppercase;
         margin-bottom: 30px;
@@ -1032,7 +1032,7 @@
             width: 45px;
             height: 3px;
             left: 32px;
-            background:#00008b;
+            background:#ff0000;
         }
 
     .foot_sec p {
@@ -1087,7 +1087,7 @@
 
     .foot_links h5 {
             position: relative;
-            color: blue;
+            color: #000000;
             font-weight: 600;
             text-transform: uppercase;
             margin-bottom: 30px;
@@ -1101,7 +1101,7 @@
             width: 70px;
             height: 3px;
             left: 32px;
-            background:#00008b;
+            background:#ff0000;
         }
 
         .foot_links {
@@ -1134,7 +1134,7 @@
 
         .foot_cont h5{
             position: relative;
-            color: blue;
+            color: #000000;
             font-weight: 600;
             text-transform: uppercase;
             margin-bottom: 30px;
@@ -1148,7 +1148,7 @@
             width: 70px;
             height: 3px;
             left: 32px;
-            background:#00008b;
+            background:#ff0000;
         }
 
         .foot_cont .find_info {

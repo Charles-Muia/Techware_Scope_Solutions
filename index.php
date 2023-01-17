@@ -545,7 +545,7 @@
 
                             <div class="answer">
                                 <p>
-                                    Laptops are becoming smaller most of which don't come with the optical disk or DVD drives.
+                                    Laptops are smaller and no longer come with the optical disk or DVD drives.
                                     High resolution built in webcams are witnessing a shift from the traditional 720p to high definition 1080p.
                                     New generational storage device SSD (Solid State Disk) has almost replaced the traditional HDD (Hard Disk Drives).
                                     8GB RAM is becoming standard for new laptops away from the previous 4GB due to the high demands associated with

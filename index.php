@@ -596,7 +596,7 @@
 
                             <div class="answer">
                                 <p>
-                                    3 to 5 years. Worth noting is that a laptop's lifespan is shorter than of a desktop PC. This is mostly because of their portability
+                                    3 to 5 years. Worth noting is that a laptop's lifespan is shorter than of a desktop PC. This is mostly because of their portable
                                     nature and compact design. Mishandling also accelerates the rate at which a laptop can be deemed unusable. To maximise the lifespan of
                                     a laptop or PC, always ensure that maintenance is carried out on a regular basis. For example, you must clean or blow out the
                                     dust that accumulates over time. We offer these services at affordable rates to ensure your device is fully optimised to deliver

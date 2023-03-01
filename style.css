@@ -241,6 +241,7 @@
         border-radius: 50%;
         border: 1px solid #ffffff;
         width: 90px;
+        color: #ff0000;
     }
 
     .icon:hover{
@@ -259,6 +260,10 @@
         border: 1px solid darkblue;
         transform: translateY(-10px);
         border-radius: 10px;
+    }
+
+    .row_serv_sec .col-md-3:hover .icon {
+        color: #000000;
     }
 
 /*--------------------------------------Our Services section CSS-------------------------------------*/
@@ -312,10 +317,17 @@
         border-radius: 50%;
         border: 1px solid #ffffff;
         width: 90px;
+        color: #ff0000;
     }
 
     .our_services_list div i:hover {
         border: 1px solid darkblue;
+        color: #000000;
+    }
+
+    .our_services_list div:hover i {
+        color: #000000;
+        border: 1px solid #ffffff;
     }
 
     .our_services_list div a {

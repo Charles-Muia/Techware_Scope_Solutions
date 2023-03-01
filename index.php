@@ -434,7 +434,7 @@
                                             the update via Microsoft's well-established update systems and processes popularly known as (<b>Windows Update</b>).
                                             Users ready to install the update can go to the <b> Windows Update settings (Settings > Windows Update) </b> and select <b>Check for updates</b>.
                                         </p>
-                                        <p><a href="" class="btn btn-primary">Read More ->>></a></p>
+                                        <p><a href="blog.php" class="btn btn-primary">Read More ->>></a></p>
                                 </div>
                             </div>
                             <div class="col-md-4">

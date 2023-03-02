@@ -135,7 +135,7 @@
 <section id="blog-post">
     <div class="blogs">
         <div class="post">
-            <img src="Photos/Windows11.png" alt="">
+            <img src="Photos/Apple.jpg" alt="">
             <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, quos?</h3>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -218,14 +218,14 @@
             <div class="foot_links">
                 <h5> Quick Links </h5>
                 <ul>
-                    <li><a href="#"> Home </a></li>
-                    <li><a href=".#about_site"> About Us </a></li>
-                    <li><a href=".#serv_sec"> Our Services </a></li>
-                    <li><a href=".#our_services"> Solutions </a></li>
-                    <li><a href=".#port_sec"> Portfolio </a></li>
-                    <li><a href=".#our_blog"> Blog </a></li>
-                    <li><a href=".#FAQs_sec"> FAQs </a></li>
-                    <li><a href=".#cont_us"> Contact Us </a></li>
+                    <li><a href="index.php"> Home </a></li>
+                    <li><a href="./#about_site"> About Us </a></li>
+                    <li><a href="./#serv_sec"> Our Services </a></li>
+                    <li><a href="./#our_services"> Solutions </a></li>
+                    <li><a href="./#port_sec"> Portfolio </a></li>
+                    <li><a href="./#our_blog"> Blog </a></li>
+                    <li><a href="./#FAQs_sec"> FAQs </a></li>
+                    <li><a href="index.php#cont_us"> Contact Us </a></li>
                 </ul>
             </div>
 

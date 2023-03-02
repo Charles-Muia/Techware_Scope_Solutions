@@ -441,7 +441,7 @@
                                 <div class="uno_blog">
                                     <p class="blog_data"> By Admin <span> September 23, 2022</span></p>
                                     <img src="Photos/best-4k-projector.jpg" alt="">
-                                    <h5><a href="#"> Epson Announces 6 New Projectors.</a></h5>
+                                    <h5><a href="epson_projectors.php"> Epson Announces 6 New Projectors.</a></h5>
                                     <p class="blog_text">
                                         The new home cinema projectors are ideal for film enthusiasts,
                                         sports fans and gamers looking for an immersive big screen experience.
@@ -450,14 +450,14 @@
                                         multi-purpose <b> entry level projectors: CO-FH02</b> and <b>CO-W01,</b> finally the
                                         <b>4K PRO-UHD projectors: EH-TW6150 </b> and <b>EH-TW6250</b>.
                                         </p>
-                                    <p><a href="" class="btn btn-primary">Read More ->>></a></p>
+                                    <p><a href="epson_projectors.php" class="btn btn-primary">Read More ->>></a></p>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="uno_blog">
                                     <p class="blog_data"> By Admin <span> October 3, 2022</span></p>
                                     <img src="Photos/Apple.jpg" alt="">
-                                    <h5><a href="#"> Apple Event iPhone 14 and iPhone 14 Plus </a></h5>
+                                    <h5><a href="apple_event.php"> Apple Event iPhone 14 and iPhone 14 Plus </a></h5>
                                     <p class="blog_text">
                                         Apple introduced <b>iPhone 14</b> and <b>iPhone 14 Plus</b>,
                                         6.1 and 6.7 inch display respectively.
@@ -467,7 +467,7 @@
                                         safety service with Emergency SOS via satellite and <b>low power mode</b> to max battery life
                                         with the least impact to the user experience.
                                         </p>
-                                    <p><a href="" class="btn btn-primary">Read More ->>></a></p>
+                                    <p><a href="apple_event.php" class="btn btn-primary">Read More ->>></a></p>
                                 </div>
                             </div>
                         </div>

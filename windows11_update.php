@@ -218,7 +218,7 @@
             <div class="foot_links">
                 <h5> Quick Links </h5>
                 <ul>
-                    <li><a href="#"> Home </a></li>
+                    <li><a href="index.php"> Home </a></li>
                     <li><a href=".#about_site"> About Us </a></li>
                     <li><a href=".#serv_sec"> Our Services </a></li>
                     <li><a href=".#our_services"> Solutions </a></li>

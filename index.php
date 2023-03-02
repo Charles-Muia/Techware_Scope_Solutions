@@ -426,7 +426,7 @@
                                 <div class="uno_blog">
                                     <p class="blog_data"> By Admin <span> September 26, 2022</span></p>
                                     <img src="Photos/Windows11.png" alt="">
-                                    <h5><a href="#"> Windows 11 2022 Update Now Available </a></h5>
+                                    <h5><a href="windows11_update.php"> Windows 11 2022 Update Now Available </a></h5>
                                         <p class="blog_text">
                                             The Windows 11 2022 Update, the latest version of Windows 11
                                             also known as <b> Windows 11, version 22H2 </b> is now available.
@@ -434,7 +434,7 @@
                                             the update via Microsoft's well-established update systems and processes popularly known as (<b>Windows Update</b>).
                                             Users ready to install the update can go to the <b> Windows Update settings (Settings > Windows Update) </b> and select <b>Check for updates</b>.
                                         </p>
-                                        <p><a href="blog.php" class="btn btn-primary">Read More ->>></a></p>
+                                        <p><a href="windows11_update.php" class="btn btn-primary">Read More ->>></a></p>
                                 </div>
                             </div>
                             <div class="col-md-4">

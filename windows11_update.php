@@ -33,22 +33,22 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="">Home</a>
+                        <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#about_site">About Us</a>
+                        <a class="nav-link" href=".#about_site">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#serv_sec">Our Services</a>
+                        <a class="nav-link" href=".#serv_sec">Our Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php#our_blog">Blog</a>
+                        <a class="nav-link" href=".#our_blog">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#FAQs_sec">FAQs</a>
+                        <a class="nav-link" href=".#FAQs_sec">FAQs</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#cont_us">Contact Us</a>
+                        <a class="nav-link" href=".#cont_us">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -219,13 +219,13 @@
                 <h5> Quick Links </h5>
                 <ul>
                     <li><a href="#"> Home </a></li>
-                    <li><a href="#about_site"> About Us </a></li>
-                    <li><a href="#serv_sec"> Our Services </a></li>
-                    <li><a href="#our_services"> Solutions </a></li>
-                    <li><a href="#port_sec"> Portfolio </a></li>
-                    <li><a href="#our_blog"> Blog </a></li>
-                    <li><a href="#FAQs_sec"> FAQs </a></li>
-                    <li><a href="#cont_us"> Contact Us </a></li>
+                    <li><a href=".#about_site"> About Us </a></li>
+                    <li><a href=".#serv_sec"> Our Services </a></li>
+                    <li><a href=".#our_services"> Solutions </a></li>
+                    <li><a href=".#port_sec"> Portfolio </a></li>
+                    <li><a href=".#our_blog"> Blog </a></li>
+                    <li><a href=".#FAQs_sec"> FAQs </a></li>
+                    <li><a href=".#cont_us"> Contact Us </a></li>
                 </ul>
             </div>
 

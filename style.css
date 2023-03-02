@@ -1265,6 +1265,37 @@
 
 /*--------------------------------CSS for the blog article (Windows update page)-------------------------------------*/
 
+        #blog-post {
+            margin-top: 30px;
+        }
+
+        #blog-post .blogs {
+            width: 80%;
+            margin: 0 auto;
+            align-items: center;
+        }
+
+        #blog-post .blogs p {
+            text-align: justify;
+            padding-bottom: 20px !important;
+        }
+
+        .post {
+            margin-bottom: 70px;
+        }
+
+        .post img {
+            width: 100%;
+            align-items: center;
+            padding: 40px;
+            margin: 20px 0;
+        }
+
+        .post h3 {
+            padding: 10px;
+            margin: 10px 0;
+        }
+
     /*.blog-content {*/
     /*    width: 80%;*/
     /*    margin: auto;*/

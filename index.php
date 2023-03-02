@@ -791,7 +791,7 @@
                                     <li><a href="#"> Home </a></li>
                                     <li><a href="#about_site"> About Us </a></li>
                                     <li><a href="#serv_sec"> Our Services </a></li>
-                                    <li><a href="#our_services"> Solutions </a></li>
+                                    <li><a href="#our_services"> Our Solutions </a></li>
                                     <li><a href="#port_sec"> Portfolio </a></li>
                                     <li><a href="#our_blog"> Blog </a></li>
                                     <li><a href="#FAQs_sec"> FAQs </a></li>

@@ -132,7 +132,59 @@
 <!--</section>-->
 
 <!-----------------------------------------------Blog page post content---------------------------------------------->
+        <section id="blog-post">
+            <div class="blogs">
+                <div class="post">
+                    <img src="Photos/Windows11.png" alt="">
+                        <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, quos?</h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Adipisci amet commodi consequatur corporis deserunt earum error est,
+                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
+                                temporibus, voluptates. Explicabo, qui.
+                                <br><br>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Adipisci amet commodi consequatur corporis deserunt earum error est,
+                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
+                                temporibus, voluptates. Explicabo, qui.
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Adipisci amet commodi consequatur corporis deserunt earum error est,
+                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
+                                temporibus, voluptates. Explicabo, qui.
+                            </p>
 
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Adipisci amet commodi consequatur corporis deserunt earum error est,
+                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
+                                temporibus, voluptates. Explicabo, qui. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Adipisci amet commodi consequatur corporis deserunt earum error est,
+                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
+                                temporibus, voluptates. Explicabo, qui.
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Adipisci amet commodi consequatur corporis deserunt earum error est,
+                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
+                                temporibus, voluptates. Explicabo, qui.
+                            </p>
+
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Adipisci amet commodi consequatur corporis deserunt earum error est,
+                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
+                                temporibus, voluptates. Explicabo, qui.
+                                <br><br>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Adipisci amet commodi consequatur corporis deserunt earum error est,
+                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
+                                temporibus, voluptates. Explicabo, qui.
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Adipisci amet commodi consequatur corporis deserunt earum error est,
+                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
+                                temporibus, voluptates. Explicabo, qui.
+                            </p>
+                </div>
+            </div>
+        </section>
 
 
 

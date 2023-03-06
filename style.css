@@ -678,7 +678,6 @@
 
     svg {
         transition: transform 1s ease-in;
-        color: #ff0000;
     }
 
     @keyframes fade {
@@ -1289,10 +1288,10 @@
         }
 
         .post img {
-            width: 80%;
+            width: 75%;
+            max-height: 100vh;
             background-size: 100%;
             background-position: top;
-            height: 350px;
             align-items: center;
             padding: 40px;
             margin: 20px 50px;

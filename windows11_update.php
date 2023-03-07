@@ -136,8 +136,10 @@
             <div class="blogs">
                 <div class="post">
                     <img src="Photos/Windows-11-22H2_23.jpg" alt="">
-                        <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, quos?</h3>
+                        <h3>Windows 11 2022 Update Now Available.</h3>
                             <p>
+                                Microsoft rolled out the first major <strong>Windows 11 2022 update</strong> in over 190+ countries since
+                                releasing Windows 11 in October, 2021.
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Adipisci amet commodi consequatur corporis deserunt earum error est,
                                 exercitationem id incidunt iusto maiores quasi rem repellat sed,

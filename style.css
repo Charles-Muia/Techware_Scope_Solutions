@@ -64,7 +64,6 @@
         font-weight: 500;
     }
 
-
             /*About section CSS*/
 
     #about_site {
@@ -1302,7 +1301,7 @@
             margin: 10px 0;
         }
 
-        blockquote {
+        #blog-quote {
             font-size: 1.4rem;
             padding: 2rem 3rem;
             line-height: 2;

@@ -153,7 +153,7 @@
                 temporibus, voluptates. Explicabo, qui.
             </p>
 
-                    <blockquote>
+                    <blockquote id="blog-quote">
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam architecto, aut autem dolor earum eos fugiat hic,
                         ipsam minima nesciunt nobis quis rem
                         repellendus rerum suscipit temporibus voluptatum. Distinctio, porro!" — <i>Scholastica Ngunju.</i>

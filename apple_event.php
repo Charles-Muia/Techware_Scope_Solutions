@@ -135,9 +135,12 @@
 <section id="blog-post">
     <div class="blogs">
         <div class="post">
-            <img src="Photos/Apple.jpg" alt="">
-            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, quos?</h3>
+            <img src="Photos/Apple-.jpg" alt="">
+            <h3>Apple iPhone 14 and iPhone 14 Plus.</h3>
             <p>
+                Apple introduced <strong>iPhone 14</strong> and <strong>iPhone 14 Plus</strong>,
+                with super retina XDR all-screen OLED <strong>6.1</strong> and <b>6.7</b> inch display respectively.
+
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Adipisci amet commodi consequatur corporis deserunt earum error est,
                 exercitationem id incidunt iusto maiores quasi rem repellat sed,

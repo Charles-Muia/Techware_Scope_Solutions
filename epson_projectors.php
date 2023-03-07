@@ -135,8 +135,8 @@
 <section id="blog-post">
     <div class="blogs">
         <div class="post">
-            <img src="Photos/best-4k-projector.jpg" alt="">
-            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, quos?</h3>
+            <img src="Photos/4k-projector.jpg" alt="">
+            <h3> Epson Announces 6 New Projectors for home cinema gaming amd sports. </h3>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Adipisci amet commodi consequatur corporis deserunt earum error est,

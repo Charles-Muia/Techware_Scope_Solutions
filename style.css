@@ -1288,20 +1288,28 @@
         }
 
         .post img {
-            width: 75%;
-            max-height: 100vh;
-            background-size: 100%;
-            background-position: top;
+            width: 100%;
+            /*max-height: 100vh;*/
             align-items: center;
             padding: 40px;
-            margin: 20px 50px;
-            border-radius: 50px;
+            /*margin: 20px 50px;*/
+            /*border-radius: 5px;*/
         }
 
         .post h3 {
             padding: 10px;
             margin: 10px 0;
         }
+
+
+        @media (max-width: 1000px) {
+            .post img {
+                width: 100%;
+                padding: 0;
+            }
+        }
+
+
 
     /*.blog-content {*/
     /*    width: 80%;*/

@@ -135,7 +135,7 @@
         <section id="blog-post">
             <div class="blogs">
                 <div class="post">
-                    <img src="Photos/Windows11.png" alt="">
+                    <img src="Photos/Windows-11-22H2_23.jpg" alt="">
                         <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, quos?</h3>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.

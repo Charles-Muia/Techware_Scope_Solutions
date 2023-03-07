@@ -906,7 +906,7 @@
             font-family: "Century Gothic";
             font-weight: 650;
             padding-top: 10px;
-            margin-bottom: 60px;
+            margin-bottom: 75px;
         }
 
         #cont_us h2::after {
@@ -984,7 +984,7 @@
              font-family: "Century Gothic";
              font-weight: 650;
              padding-top: 15px;
-             margin-bottom: 60px;
+             margin-bottom: 75px;
         }
 
         #cont_us .cont-map h2::after {
@@ -1066,7 +1066,7 @@
     .foot_sec h5:before {
             content: '';
             position: absolute;
-            bottom: -5px;
+            bottom: -10px;
             width: 45px;
             height: 3px;
             left: 32px;
@@ -1135,7 +1135,7 @@
         .foot_links h5:before {
             content: '';
             position: absolute;
-            bottom: -5px;
+            bottom: -10px;
             width: 70px;
             height: 3px;
             left: 32px;
@@ -1182,7 +1182,7 @@
         .foot_cont h5:before {
             content: '';
             position: absolute;
-            bottom: -5px;
+            bottom: -10px;
             width: 70px;
             height: 3px;
             left: 32px;

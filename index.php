@@ -639,41 +639,50 @@
                 <div class="container">
                     <h2> Our Clients </h2>
                         <div class="row">
+
                             <div class="col-md-3 client-logo text-center">
                                     <div class="img-box">
-                                        <img src="#" alt="" class="img-sec">
+                                        <img src="Photos" alt="" class="img-sec">
                                     </div>
                             </div>
+
                             <div class="col-md-3 client-logo text-center">
                                 <div class="img-box">
                                     <a href="https://www.facebook.com/AsumbiTC"><img src="Photos/Asumbi_TC.jpg" alt="" class="img-sec"></a>
                                 </div>
                             </div>
+
+                            <div class="col-md-3 client-logo text-center">
+                                <div class="img-box">
+                                    <a href="https://www.facebook.com/LifeSaversClubKE"><img src="Photos/Life_Savers_Club.jpg" alt="" class="img-sec" id="lsc"></a>
+
+                                </div>
+                            </div>
+
+<!--                            <div class="col-md-3 client-logo text-center">-->
+<!--                                <div class="img-box">-->
+<!--                                    <img src="Photos/Life_Savers_Club.jpg" alt="" class="img-sec">-->
+<!--                                </div>-->
+<!--                            </div>-->
+
 <!--                            <div class="col-md-3 client-logo text-center">-->
 <!--                                <div class="img-box">-->
 <!--                                    <img src="Photos/Co-op.jpg" alt="" class="img-sec">-->
 <!--                                </div>-->
 <!--                            </div>-->
-<!--                            <div class="col-md-3 client-logo text-center">-->
-<!--                                <div class="img-box">-->
-<!--                                    <img src="Photos/Absa.png" alt="" class="img-sec">-->
-<!--                                </div>-->
-<!--                            </div>-->
-                            <div class="col-md-3 client-logo text-center">
-                                <div class="img-box">
-                                    <a href="https://www.facebook.com/LifeSaversClubKE"><img src="Photos/Life_Savers_Club.jpg" alt="" class="img-sec"></a>
-                                </div>
-                            </div>
+
 <!--                            <div class="col-md-3 client-logo text-center">-->
 <!--                                <div class="img-box">-->
 <!--                                    <img src="Photos/IEBC.png" alt="" class="img-sec">-->
 <!--                                </div>-->
 <!--                            </div>-->
+
 <!--                            <div class="col-md-3 client-logo text-center">-->
 <!--                                <div class="img-box">-->
 <!--                                    <img src="Photos/Jamii.png" alt="" class="img-sec">-->
 <!--                                </div>-->
 <!--                            </div>-->
+
 <!--                            <div class="col-md-3 client-logo text-center">-->
 <!--                                <div class="img-box">-->
 <!--                                    <img src="Photos/Airtel.png" alt="" class="img-sec">-->
@@ -792,6 +801,7 @@
                                     <li><a href="#about_site"> About Us </a></li>
                                     <li><a href="#serv_sec"> Our Services </a></li>
                                     <li><a href="#our_services"> Our Solutions </a></li>
+                                    <li><a href="#our_clients"> Our Clients </a></li>
                                     <li><a href="#port_sec"> Portfolio </a></li>
                                     <li><a href="#our_blog"> Blog </a></li>
                                     <li><a href="#FAQs_sec"> FAQs </a></li>

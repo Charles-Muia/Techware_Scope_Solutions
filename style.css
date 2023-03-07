@@ -753,10 +753,12 @@
 
     .client-logo {
         margin-top: 25px;
+        margin-right: 25px;
+        justify-content: space-between;
     }
 
     .client-logo .img-box {
-        /*margin-top: 25px;*/
+        margin-top: 20px;
         display: block;
         position: relative;
     }
@@ -768,8 +770,12 @@
         margin-top: 15px;
         text-align: center;
         padding-bottom: 35px;
+        justify-content: space-between;
     }
 
+    #lsc {
+        width: 180px;
+    }
 
 /*--------------------------------------Client Testimonials section CSS-------------------------------------*/
 

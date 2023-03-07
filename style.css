@@ -1328,14 +1328,22 @@
             /*transition: all 1s ease;*/
         }
 
-        #description {
-            margin-right: auto;
-            margin-left: auto;
-            width: fit-content;
-            padding-top: 15px;
-            font-size: 16px;
-            text-align: center;
+        #apple {
+            background-image: url("Photos/Apple-iPhone-14-Plus-vs-iPhone-14-Pro-Max.jpg");
         }
+
+        #projectors {
+            background-image: url("Photos/Projectors.jpg");
+        }
+
+        #description {
+                    margin-right: auto;
+                    margin-left: auto;
+                    width: fit-content;
+                    padding-top: 15px;
+                    font-size: 16px;
+                    text-align: center;
+                }
 
 
         @media (max-width: 1000px) {

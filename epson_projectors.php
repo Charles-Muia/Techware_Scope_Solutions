@@ -173,7 +173,7 @@
                 temporibus, voluptates. Explicabo, qui.
             </p>
 
-                    <div class="content-img-container"></div>
+                    <div class="content-img-container" id="projectors"></div>
 
                     <h5 id="description">Windows 11 2022 update comes with features and enhancements to improve security, productivity and overall user experience.</h5>
 

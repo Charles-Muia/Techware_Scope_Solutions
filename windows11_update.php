@@ -155,6 +155,12 @@
                                 temporibus, voluptates. Explicabo, qui.
                             </p>
 
+                                    <blockquote>
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam architecto, aut autem dolor earum eos fugiat hic,
+                                        ipsam minima nesciunt nobis quis rem
+                                        repellendus rerum suscipit temporibus voluptatum. Distinctio, porro!" — <i>Scholastica Ngunju.</i>
+                                    </blockquote>
+
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Adipisci amet commodi consequatur corporis deserunt earum error est,
@@ -168,6 +174,10 @@
                                 exercitationem id incidunt iusto maiores quasi rem repellat sed,
                                 temporibus, voluptates. Explicabo, qui.
                             </p>
+
+                                    <div class="content-img-container"></div>
+
+                                    <h5 id="description">Windows 11 2022 update comes with features and enhancements to improve security, productivity and overall user experience.</h5>
 
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.

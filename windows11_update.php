@@ -162,10 +162,12 @@
                                             <li>A focus timer will appear on the display with a default session duration of 30 minutes.</li>
                                             <li><strong>Do Not Disturb</strong> will turn on.</li>
                                             <li>Any running application notification are turned off.</li>
-                                            <li>Badge notifications on apps in the taskbar will turn offTaskbar badges.</li>
+                                            <li>Badge notifications on apps in the taskbar will turn off.</li>
                                         </ul>
 
-                                Focus is also integrated with the Clock App, launching a timer to help you focus, even reminding you to take breaks.
+                                <strong>Focus</strong> is also integrated with the Clock App, to even remind you on when it is appropriate to take breaks.
+                                In case you finalise on the task at hand earlier than the set focus session duration, you can click on the stop focus session button.
+                                Alternatively, you'll receive a notification when your focus session has ended. If you need to, you can also end a focus session early.
                                 temporibus, voluptates. Explicabo, qui.
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Adipisci amet commodi consequatur corporis deserunt earum error est,

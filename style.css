@@ -1299,6 +1299,13 @@
             font-size: 17px;
         }
 
+        #focus {
+            margin-left: 50px;
+            margin-bottom: 30px;
+            margin-top: auto;
+        }
+
+
         .post {
             margin-bottom: 70px;
         }
@@ -1327,7 +1334,11 @@
             color: #f0f8ff;
         }
 
-        .content-img-container {
+        #blog-quote::before {content: none}
+        #blog-quote::after {content: none}
+
+
+.content-img-container {
             width: 100%;
             height: 35rem;
             background-image: url("Photos/Windows-11-Update.jpg");

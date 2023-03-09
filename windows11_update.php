@@ -139,8 +139,17 @@
                         <h3>Windows 11 2022 Update Now Available.</h3>
                             <p>
                                 Microsoft rolled out the first major <strong>Windows 11 2022 update</strong> in over 190+ countries since
-                                releasing Windows 11 in October, 2021.
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                releasing Windows 11 in October 2021.
+                                According to Microsoft, the update will empower end-users to accomplish tasks in a faster
+                                and easier manner, dramatically increasing full Windows experience on any device.
+                                This first major update to Windows 11 is the beginning of the Company's journey to what it described as
+                                "continuous innovation" focused in four key areas namely:
+                                        <ul id="focus">
+                                                <li>Making the PC easier and safer to use for everyone.</li>
+                                                <li>Empowering people to be more productive.</li>
+                                                <li>Making Windows the best place to connect, create and play.</li>
+                                                <li>Delivering added security, management and flexibility to the workplace.</li>
+                                        </ul>
                                 Adipisci amet commodi consequatur corporis deserunt earum error est,
                                 exercitationem id incidunt iusto maiores quasi rem repellat sed,
                                 temporibus, voluptates. Explicabo, qui.
@@ -156,9 +165,9 @@
                             </p>
 
                                     <blockquote id="blog-quote">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam architecto, aut autem dolor earum eos fugiat hic,
-                                        ipsam minima nesciunt nobis quis rem
-                                        repellendus rerum suscipit temporibus voluptatum. Distinctio, porro!" — <i>Scholastica Ngunju.</i>
+                                        "More people are using Windows and spending more time on their PCs.
+                                        In fact, Windows 11 is the most used and most loved version of Windows ever;
+                                        this is both humbling and energizing for the team and I." — <i>Panos Panay, Chief Product Officer at Microsoft.</i>
                                     </blockquote>
 
                             <p>

@@ -1332,13 +1332,14 @@
             box-shadow: inset 0.6rem 0 10rem #d3d3d3;
             background-color: #222222;
             color: #f0f8ff;
+            cursor: pointer;
         }
 
         #blog-quote::before {content: none}
         #blog-quote::after {content: none}
 
 
-.content-img-container {
+        .content-img-container {
             width: 100%;
             height: 35rem;
             background-image: url("Photos/Windows-11-Update.jpg");

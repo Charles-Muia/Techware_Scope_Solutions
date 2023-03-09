@@ -1305,6 +1305,9 @@
             margin-top: auto;
         }
 
+        #blog-post .how-focus {
+            padding-top: 20px;
+        }
 
         .post {
             margin-bottom: 70px;

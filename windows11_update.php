@@ -152,11 +152,19 @@
                                         </ul>
                                 In addition, Microsoft also introduced <b>Focus</b> and <strong>Do Not Disturb</strong> sessions.
                                 These helps in maximizing productivity while minimising distractions
-                                keeping you fully in control of the task at hand.
+                                keeping you fully on track and focused on the task at hand.
                                 <br><br>
-                                At the beginning of a new focus session, Windows automatically turns on <strong>Do Not Disturb</strong>
-                                which immediately mutes notifications, turns off taskbar badges and any running application notifications
-                                on the taskbar.
+                                <h3>How <strong>Focus</strong> works.</h3>
+                                Select <strong> Start </strong> > <strong> Settings </strong> > <strong> System </strong> > <strong> Focus </strong> > <strong> click on Start focus session</strong>.
+                                <br><br>
+                                When the focus session starts, the following settings will apply during the entire focus session duration:
+                                        <ul id="focus" class="how-focus">
+                                            <li>A focus timer will appear on the display with a default session duration of 30 minutes.</li>
+                                            <li><strong>Do Not Disturb</strong> will turn on.</li>
+                                            <li>Any running application notification are turned off.</li>
+                                            <li>Badge notifications on apps in the taskbar will turn offTaskbar badges.</li>
+                                        </ul>
+
                                 Focus is also integrated with the Clock App, launching a timer to help you focus, even reminding you to take breaks.
                                 temporibus, voluptates. Explicabo, qui.
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.

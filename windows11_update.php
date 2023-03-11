@@ -171,11 +171,11 @@
                                 <strong>Focus</strong> is also integrated with the Clock App, to even remind you on when it is appropriate to take breaks.
                                 In case you finalise on the task at hand earlier than the set focus session duration, you can click on the stop focus session button.
                                 Alternatively, you'll receive a notification when your focus session has ended. If you need to, you can also end a focus session early.
-                                temporibus, voluptates. Explicabo, qui.
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                                temporibus, voluptates. Explicabo, qui.
+<!--                                temporibus, voluptates. Explicabo, qui.-->
+<!--                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.-->
+<!--                                Adipisci amet commodi consequatur corporis deserunt earum error est,-->
+<!--                                exercitationem id incidunt iusto maiores quasi rem repellat sed,-->
+<!--                                temporibus, voluptates. Explicabo, qui.-->
                             </p>
 
                                     <blockquote id="blog-quote">
@@ -205,10 +205,11 @@
                                     <h5 id="description">Windows 11 2022 update comes with features and enhancements to improve security, productivity and overall user experience.</h5>
 
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                                temporibus, voluptates. Explicabo, qui.
+                                The new <strong>Windows Studio camera</strong> and <strong>audio</strong> effects come at a time
+                                when video calls and conference meetings have become an essential routine task.
+                                The <strong>Background Blur</strong> helps to ensure that only you are seen while
+                                <strong>Eye Contact</strong> helps you make a better connection with the people you’re interacting with.
+                                <strong>Automatic Framing</strong> helps the camera keep you in frame and in focus.
                                 <br><br>
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Adipisci amet commodi consequatur corporis deserunt earum error est,

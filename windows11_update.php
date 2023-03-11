@@ -185,17 +185,19 @@
                                     </blockquote>
 
                             <p>
-                                The Windows 11 2022 update also comes with enhancements such as Snap layouts, performance
-                                and battery optimizations. These play a role when it comes to productivity and user experience.
+                                The Windows 11 2022 update also comes with enhancements such as <strong>Snap layouts</strong> and <strong>battery optimization</strong>.
+                                These play a role when it comes to productivity and user experience.
                                 Snap layouts on Windows 11 help optimize users view when multiple app or documents are open at the
-                                same time especially when multitasking.
-                                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                                temporibus, voluptates. Explicabo, qui.
-                                The new Microsoft Defender SmartScreen delivers added security and management tools.
-                                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                                temporibus, voluptates. Explicabo, qui.
+                                same time especially when multitasking. To use snap layouts in Windows 11, hover your mouse pointer over the “Maximize” button in an app window.
+                                Alternatively, press the keyboard shortcut of “Windows” + “Z” on your keyboard.
+                                <br><br>
+<!--                                Adipisci amet commodi consequatur corporis deserunt earum error est,-->
+<!--                                exercitationem id incidunt iusto maiores quasi rem repellat sed,-->
+<!--                                temporibus, voluptates. Explicabo, qui.-->
+                                The new <strong> Microsoft Defender SmartScreen </strong> delivers added security and management tools.
+                                It protects the PC against phishing or malware websites and applications. <strong> Microsoft Defender SmartScreen </strong>
+                                analyzes webpages visited by the user checking for any malicious activity or files. If a page is suspicious, a warning page
+                                will appear warning the user that the site or download might be malicious.
                             </p>
 
                                     <div class="content-img-container"></div>

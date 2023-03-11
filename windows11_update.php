@@ -197,12 +197,12 @@
                                 The new <strong> Microsoft Defender SmartScreen </strong> delivers added security and management tools.
                                 It protects the PC against phishing or malware websites and applications. <strong> Microsoft Defender SmartScreen </strong>
                                 analyzes webpages visited by the user checking for any malicious activity or files. If a page is suspicious, a warning page
-                                will appear warning the user that the site or download might be malicious.
+                                will appear alerting the user that the site or download might be malicious.
                             </p>
 
                                     <div class="content-img-container"></div>
 
-                                    <h5 id="description">Windows 11 2022 update comes with features and enhancements to improve security, productivity and overall user experience.</h5>
+                                    <h5 id="description">Windows 11 2022 update comes with features and enhancements to improve <strong>security</strong>, <strong>productivity</strong> and overall <strong>user experience</strong>.</h5>
 
                             <p>
                                 The new <strong>Windows Studio camera</strong> and <strong>audio</strong> effects come at a time

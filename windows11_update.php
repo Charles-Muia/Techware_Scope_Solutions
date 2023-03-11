@@ -185,14 +185,14 @@
                                     </blockquote>
 
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                                temporibus, voluptates. Explicabo, qui. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                The Windows 11 2022 update also comes with enhancements such as Snap layouts, performance
+                                and battery optimizations. These play a role when it comes to productivity and user experience.
+                                Snap layouts on Windows 11 help optimize users view when multiple app or documents are open at the
+                                same time especially when multitasking.
                                 Adipisci amet commodi consequatur corporis deserunt earum error est,
                                 exercitationem id incidunt iusto maiores quasi rem repellat sed,
                                 temporibus, voluptates. Explicabo, qui.
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                The new Microsoft Defender SmartScreen delivers added security and management tools.
                                 Adipisci amet commodi consequatur corporis deserunt earum error est,
                                 exercitationem id incidunt iusto maiores quasi rem repellat sed,
                                 temporibus, voluptates. Explicabo, qui.

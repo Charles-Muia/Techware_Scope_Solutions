@@ -136,15 +136,15 @@
     <div class="blogs">
         <div class="post">
             <img src="Photos/4k-projector.jpg" alt="">
-            <h3> Epson Announces 6 New Projectors for home cinema gaming and sports. </h3>
+            <h3> Epson Announces 6 New Projectors for home cinema, gaming and sports. </h3>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
+                Cinema, gaming and sports enthusiast are in for a thrilling
+                immersive big screen experience after Epson announced 6 new projectors.
+                The new projectors come with high specifications and a variety of price points to suit every budget
+                ranging from entry level to 4K PRO UHD projectors.
                 <br><br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
+                The <i>EpiqVision Ultra</i> <strong>EH-LS800B</strong> and <strong>EH-LS800W</strong>
+                are Epson' first super-ultra-throw models with a closer positioning to the wall.
                 exercitationem id incidunt iusto maiores quasi rem repellat sed,
                 temporibus, voluptates. Explicabo, qui.
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -154,13 +154,15 @@
             </p>
 
                     <blockquote id="blog-quote">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam architecto, aut autem dolor earum eos fugiat hic,
-                        ipsam minima nesciunt nobis quis rem
-                        repellendus rerum suscipit temporibus voluptatum. Distinctio, porro!" — <i>Scholastica Ngunju.</i>
+                        "With the launch of these six new projectors, there really is a projector to suit everyone.
+                        Whether you are looking for a flexible easy to use solution which can be moved easily between rooms,
+                        or take to the office, want to take your gaming to a new immersive level or are
+                        even considering a replacement for your TV, there is a solution for everyone at a
+                        price to meet every budget." — <i>Paul White, Manager for Product Management at Epson.  </i>
                     </blockquote>
 
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                The <i>EpiqVision Ultra</i> <stronger>EH-LS800B</stronger> and <stronger>EH-LS800W</stronger> .
                 Adipisci amet commodi consequatur corporis deserunt earum error est,
                 exercitationem id incidunt iusto maiores quasi rem repellat sed,
                 temporibus, voluptates. Explicabo, qui. Lorem ipsum dolor sit amet, consectetur adipisicing elit.

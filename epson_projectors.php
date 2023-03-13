@@ -144,13 +144,14 @@
                 ranging from entry level to 4K PRO UHD projectors.
                 <br><br>
                 The <i>EpiqVision Ultra</i> <strong>EH-LS800B</strong> and <strong>EH-LS800W</strong>
-                are Epson' first super-ultra-throw models with a closer positioning to the wall.
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
+                are Epson's first super-ultra-throw models with a closer positioning to the wall.
+                It's <b>4K PRO-UHD</b> display resolution gives crisp and sharp images with a solid blend of high brightness, excellent image quality and versatility by
+                leveraging Epson’s laser light source technology.
+
+                Built-in <strong>AndroidTV</strong> feature makes casting and streaming with smart controls possible.
+                stunning Sound BY YAMAHA speakers delivers a one of a kind full audio experience.
+                Additionally, the models come with dedicated fit for purpose gaming ports
+                providing an under 20ms input lag rate ideal for gamers.
             </p>
 
                     <blockquote id="blog-quote">

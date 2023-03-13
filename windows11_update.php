@@ -211,14 +211,14 @@
                                 <strong>Eye Contact</strong> helps you make a better connection with the people you’re interacting with.
                                 <strong>Automatic Framing</strong> helps the camera keep you in frame and in focus.
                                 <br><br>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                                temporibus, voluptates. Explicabo, qui.
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                                temporibus, voluptates. Explicabo, qui.
+                                It is clear that Microsoft will continue to advance in innovation and improve user experience.
+                                Even at the height of climate change, Microsoft has made some changes to the default power setting for Sleep and
+                                Screen off to help reduce carbon emissions when PCs are idle.
+                                New features, improvements and enhancements are inevitable.
+                                A new look for windows is on the horizon in this rapidly evolving technological environment.
+                                Key focus remains in empowering productivity and while inspiring creativity.
+                                The company continues to invest heavily towards in delivering the best possible Windows experiences
+                                to millions of users worldwide.
                             </p>
                 </div>
             </div>

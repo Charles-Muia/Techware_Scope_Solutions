@@ -141,8 +141,8 @@
                 Apple introduced <strong>iPhone 14</strong> and <strong>iPhone 14 Plus</strong>,
                 with super retina XDR all-screen OLED <strong>6.1</strong> and <b>6.7</b> inch display respectively.
 
-                The devices will be available in Midnight, Purple, Starlight, (PRODUCT)RED, Blue colors
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
+                The devices will be available in midnight, purple, starlight, blue and (PRODUCT) RED, color/finish with a
+                ceramic shield front, glass back and aluminum design.
                 exercitationem id incidunt iusto maiores quasi rem repellat sed,
                 temporibus, voluptates. Explicabo, qui.
                 <br><br>
@@ -157,9 +157,10 @@
             </p>
 
                         <blockquote id="blog-quote">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam architecto, aut autem dolor earum eos fugiat hic,
-                            ipsam minima nesciunt nobis quis rem
-                            repellendus rerum suscipit temporibus voluptatum. Distinctio, porro!" — <i>Scholastica Ngunju.</i>
+                            "Our customers rely on their iPhone every day, and iPhone 14 and iPhone 14 Plus introduce
+                            groundbreaking new technologies and important safety capabilities. With the new,
+                            larger 6.7-inch display on iPhone 14 Plus, users can enjoy more content onscreen
+                            when browsing the web and even more text." — <i>Greg Joswiak, Senior vice president of Worldwide Marketing at Apple.</i>
                         </blockquote>
 
             <p>

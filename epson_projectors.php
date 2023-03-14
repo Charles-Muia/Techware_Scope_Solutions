@@ -175,7 +175,7 @@
 
                     <div class="content-img-container" id="projectors"></div>
 
-                    <h5 id="description">Windows 11 2022 update comes with features and enhancements to improve security, productivity and overall user experience.</h5>
+                    <h5 id="description">Epson is a global technology leader dedicated to co-creating sustainability and enriching communities by leveraging its efficient, compact and precision technologies and digital technologies to connect people, things and information.</h5>
 
             <p>
                 The <strong>CO-FH02</strong> and <strong>CO-W01</strong> are tow multipurpose entry level projectors.

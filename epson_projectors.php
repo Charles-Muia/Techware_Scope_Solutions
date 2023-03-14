@@ -149,9 +149,8 @@
                 leveraging Epson’s laser light source technology.
 
                 Built-in <strong>AndroidTV</strong> feature makes casting and streaming with smart controls possible.
-                stunning Sound BY YAMAHA speakers delivers a one of a kind full audio experience.
-                Additionally, the models come with dedicated fit for purpose gaming ports
-                providing an under 20ms input lag rate ideal for gamers.
+                Sound by <b>YAMAHA speakers</b> delivers a one of a kind full audio experience.
+                Additionally, the models come with dedicated gaming ports ideal for gamers.
             </p>
 
                     <blockquote id="blog-quote">
@@ -163,17 +162,15 @@
                     </blockquote>
 
             <p>
-                The <i>EpiqVision Ultra</i> <stronger>EH-LS800B</stronger> and <stronger>EH-LS800W</stronger> .
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
+                Entry level <b>4K PRO-UHD</b> projectors <strong>EH-TW6150</strong> and <strong>EH-TW6250</strong>
+                models are perfect for gamers and cinema enthusiasts. These projectors
+                command a resolution of up to 4K PRO-UHD display quality with a sleek curved design.
+                They also have a dedicated gaming port with an under 20ms input lag rate providing gamers with the opportunity to connect devices and experience
+                an immersive big screen fun entertainment.
+                The <strong>EH-TW6250 </strong> has built in <strong>Android TV</strong> to support streaming.
+<!--                Adipisci amet commodi consequatur corporis deserunt earum error est,-->
+<!--                exercitationem id incidunt iusto maiores quasi rem repellat sed,-->
+<!--                temporibus, voluptates. Explicabo, qui.-->
             </p>
 
                     <div class="content-img-container" id="projectors"></div>
@@ -181,19 +178,20 @@
                     <h5 id="description">Windows 11 2022 update comes with features and enhancements to improve security, productivity and overall user experience.</h5>
 
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
+                The <strong>CO-FH02</strong> and <strong>CO-W01</strong> are tow multipurpose entry level projectors.
+                They form a cross-over range ideal for education, home and office environments.
+                This is made possible by their compact portable design making it much easier to carry around
+                Additionally, their simple designs enables the models to fit any surrounding with a
+                guarantee on the big immersive screen display.
                 <br><br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
+                In terms of resolution, the <strong>CO-W01</strong> and <strong>CO-FH02</strong> come with a <strong>WXGA</strong>
+                and <strong>Full HD</strong> resolution respectively.
+                The <strong>CO-FH02</strong> has a built in <stromg>Android TV</stromg> for streaming content.
+                These new models have a simple, sleek new design
+                which makes them ideal for the new flexible working trend.
+                Epson's  dedication to co-creating sustainability and enriching communities by leveraging its efficient, compact,
+                and precision technologies and digital technologies to connect people, things, and information
+                is evident in the 6 new projectors.
             </p>
         </div>
     </div>

@@ -180,7 +180,8 @@
 
                     <div class="content-img-container" id="apple"></div>
 
-                    <h5 id="description">Windows 11 2022 update comes with features and enhancements to improve security, productivity and overall user experience.</h5>
+                    <h5 id="description">Both phones have a powerful new Main camera with a huge leap in low-light performance, advanced connectivity capabilities with 5G and eSIM.
+                        <br>The incredible performance of A15 Bionic helps enable better battery life.</h5>
 
 
             <p>

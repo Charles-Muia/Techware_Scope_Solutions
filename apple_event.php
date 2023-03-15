@@ -143,17 +143,17 @@
 
                 The devices will be available in midnight, purple, starlight, blue and (PRODUCT) RED, color/finish with a
                 ceramic shield front, glass back and aluminum design.
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
+                Both models have a new powerful dual-camera system packaged in a sophisticated design
+                with ground-breaking safety capability features.
                 <br><br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
+                <strong>iPhone 14</strong> and <strong>iPhone 14 Plus</strong>
+                enhanced durability is powered by the Ceramic Shield cover, tougher
+                than any other smartphone.
+                This also protects it from common spills and accidental contact
+                with water. The phones are dust resistant with a new internal design for
+                better thermal performance.
+                Powerful super <b>Retina XDR displays</b> with OLED technology supports 1200 nits of peak HDR brightness,
+                a 2,000,000:1 contrast ratio and Dolby Vision.
             </p>
 
                         <blockquote id="blog-quote">
@@ -164,13 +164,13 @@
                         </blockquote>
 
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
+                The industry first leap in low-light performance introduces a standard
+                for video and photo.
+                <strong>iPhone 14</strong> and <strong>iPhone 14 Plus</strong> 12MP main camera
+                features a large sensor and large pixels. A new front <b>TrueDepth</b> camera
+                integrated with the <strong> Photonic Engine </strong> increases
+                the quality through-out the imaging process thus delivering detail, better color
+                and texture in a photo.
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Adipisci amet commodi consequatur corporis deserunt earum error est,
                 exercitationem id incidunt iusto maiores quasi rem repellat sed,

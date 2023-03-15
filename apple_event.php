@@ -147,7 +147,7 @@
                 with ground-breaking safety capability features.
                 <br><br>
                 <strong>iPhone 14</strong> and <strong>iPhone 14 Plus</strong>
-                enhanced durability is powered by the Ceramic Shield cover, tougher
+                enhanced durability is powered by the <b>Ceramic Shield</b> cover, tougher
                 than any other smartphone.
                 This also protects it from common spills and accidental contact
                 with water. The phones are dust resistant with a new internal design for
@@ -171,10 +171,9 @@
                 integrated with the <strong> Photonic Engine </strong> increases
                 the quality through-out the imaging process thus delivering detail, better color
                 and texture in a photo.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
+                The 5-core GPU <strong>A15 Bionic</strong> chipset enables
+                smoother graphics and high performance gaming while maintaining
+                battery life and overall device performance.
             </p>
 
 
@@ -185,19 +184,19 @@
 
 
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
+                The <strong>Crash detection and emergency SOS via satellite</strong>
+                is an industry first groundbreaking safety feature with
+                the capability of providing emergency assistance when help is required.
+
                 <br><br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Adipisci amet commodi consequatur corporis deserunt earum error est,
-                exercitationem id incidunt iusto maiores quasi rem repellat sed,
-                temporibus, voluptates. Explicabo, qui.
+                <strong>iPhone 14</strong> and <strong>iPhone 14 Plus</strong> are
+                fitted with a new dual-core accelerometer capable of detecting G-force
+                measurement upto <strong>256Gs</strong> and a high dynamic range gyroscope.
+                These new features help detect accidents and automatically dial emergency response services
+                when users are unable to reach their devices.
+                <strong>Emergency SOS via satellite</strong> integrated with iOS
+                allows antennas to directly connect with satellite to enable messaging
+                with emergency responders when off the grid i.e. outside cellular or Wi-Fi coverage.
             </p>
         </div>
     </div>

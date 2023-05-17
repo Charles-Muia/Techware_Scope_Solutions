@@ -602,7 +602,7 @@
         background-position: center;
         color: #efefef!important;
         padding-top: 75px;
-        padding-bottom: 40px;
+        padding-bottom: 140px;
         margin-top: 55px;
         min-height: 100vh;
     }
@@ -728,6 +728,12 @@
         /*background-color: lightgrey;*/
     }
 
+    #our_clients .row {
+        align-items: center;
+        text-align: center;
+        display: block;
+    }
+
     hr {
         padding-bottom: 10px;
         padding-top: 0;
@@ -756,28 +762,35 @@
 
     .client-logo {
         margin-top: 25px;
-        margin-right: 25px;
+        display: inline-block;
+        /*margin-right: 5px;*/
+        margin-bottom: 25px;
         justify-content: space-between;
+        align-items: center;
+        text-align: center;
     }
 
     .client-logo .img-box {
         margin-top: 20px;
-        display: block;
+        /*display: block;*/
         position: relative;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
     }
 
     .client-logo .img-box img {
-        width: 200px;
+        width: 150px;
         /*border: 1px solid black;*/
-        margin-bottom: 20px;
+        margin-bottom: 10px;
         margin-top: 15px;
         text-align: center;
-        padding-bottom: 35px;
-        justify-content: space-between;
+        padding-bottom: 30px;
+        display: inline-block;
     }
 
     #lsc {
-        width: 180px;
+        width: 150px;
     }
 
 /*--------------------------------------Client Testimonials section CSS-------------------------------------*/

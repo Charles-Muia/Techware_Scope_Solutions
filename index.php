@@ -640,11 +640,11 @@
                     <h2> Our Clients </h2>
                         <div class="row">
 
-                            <div class="col-md-3 client-logo text-center">
-                                    <div class="img-box">
-                                        <img src="Photos" alt="" class="img-sec">
-                                    </div>
-                            </div>
+<!--                            <div class="col-md-3 client-logo text-center">-->
+<!--                                    <div class="img-box">-->
+<!--                                        <img src="Photos" alt="" class="img-sec">-->
+<!--                                    </div>-->
+<!--                            </div>-->
 
                             <div class="col-md-3 client-logo text-center">
                                 <div class="img-box">
@@ -659,11 +659,11 @@
                                 </div>
                             </div>
 
-<!--                            <div class="col-md-3 client-logo text-center">-->
-<!--                                <div class="img-box">-->
-<!--                                    <img src="Photos/Life_Savers_Club.jpg" alt="" class="img-sec">-->
-<!--                                </div>-->
-<!--                            </div>-->
+                            <div class="col-md-3 client-logo text-center">
+                                <div class="img-box">
+                                    <img src="Photos/FTM.jpg" alt="" class="img-sec">
+                                </div>
+                            </div>
 
 <!--                            <div class="col-md-3 client-logo text-center">-->
 <!--                                <div class="img-box">-->

@@ -22,7 +22,6 @@
 
 <!-------------------------------------------------Navigation section-------------------------------------------------->
 
-
               <section id="navigation">
                 <nav class="navbar navbar-expand-lg bg-light">
                     <div class="container-fluid">
@@ -67,7 +66,7 @@
                         </div>
                         <div class="carousel-inner">
                             <div class="carousel-item active" data-bs-interval="20000">
-                                <img src="Photos/Our_Services_4.png" class="d-block w-100" alt="...">
+                                <img src="Photos/Technology_1.jpg" class="d-block w-100" alt="...">
                                 <div class="carousel-caption d-none d-md-block">
 <!--                                    <h5>First slide label</h5>-->
 <!--                                    <p>Some representative placeholder content for the first slide.</p>-->
@@ -130,13 +129,14 @@
 <!--                    </button>-->
 <!--                </div>-->
 <!--            </div>-->
-<!------------------------------------------------------About section-------------------------------------------------->
 
+<!------------------------------------------------------About section-------------------------------------------------->
+        <main id="section-about">
             <section id="about_site">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6">
-                                    <h2> About Us</h2>
+                                    <h2>About Us</h2>
                                         <div class="about_stuff">
                                             <p>
                                             Our drive and wide exposure in ICT, Computing and Consultancy services is powered by passion.
@@ -175,6 +175,8 @@
                             </div>
                         </div>
             </section>
+
+        </main>
 
 <!-------------------------------------------------------Offering section---------------------------------------------->
 
@@ -361,7 +363,7 @@
                                                 your audience with extra value
                                                 while keeping you visible.
                                             </p>
-                                            <a href=""><i class="bi bi-link-45deg"></i></i></a>
+                                            <a href="https://www.facebook.com/AsumbiTC"><i class="bi bi-link-45deg"></i></i></a>
                                     </div>
                             </div>
                             <div class="port_inner">
@@ -373,7 +375,7 @@
                                                 surfaces relevant, authoritative pages and
                                                 provide users with an efficient search experience.
                                             </p>
-                                            <a href=""><i class="bi bi-link-45deg"></i></i></a>
+                                            <a href="#"><i class="bi bi-link-45deg"></i></i></a>
                                 </div>
                             </div>
                             <div class="port_inner">
@@ -386,7 +388,7 @@
                                                 marketing campaigns and group messaging
                                                 in schools or corporates.
                                             </p>
-                                            <a href=""><i class="bi bi-link-45deg"></i></i></a>
+                                            <a href="#"><i class="bi bi-link-45deg"></i></i></a>
                                 </div>
                             </div>
                         </div>
@@ -631,9 +633,7 @@
                         </div>
                 </section>
 
-
 <!--------------------------------------------------------Clients section---------------------------------------------->
-
 
                 <section id="our_clients">
                 <div class="container">
@@ -903,7 +903,7 @@
                                 // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
                                 $('html, body').animate({
                                     scrollTop: $(hash).offset().top
-                                }, 2500, function(){
+                                }, 3000, function(){
 
                                     // Add hash (#) to URL when done scrolling (default click behavior)
                                     window.location.hash = hash;

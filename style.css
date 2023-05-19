@@ -68,13 +68,19 @@
         font-weight: 500;
     }
 
+    #arouse_photos img {
+        height: 650px;
+        /*margin-top: 10px;*/
+        padding-top: 120px;
+        /*margin-bottom: 406px;*/
+    }
+
             /*About section CSS*/
 
     #about_site {
         padding-top: 120px;
         padding-bottom: 55px;
         color: #555555;
-        min-height: 50%;
     }
 
     #about_site h2 {
@@ -97,8 +103,8 @@
     }
 
     #about_site .btn {
-        margin-top: 40px;
-        margin-bottom: 25px;
+        margin-top: 50px;
+        margin-bottom: 30px;
     }
 
     .about_stuff {
@@ -140,12 +146,6 @@
         animation: 1s linear forwards;
     }
 
-    #arouse_photos img {
-        height: 500px;
-        /*margin-top: 10px;*/
-        padding-top: 100px;
-        /*margin-bottom: 40px;*/
-    }
 
     @media only screen and (max-width: 800px) {
         /*#arouse_photos img {*/
@@ -155,7 +155,7 @@
         }
         #about_site .btn {
             margin-top: 55px;
-            margin-bottom: 55px;
+            margin-bottom: 75px;
         }
         .para-bar p {
             margin-top: 35px;
@@ -204,7 +204,7 @@
     .row_serv_sec {
         display: flex;
         padding: 2px;
-        margin-top: 30px;
+        margin-top: 60px;
         margin-bottom: 0px;
     }
 
@@ -547,8 +547,10 @@
     #our_blog img {
         width: 325px;
         margin-bottom: 30px;
-        margin-left: 5px;
+        margin-left: auto;
+        margin-right: auto;
         border-radius: 5px;
+        display: block;
     }
 
     @media (max-width: 1000px) {
@@ -562,6 +564,7 @@
     #our_blog h5 {
         margin-bottom: 20px;
         font-size: 17px;
+        margin-left: 10px;
     }
 
     #our_blog h5 a {
@@ -573,7 +576,6 @@
     #our_blog h5 a:hover {
         color: blue;
     }
-
 
     #our_blog .blog_text {
         margin-bottom: 25px;
@@ -596,7 +598,6 @@
         font-size: 13px;
         color: darkblue;
     }
-
 
 /*--------------------------------------Our FAQs section CSS-------------------------------------*/
 
@@ -721,7 +722,13 @@
         #FAQs_sec h2::after {
             margin-bottom: 40px;
         }
+
+       .faq h5 {
+            font-size: 14px;
+            font-family: "Century Gothic";
+            font-weight: 600;
             }
+       }
 
 /*end*/
 

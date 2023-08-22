@@ -857,11 +857,11 @@
 
 <!-------------------------------------------JS script for Smooth Scroll----------------------------------------------->
 
-<script src="js/smooth-scroll.js"></script>
+        <script src="js/smooth-scroll.js"></script>
 
-<script>
-    var scroll = new SmoothScroll('a[href*="#"]');
-</script>
+        <script>
+            var scroll = new SmoothScroll('a[href*="#"]');
+        </script>
 
 <!--            <div class="foot_copy">-->
 <!--                <p>-->

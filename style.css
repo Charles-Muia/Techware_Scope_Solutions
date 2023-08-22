@@ -78,8 +78,8 @@
             /*About section CSS*/
 
     #about_site {
-        padding-top: 120px;
-        padding-bottom: 55px;
+        padding-top: 160px;
+        padding-bottom: 150px;
         color: #555555;
     }
 
@@ -174,7 +174,7 @@
         background-attachment: fixed;
         background-position: center;
         color: #efefef!important;
-        padding-top: 70px;
+        padding-top: 160px;
         padding-bottom: 65px;
     }
 

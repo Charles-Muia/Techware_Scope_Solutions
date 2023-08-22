@@ -81,6 +81,7 @@
         padding-top: 160px;
         padding-bottom: 150px;
         color: #555555;
+        min-height: 90vh;
     }
 
     #about_site h2 {

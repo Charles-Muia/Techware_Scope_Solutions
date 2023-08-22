@@ -274,8 +274,8 @@
 /*--------------------------------------Our Services section CSS-------------------------------------*/
 
     #our_services {
-       padding-top: 60px;
-       padding-bottom: 70px;
+       padding-top: 160px;
+       padding-bottom: 150px;
     }
 
     #services h2 {
@@ -284,7 +284,7 @@
         font-family: "Century Gothic";
         font-weight: 650;
         padding-top: 30px;
-        padding-bottom: 30px;
+        padding-bottom: 70px;
     }
 
     #services h2::after {
@@ -382,7 +382,7 @@
 /*--------------------------------------Our Portfolio section CSS-------------------------------------*/
 
     #port_sec {
-        padding-bottom: 100px;
+        padding-bottom: 160px;
         padding-top: 10px;
     }
 
@@ -391,8 +391,8 @@
         text-transform: uppercase;
         font-family: "Century Gothic";
         font-weight: 650;
-        padding-top: 5px;
-        padding-bottom: 30px;
+        padding-top: 0px;
+        padding-bottom: 70px;
     }
 
     #port_sec h2::after {
@@ -511,8 +511,8 @@
 /*--------------------------------------Our Blog section CSS-------------------------------------*/
 
     #our_blog {
-        padding-top: 75px;
-        padding-bottom: 70px;
+        padding-top: 150px;
+        padding-bottom: 140px;
     }
 
     #our_blog .col-md-4:hover{
@@ -527,7 +527,7 @@
         font-family: "Century Gothic";
         font-weight: 650;
         padding-top: 15px;
-        padding-bottom: 40px;
+        padding-bottom: 70px;
     }
 
     #our_blog h2::after {
@@ -607,7 +607,7 @@
         background-attachment: fixed;
         background-position: center;
         color: #efefef!important;
-        padding-top: 75px;
+        padding-top: 150px;
         padding-bottom: 140px;
         margin-top: 55px;
         min-height: 100vh;
@@ -915,7 +915,7 @@
 /*--------------------------------------Contact Us CSS-------------------------------------*/
 
         #cont_us {
-            padding-top: 70px;
+            padding-top: 150px;
             padding-bottom: 100px;
             width: 100%;
             display: flex;

@@ -426,7 +426,7 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="uno_blog">
-                                    <p class="blog_data"> By Admin <span> September 26, 2022</span></p>
+                                    <p class="blog_data"> By Admin <span> September 26, 2023</span></p>
                                     <img src="Photos/Windows11.png" alt="">
                                     <h5><a href="windows11_update.php">Windows 11 2022 Update Now Available</a></h5>
                                         <p class="blog_text">
@@ -441,7 +441,7 @@
                             </div>
                             <div class="col-md-4">
                                 <div class="uno_blog">
-                                    <p class="blog_data"> By Admin <span> September 23, 2022</span></p>
+                                    <p class="blog_data"> By Admin <span> September 23, 2023</span></p>
                                     <img src="Photos/best-4k-projector.jpg" alt="">
                                     <h5><a href="epson_projectors.php"> Epson Announces 6 New Projectors.</a></h5>
                                     <p class="blog_text">
@@ -457,7 +457,7 @@
                             </div>
                             <div class="col-md-4">
                                 <div class="uno_blog">
-                                    <p class="blog_data"> By Admin <span> October 3, 2022</span></p>
+                                    <p class="blog_data"> By Admin <span> October 3, 2023</span></p>
                                     <img src="Photos/Apple.jpg" alt="">
                                     <h5><a href="apple_event.php"> Apple Event iPhone 14 and iPhone 14 Plus </a></h5>
                                     <p class="blog_text">

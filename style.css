@@ -1222,6 +1222,8 @@
         .foot_cont .find_info li {
             display: flex;
             margin-bottom: 20px;
+            pointer-events: none;
+            cursor: pointer;
         }
 
         .foot_cont .find_info li span:nth-child(1) {

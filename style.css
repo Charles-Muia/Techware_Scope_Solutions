@@ -1232,9 +1232,8 @@
 
         .foot_cont .find_info li span:nth-child(1):hover {
             color: #000000;
-            cursor: pointer;
+            /*cursor: pointer;*/
         }
-
 
         .foot_cont .find_info li span {
                     font-weight: 650;
@@ -1296,7 +1295,6 @@
                 /*margin-right: 50px;*/
                 width: fit-content;
                 display: block;
-
             }
 
             .foot_links, .foot_cont, .lst_inks  {

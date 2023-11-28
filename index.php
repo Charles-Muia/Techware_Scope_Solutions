@@ -813,7 +813,7 @@
                                 <h5> Contact Us </h5>
                                 <ul class="find_info">
                                     <li>
-                                        <span> <i class="bi bi-geo-alt-fill"></i> </span>
+                                        <span><i class="bi bi-geo-alt-fill"></i> </span>
                                         <span> Ghana Street <br> Opposite Maguna Downtown (CBD)
                                         <br> Meru County </span>
                                     </li>

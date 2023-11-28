@@ -497,7 +497,7 @@
 
                                     <div class="answer">
                                         <p>
-                                            Higher processor series offers a higher level of performance, an i7 will outperform an i5. The Intel® Core™ processor family
+                                            The processor Higher processor series offers a higher level of performance, an i7 will outperform an i5. The Intel® Core™ processor family
                                             consists of i3, i5, i7, i9 and x-series. A solid state Drive (SSD) is reliable and faster compared to Hard Disk Drives (HDD).
                                             SSDs are energy efficient, robust and small-in-size. 8GB RAM is sufficient for productivity. Ability
                                             to increase RAM is a key feature. For laptops, screen resolution, ports like HDMI, USB, VGA, card reader are essential.
